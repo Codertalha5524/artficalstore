@@ -1,9 +1,9 @@
 vscode|https://update.code.visualstudio.com/latest/linux-deb-arm64/stable
 vscode armhf|https://update.code.visualstudio.com/latest/linux-deb-armhf/stable
-vscode for RedHat|https://update.code.visualstudio.com/latest/linux-rpm-arm64/stable
-vscode for RedHat|https://update.code.visualstudio.com/latest/linux-rpm-armhf/stable
+vscode for RedHat|https://update.code.visualstudio.com/latest/linux-rpm-arm64/stable| -r
+vscode for RedHat|https://update.code.visualstudio.com/latest/linux-rpm-armhf/stable| -r
 firefox|https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US
 Balena Etcher|https://github.com/Itai-Nelken/BalenaEtcher-arm/releases/download/v1.7.9/balena-etcher-electron_1.7.9+5945ab1f_arm64.deb
 Balena Etcher armhf|https://github.com/Itai-Nelken/BalenaEtcher-arm/releases/download/v1.7.9/balena-etcher-electron_1.7.9+5945ab1f_armv7l.deb
-Balena Etcher for RedHat|https://github.com/Itai-Nelken/BalenaEtcher-arm/releases/download/v1.7.9/balena-etcher-electron-1.7.9+5945ab1f.aarch64.rpm
-Balena Etcher for RedHat armhf|https://github.com/Itai-Nelken/BalenaEtcher-arm/releases/download/v1.7.9/balena-etcher-electron-1.7.9+5945ab1f.armv7l.rpm
+Balena Etcher for RedHat|https://github.com/Itai-Nelken/BalenaEtcher-arm/releases/download/v1.7.9/balena-etcher-electron-1.7.9+5945ab1f.aarch64.rpm| -r
+Balena Etcher for RedHat armhf|https://github.com/Itai-Nelken/BalenaEtcher-arm/releases/download/v1.7.9/balena-etcher-electron-1.7.9+5945ab1f.armv7l.rpm -r
