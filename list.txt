@@ -1,2 +1,3 @@
 vscode|https://update.code.visualstudio.com/latest/linux-deb-arm64/stable
+vscode armhf|https://update.code.visualstudio.com/latest/linux-deb-armhf/stable
 firefox|https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US
