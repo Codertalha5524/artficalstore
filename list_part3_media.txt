@@ -1,0 +1,63 @@
+
+# Artfical Store - Part 3: Media, Graphics, Audio, Video (ARM + x86, DEB/RPM/Command)
+
+vlc|sudo apt install -y vlc|-c
+vlc for RedHat|sudo dnf install -y vlc|-r|-c
+mpv|sudo apt install -y mpv|-c
+mpv for RedHat|sudo dnf install -y mpv|-r|-c
+ffmpeg|sudo apt install -y ffmpeg|-c
+ffmpeg for RedHat|sudo dnf install -y ffmpeg|-r|-c
+gimp|sudo apt install -y gimp|-c
+gimp for RedHat|sudo dnf install -y gimp|-r|-c
+inkscape|sudo apt install -y inkscape|-c
+inkscape for RedHat|sudo dnf install -y inkscape|-r|-c
+krita|sudo apt install -y krita|-c
+krita for RedHat|sudo dnf install -y krita|-r|-c
+blender|sudo apt install -y blender|-c
+blender for RedHat|sudo dnf install -y blender|-r|-c
+audacity|sudo apt install -y audacity|-c
+audacity for RedHat|sudo dnf install -y audacity|-r|-c
+obs studio|sudo apt install -y obs-studio|-c
+obs studio for RedHat|sudo dnf install -y obs-studio|-r|-c
+kdenlive|sudo apt install -y kdenlive|-c
+kdenlive for RedHat|sudo dnf install -y kdenlive|-r|-c
+openshot|sudo apt install -y openshot|-c
+openshot for RedHat|sudo dnf install -y openshot|-r|-c
+handbrake|sudo apt install -y handbrake|-c
+handbrake for RedHat|sudo dnf install -y handbrake|-r|-c
+darktable|sudo apt install -y darktable|-c
+darktable for RedHat|sudo dnf install -y darktable|-r|-c
+shotcut|sudo apt install -y shotcut|-c
+shotcut for RedHat|sudo dnf install -y shotcut|-r|-c
+cheese|sudo apt install -y cheese|-c
+cheese for RedHat|sudo dnf install -y cheese|-r|-c
+easytag|sudo apt install -y easytag|-c
+easytag for RedHat|sudo dnf install -y easytag|-r|-c
+pitivi|sudo apt install -y pitivi|-c
+pitivi for RedHat|sudo dnf install -y pitivi|-r|-c
+rhythmbox|sudo apt install -y rhythmbox|-c
+rhythmbox for RedHat|sudo dnf install -y rhythmbox|-r|-c
+clementine|sudo apt install -y clementine|-c
+clementine for RedHat|sudo dnf install -y clementine|-r|-c
+lmms|sudo apt install -y lmms|-c
+lmms for RedHat|sudo dnf install -y lmms|-r|-c
+ardour|sudo apt install -y ardour|-c
+ardour for RedHat|sudo dnf install -y ardour|-r|-c
+mixxx|sudo apt install -y mixxx|-c
+mixxx for RedHat|sudo dnf install -y mixxx|-r|-c
+sox|sudo apt install -y sox|-c
+sox for RedHat|sudo dnf install -y sox|-r|-c
+imagemagick|sudo apt install -y imagemagick|-c
+imagemagick for RedHat|sudo dnf install -y imagemagick|-r|-c
+graphicsmagick|sudo apt install -y graphicsmagick|-c
+graphicsmagick for RedHat|sudo dnf install -y graphicsmagick|-r|-c
+flameshot|sudo apt install -y flameshot|-c
+flameshot for RedHat|sudo dnf install -y flameshot|-r|-c
+peek gif recorder|sudo apt install -y peek|-c
+peek gif recorder for RedHat|sudo dnf install -y peek|-r|-c
+soundconverter|sudo apt install -y soundconverter|-c
+soundconverter for RedHat|sudo dnf install -y soundconverter|-r|-c
+brasero|sudo apt install -y brasero|-c
+brasero for RedHat|sudo dnf install -y brasero|-r|-c
+simple screen recorder|sudo apt install -y simplescreenrecorder|-c
+simple screen recorder for RedHat|sudo dnf install -y simplescreenrecorder|-r|-c

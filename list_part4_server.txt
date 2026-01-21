@@ -1,0 +1,1000 @@
+nginx|sudo apt install nginx -y|-d|-arm|-c
+nginx x64|sudo apt install nginx -y|-d|-pc|-c
+nginx RedHat|sudo dnf install nginx -y|-r|-arm|-c
+nginx RedHat x64|sudo dnf install nginx -y|-r|-pc|-c
+apache2|sudo apt install apache2 -y|-d|-arm|-c
+apache2 x64|sudo apt install apache2 -y|-d|-pc|-c
+apache2 RedHat|sudo dnf install apache2 -y|-r|-arm|-c
+apache2 RedHat x64|sudo dnf install apache2 -y|-r|-pc|-c
+httpd|sudo apt install httpd -y|-d|-arm|-c
+httpd x64|sudo apt install httpd -y|-d|-pc|-c
+httpd RedHat|sudo dnf install httpd -y|-r|-arm|-c
+httpd RedHat x64|sudo dnf install httpd -y|-r|-pc|-c
+lighttpd|sudo apt install lighttpd -y|-d|-arm|-c
+lighttpd x64|sudo apt install lighttpd -y|-d|-pc|-c
+lighttpd RedHat|sudo dnf install lighttpd -y|-r|-arm|-c
+lighttpd RedHat x64|sudo dnf install lighttpd -y|-r|-pc|-c
+caddy|sudo apt install caddy -y|-d|-arm|-c
+caddy x64|sudo apt install caddy -y|-d|-pc|-c
+caddy RedHat|sudo dnf install caddy -y|-r|-arm|-c
+caddy RedHat x64|sudo dnf install caddy -y|-r|-pc|-c
+haproxy|sudo apt install haproxy -y|-d|-arm|-c
+haproxy x64|sudo apt install haproxy -y|-d|-pc|-c
+haproxy RedHat|sudo dnf install haproxy -y|-r|-arm|-c
+haproxy RedHat x64|sudo dnf install haproxy -y|-r|-pc|-c
+varnish|sudo apt install varnish -y|-d|-arm|-c
+varnish x64|sudo apt install varnish -y|-d|-pc|-c
+varnish RedHat|sudo dnf install varnish -y|-r|-arm|-c
+varnish RedHat x64|sudo dnf install varnish -y|-r|-pc|-c
+squid|sudo apt install squid -y|-d|-arm|-c
+squid x64|sudo apt install squid -y|-d|-pc|-c
+squid RedHat|sudo dnf install squid -y|-r|-arm|-c
+squid RedHat x64|sudo dnf install squid -y|-r|-pc|-c
+mysql-server|sudo apt install mysql-server -y|-d|-arm|-c
+mysql-server x64|sudo apt install mysql-server -y|-d|-pc|-c
+mysql-server RedHat|sudo dnf install mysql-server -y|-r|-arm|-c
+mysql-server RedHat x64|sudo dnf install mysql-server -y|-r|-pc|-c
+mariadb-server|sudo apt install mariadb-server -y|-d|-arm|-c
+mariadb-server x64|sudo apt install mariadb-server -y|-d|-pc|-c
+mariadb-server RedHat|sudo dnf install mariadb-server -y|-r|-arm|-c
+mariadb-server RedHat x64|sudo dnf install mariadb-server -y|-r|-pc|-c
+postgresql|sudo apt install postgresql -y|-d|-arm|-c
+postgresql x64|sudo apt install postgresql -y|-d|-pc|-c
+postgresql RedHat|sudo dnf install postgresql -y|-r|-arm|-c
+postgresql RedHat x64|sudo dnf install postgresql -y|-r|-pc|-c
+postgresql-server|sudo apt install postgresql-server -y|-d|-arm|-c
+postgresql-server x64|sudo apt install postgresql-server -y|-d|-pc|-c
+postgresql-server RedHat|sudo dnf install postgresql-server -y|-r|-arm|-c
+postgresql-server RedHat x64|sudo dnf install postgresql-server -y|-r|-pc|-c
+redis|sudo apt install redis -y|-d|-arm|-c
+redis x64|sudo apt install redis -y|-d|-pc|-c
+redis RedHat|sudo dnf install redis -y|-r|-arm|-c
+redis RedHat x64|sudo dnf install redis -y|-r|-pc|-c
+memcached|sudo apt install memcached -y|-d|-arm|-c
+memcached x64|sudo apt install memcached -y|-d|-pc|-c
+memcached RedHat|sudo dnf install memcached -y|-r|-arm|-c
+memcached RedHat x64|sudo dnf install memcached -y|-r|-pc|-c
+mongodb|sudo apt install mongodb -y|-d|-arm|-c
+mongodb x64|sudo apt install mongodb -y|-d|-pc|-c
+mongodb RedHat|sudo dnf install mongodb -y|-r|-arm|-c
+mongodb RedHat x64|sudo dnf install mongodb -y|-r|-pc|-c
+mongodb-server|sudo apt install mongodb-server -y|-d|-arm|-c
+mongodb-server x64|sudo apt install mongodb-server -y|-d|-pc|-c
+mongodb-server RedHat|sudo dnf install mongodb-server -y|-r|-arm|-c
+mongodb-server RedHat x64|sudo dnf install mongodb-server -y|-r|-pc|-c
+etcd|sudo apt install etcd -y|-d|-arm|-c
+etcd x64|sudo apt install etcd -y|-d|-pc|-c
+etcd RedHat|sudo dnf install etcd -y|-r|-arm|-c
+etcd RedHat x64|sudo dnf install etcd -y|-r|-pc|-c
+consul|sudo apt install consul -y|-d|-arm|-c
+consul x64|sudo apt install consul -y|-d|-pc|-c
+consul RedHat|sudo dnf install consul -y|-r|-arm|-c
+consul RedHat x64|sudo dnf install consul -y|-r|-pc|-c
+vault|sudo apt install vault -y|-d|-arm|-c
+vault x64|sudo apt install vault -y|-d|-pc|-c
+vault RedHat|sudo dnf install vault -y|-r|-arm|-c
+vault RedHat x64|sudo dnf install vault -y|-r|-pc|-c
+zookeeper|sudo apt install zookeeper -y|-d|-arm|-c
+zookeeper x64|sudo apt install zookeeper -y|-d|-pc|-c
+zookeeper RedHat|sudo dnf install zookeeper -y|-r|-arm|-c
+zookeeper RedHat x64|sudo dnf install zookeeper -y|-r|-pc|-c
+kafka|sudo apt install kafka -y|-d|-arm|-c
+kafka x64|sudo apt install kafka -y|-d|-pc|-c
+kafka RedHat|sudo dnf install kafka -y|-r|-arm|-c
+kafka RedHat x64|sudo dnf install kafka -y|-r|-pc|-c
+rabbitmq-server|sudo apt install rabbitmq-server -y|-d|-arm|-c
+rabbitmq-server x64|sudo apt install rabbitmq-server -y|-d|-pc|-c
+rabbitmq-server RedHat|sudo dnf install rabbitmq-server -y|-r|-arm|-c
+rabbitmq-server RedHat x64|sudo dnf install rabbitmq-server -y|-r|-pc|-c
+mosquitto|sudo apt install mosquitto -y|-d|-arm|-c
+mosquitto x64|sudo apt install mosquitto -y|-d|-pc|-c
+mosquitto RedHat|sudo dnf install mosquitto -y|-r|-arm|-c
+mosquitto RedHat x64|sudo dnf install mosquitto -y|-r|-pc|-c
+openssh-server|sudo apt install openssh-server -y|-d|-arm|-c
+openssh-server x64|sudo apt install openssh-server -y|-d|-pc|-c
+openssh-server RedHat|sudo dnf install openssh-server -y|-r|-arm|-c
+openssh-server RedHat x64|sudo dnf install openssh-server -y|-r|-pc|-c
+fail2ban|sudo apt install fail2ban -y|-d|-arm|-c
+fail2ban x64|sudo apt install fail2ban -y|-d|-pc|-c
+fail2ban RedHat|sudo dnf install fail2ban -y|-r|-arm|-c
+fail2ban RedHat x64|sudo dnf install fail2ban -y|-r|-pc|-c
+ufw|sudo apt install ufw -y|-d|-arm|-c
+ufw x64|sudo apt install ufw -y|-d|-pc|-c
+ufw RedHat|sudo dnf install ufw -y|-r|-arm|-c
+ufw RedHat x64|sudo dnf install ufw -y|-r|-pc|-c
+firewalld|sudo apt install firewalld -y|-d|-arm|-c
+firewalld x64|sudo apt install firewalld -y|-d|-pc|-c
+firewalld RedHat|sudo dnf install firewalld -y|-r|-arm|-c
+firewalld RedHat x64|sudo dnf install firewalld -y|-r|-pc|-c
+iptables|sudo apt install iptables -y|-d|-arm|-c
+iptables x64|sudo apt install iptables -y|-d|-pc|-c
+iptables RedHat|sudo dnf install iptables -y|-r|-arm|-c
+iptables RedHat x64|sudo dnf install iptables -y|-r|-pc|-c
+nftables|sudo apt install nftables -y|-d|-arm|-c
+nftables x64|sudo apt install nftables -y|-d|-pc|-c
+nftables RedHat|sudo dnf install nftables -y|-r|-arm|-c
+nftables RedHat x64|sudo dnf install nftables -y|-r|-pc|-c
+cockpit|sudo apt install cockpit -y|-d|-arm|-c
+cockpit x64|sudo apt install cockpit -y|-d|-pc|-c
+cockpit RedHat|sudo dnf install cockpit -y|-r|-arm|-c
+cockpit RedHat x64|sudo dnf install cockpit -y|-r|-pc|-c
+webmin|sudo apt install webmin -y|-d|-arm|-c
+webmin x64|sudo apt install webmin -y|-d|-pc|-c
+webmin RedHat|sudo dnf install webmin -y|-r|-arm|-c
+webmin RedHat x64|sudo dnf install webmin -y|-r|-pc|-c
+prometheus|sudo apt install prometheus -y|-d|-arm|-c
+prometheus x64|sudo apt install prometheus -y|-d|-pc|-c
+prometheus RedHat|sudo dnf install prometheus -y|-r|-arm|-c
+prometheus RedHat x64|sudo dnf install prometheus -y|-r|-pc|-c
+node-exporter|sudo apt install node-exporter -y|-d|-arm|-c
+node-exporter x64|sudo apt install node-exporter -y|-d|-pc|-c
+node-exporter RedHat|sudo dnf install node-exporter -y|-r|-arm|-c
+node-exporter RedHat x64|sudo dnf install node-exporter -y|-r|-pc|-c
+grafana|sudo apt install grafana -y|-d|-arm|-c
+grafana x64|sudo apt install grafana -y|-d|-pc|-c
+grafana RedHat|sudo dnf install grafana -y|-r|-arm|-c
+grafana RedHat x64|sudo dnf install grafana -y|-r|-pc|-c
+telegraf|sudo apt install telegraf -y|-d|-arm|-c
+telegraf x64|sudo apt install telegraf -y|-d|-pc|-c
+telegraf RedHat|sudo dnf install telegraf -y|-r|-arm|-c
+telegraf RedHat x64|sudo dnf install telegraf -y|-r|-pc|-c
+influxdb|sudo apt install influxdb -y|-d|-arm|-c
+influxdb x64|sudo apt install influxdb -y|-d|-pc|-c
+influxdb RedHat|sudo dnf install influxdb -y|-r|-arm|-c
+influxdb RedHat x64|sudo dnf install influxdb -y|-r|-pc|-c
+chrony|sudo apt install chrony -y|-d|-arm|-c
+chrony x64|sudo apt install chrony -y|-d|-pc|-c
+chrony RedHat|sudo dnf install chrony -y|-r|-arm|-c
+chrony RedHat x64|sudo dnf install chrony -y|-r|-pc|-c
+ntp|sudo apt install ntp -y|-d|-arm|-c
+ntp x64|sudo apt install ntp -y|-d|-pc|-c
+ntp RedHat|sudo dnf install ntp -y|-r|-arm|-c
+ntp RedHat x64|sudo dnf install ntp -y|-r|-pc|-c
+rsyslog|sudo apt install rsyslog -y|-d|-arm|-c
+rsyslog x64|sudo apt install rsyslog -y|-d|-pc|-c
+rsyslog RedHat|sudo dnf install rsyslog -y|-r|-arm|-c
+rsyslog RedHat x64|sudo dnf install rsyslog -y|-r|-pc|-c
+logrotate|sudo apt install logrotate -y|-d|-arm|-c
+logrotate x64|sudo apt install logrotate -y|-d|-pc|-c
+logrotate RedHat|sudo dnf install logrotate -y|-r|-arm|-c
+logrotate RedHat x64|sudo dnf install logrotate -y|-r|-pc|-c
+auditd|sudo apt install auditd -y|-d|-arm|-c
+auditd x64|sudo apt install auditd -y|-d|-pc|-c
+auditd RedHat|sudo dnf install auditd -y|-r|-arm|-c
+auditd RedHat x64|sudo dnf install auditd -y|-r|-pc|-c
+selinux-policy|sudo apt install selinux-policy -y|-d|-arm|-c
+selinux-policy x64|sudo apt install selinux-policy -y|-d|-pc|-c
+selinux-policy RedHat|sudo dnf install selinux-policy -y|-r|-arm|-c
+selinux-policy RedHat x64|sudo dnf install selinux-policy -y|-r|-pc|-c
+apparmor|sudo apt install apparmor -y|-d|-arm|-c
+apparmor x64|sudo apt install apparmor -y|-d|-pc|-c
+apparmor RedHat|sudo dnf install apparmor -y|-r|-arm|-c
+apparmor RedHat x64|sudo dnf install apparmor -y|-r|-pc|-c
+snort|sudo apt install snort -y|-d|-arm|-c
+snort x64|sudo apt install snort -y|-d|-pc|-c
+snort RedHat|sudo dnf install snort -y|-r|-arm|-c
+snort RedHat x64|sudo dnf install snort -y|-r|-pc|-c
+suricata|sudo apt install suricata -y|-d|-arm|-c
+suricata x64|sudo apt install suricata -y|-d|-pc|-c
+suricata RedHat|sudo dnf install suricata -y|-r|-arm|-c
+suricata RedHat x64|sudo dnf install suricata -y|-r|-pc|-c
+clamav|sudo apt install clamav -y|-d|-arm|-c
+clamav x64|sudo apt install clamav -y|-d|-pc|-c
+clamav RedHat|sudo dnf install clamav -y|-r|-arm|-c
+clamav RedHat x64|sudo dnf install clamav -y|-r|-pc|-c
+clamav-daemon|sudo apt install clamav-daemon -y|-d|-arm|-c
+clamav-daemon x64|sudo apt install clamav-daemon -y|-d|-pc|-c
+clamav-daemon RedHat|sudo dnf install clamav-daemon -y|-r|-arm|-c
+clamav-daemon RedHat x64|sudo dnf install clamav-daemon -y|-r|-pc|-c
+rkhunter|sudo apt install rkhunter -y|-d|-arm|-c
+rkhunter x64|sudo apt install rkhunter -y|-d|-pc|-c
+rkhunter RedHat|sudo dnf install rkhunter -y|-r|-arm|-c
+rkhunter RedHat x64|sudo dnf install rkhunter -y|-r|-pc|-c
+chkrootkit|sudo apt install chkrootkit -y|-d|-arm|-c
+chkrootkit x64|sudo apt install chkrootkit -y|-d|-pc|-c
+chkrootkit RedHat|sudo dnf install chkrootkit -y|-r|-arm|-c
+chkrootkit RedHat x64|sudo dnf install chkrootkit -y|-r|-pc|-c
+tcpdump|sudo apt install tcpdump -y|-d|-arm|-c
+tcpdump x64|sudo apt install tcpdump -y|-d|-pc|-c
+tcpdump RedHat|sudo dnf install tcpdump -y|-r|-arm|-c
+tcpdump RedHat x64|sudo dnf install tcpdump -y|-r|-pc|-c
+wireshark|sudo apt install wireshark -y|-d|-arm|-c
+wireshark x64|sudo apt install wireshark -y|-d|-pc|-c
+wireshark RedHat|sudo dnf install wireshark -y|-r|-arm|-c
+wireshark RedHat x64|sudo dnf install wireshark -y|-r|-pc|-c
+nmap|sudo apt install nmap -y|-d|-arm|-c
+nmap x64|sudo apt install nmap -y|-d|-pc|-c
+nmap RedHat|sudo dnf install nmap -y|-r|-arm|-c
+nmap RedHat x64|sudo dnf install nmap -y|-r|-pc|-c
+netcat|sudo apt install netcat -y|-d|-arm|-c
+netcat x64|sudo apt install netcat -y|-d|-pc|-c
+netcat RedHat|sudo dnf install netcat -y|-r|-arm|-c
+netcat RedHat x64|sudo dnf install netcat -y|-r|-pc|-c
+iperf3|sudo apt install iperf3 -y|-d|-arm|-c
+iperf3 x64|sudo apt install iperf3 -y|-d|-pc|-c
+iperf3 RedHat|sudo dnf install iperf3 -y|-r|-arm|-c
+iperf3 RedHat x64|sudo dnf install iperf3 -y|-r|-pc|-c
+whois|sudo apt install whois -y|-d|-arm|-c
+whois x64|sudo apt install whois -y|-d|-pc|-c
+whois RedHat|sudo dnf install whois -y|-r|-arm|-c
+whois RedHat x64|sudo dnf install whois -y|-r|-pc|-c
+bind9|sudo apt install bind9 -y|-d|-arm|-c
+bind9 x64|sudo apt install bind9 -y|-d|-pc|-c
+bind9 RedHat|sudo dnf install bind9 -y|-r|-arm|-c
+bind9 RedHat x64|sudo dnf install bind9 -y|-r|-pc|-c
+dnsmasq|sudo apt install dnsmasq -y|-d|-arm|-c
+dnsmasq x64|sudo apt install dnsmasq -y|-d|-pc|-c
+dnsmasq RedHat|sudo dnf install dnsmasq -y|-r|-arm|-c
+dnsmasq RedHat x64|sudo dnf install dnsmasq -y|-r|-pc|-c
+nginx-extra1|sudo apt install nginx -y|-d|-arm|-c
+nginx-extra1 x64|sudo apt install nginx -y|-d|-pc|-c
+nginx-extra1 RedHat|sudo dnf install nginx -y|-r|-arm|-c
+nginx-extra1 RedHat x64|sudo dnf install nginx -y|-r|-pc|-c
+apache2-extra1|sudo apt install apache2 -y|-d|-arm|-c
+apache2-extra1 x64|sudo apt install apache2 -y|-d|-pc|-c
+apache2-extra1 RedHat|sudo dnf install apache2 -y|-r|-arm|-c
+apache2-extra1 RedHat x64|sudo dnf install apache2 -y|-r|-pc|-c
+httpd-extra1|sudo apt install httpd -y|-d|-arm|-c
+httpd-extra1 x64|sudo apt install httpd -y|-d|-pc|-c
+httpd-extra1 RedHat|sudo dnf install httpd -y|-r|-arm|-c
+httpd-extra1 RedHat x64|sudo dnf install httpd -y|-r|-pc|-c
+lighttpd-extra1|sudo apt install lighttpd -y|-d|-arm|-c
+lighttpd-extra1 x64|sudo apt install lighttpd -y|-d|-pc|-c
+lighttpd-extra1 RedHat|sudo dnf install lighttpd -y|-r|-arm|-c
+lighttpd-extra1 RedHat x64|sudo dnf install lighttpd -y|-r|-pc|-c
+caddy-extra1|sudo apt install caddy -y|-d|-arm|-c
+caddy-extra1 x64|sudo apt install caddy -y|-d|-pc|-c
+caddy-extra1 RedHat|sudo dnf install caddy -y|-r|-arm|-c
+caddy-extra1 RedHat x64|sudo dnf install caddy -y|-r|-pc|-c
+haproxy-extra1|sudo apt install haproxy -y|-d|-arm|-c
+haproxy-extra1 x64|sudo apt install haproxy -y|-d|-pc|-c
+haproxy-extra1 RedHat|sudo dnf install haproxy -y|-r|-arm|-c
+haproxy-extra1 RedHat x64|sudo dnf install haproxy -y|-r|-pc|-c
+varnish-extra1|sudo apt install varnish -y|-d|-arm|-c
+varnish-extra1 x64|sudo apt install varnish -y|-d|-pc|-c
+varnish-extra1 RedHat|sudo dnf install varnish -y|-r|-arm|-c
+varnish-extra1 RedHat x64|sudo dnf install varnish -y|-r|-pc|-c
+squid-extra1|sudo apt install squid -y|-d|-arm|-c
+squid-extra1 x64|sudo apt install squid -y|-d|-pc|-c
+squid-extra1 RedHat|sudo dnf install squid -y|-r|-arm|-c
+squid-extra1 RedHat x64|sudo dnf install squid -y|-r|-pc|-c
+mysql-server-extra1|sudo apt install mysql-server -y|-d|-arm|-c
+mysql-server-extra1 x64|sudo apt install mysql-server -y|-d|-pc|-c
+mysql-server-extra1 RedHat|sudo dnf install mysql-server -y|-r|-arm|-c
+mysql-server-extra1 RedHat x64|sudo dnf install mysql-server -y|-r|-pc|-c
+mariadb-server-extra1|sudo apt install mariadb-server -y|-d|-arm|-c
+mariadb-server-extra1 x64|sudo apt install mariadb-server -y|-d|-pc|-c
+mariadb-server-extra1 RedHat|sudo dnf install mariadb-server -y|-r|-arm|-c
+mariadb-server-extra1 RedHat x64|sudo dnf install mariadb-server -y|-r|-pc|-c
+postgresql-extra1|sudo apt install postgresql -y|-d|-arm|-c
+postgresql-extra1 x64|sudo apt install postgresql -y|-d|-pc|-c
+postgresql-extra1 RedHat|sudo dnf install postgresql -y|-r|-arm|-c
+postgresql-extra1 RedHat x64|sudo dnf install postgresql -y|-r|-pc|-c
+postgresql-server-extra1|sudo apt install postgresql-server -y|-d|-arm|-c
+postgresql-server-extra1 x64|sudo apt install postgresql-server -y|-d|-pc|-c
+postgresql-server-extra1 RedHat|sudo dnf install postgresql-server -y|-r|-arm|-c
+postgresql-server-extra1 RedHat x64|sudo dnf install postgresql-server -y|-r|-pc|-c
+redis-extra1|sudo apt install redis -y|-d|-arm|-c
+redis-extra1 x64|sudo apt install redis -y|-d|-pc|-c
+redis-extra1 RedHat|sudo dnf install redis -y|-r|-arm|-c
+redis-extra1 RedHat x64|sudo dnf install redis -y|-r|-pc|-c
+memcached-extra1|sudo apt install memcached -y|-d|-arm|-c
+memcached-extra1 x64|sudo apt install memcached -y|-d|-pc|-c
+memcached-extra1 RedHat|sudo dnf install memcached -y|-r|-arm|-c
+memcached-extra1 RedHat x64|sudo dnf install memcached -y|-r|-pc|-c
+mongodb-extra1|sudo apt install mongodb -y|-d|-arm|-c
+mongodb-extra1 x64|sudo apt install mongodb -y|-d|-pc|-c
+mongodb-extra1 RedHat|sudo dnf install mongodb -y|-r|-arm|-c
+mongodb-extra1 RedHat x64|sudo dnf install mongodb -y|-r|-pc|-c
+mongodb-server-extra1|sudo apt install mongodb-server -y|-d|-arm|-c
+mongodb-server-extra1 x64|sudo apt install mongodb-server -y|-d|-pc|-c
+mongodb-server-extra1 RedHat|sudo dnf install mongodb-server -y|-r|-arm|-c
+mongodb-server-extra1 RedHat x64|sudo dnf install mongodb-server -y|-r|-pc|-c
+etcd-extra1|sudo apt install etcd -y|-d|-arm|-c
+etcd-extra1 x64|sudo apt install etcd -y|-d|-pc|-c
+etcd-extra1 RedHat|sudo dnf install etcd -y|-r|-arm|-c
+etcd-extra1 RedHat x64|sudo dnf install etcd -y|-r|-pc|-c
+consul-extra1|sudo apt install consul -y|-d|-arm|-c
+consul-extra1 x64|sudo apt install consul -y|-d|-pc|-c
+consul-extra1 RedHat|sudo dnf install consul -y|-r|-arm|-c
+consul-extra1 RedHat x64|sudo dnf install consul -y|-r|-pc|-c
+vault-extra1|sudo apt install vault -y|-d|-arm|-c
+vault-extra1 x64|sudo apt install vault -y|-d|-pc|-c
+vault-extra1 RedHat|sudo dnf install vault -y|-r|-arm|-c
+vault-extra1 RedHat x64|sudo dnf install vault -y|-r|-pc|-c
+zookeeper-extra1|sudo apt install zookeeper -y|-d|-arm|-c
+zookeeper-extra1 x64|sudo apt install zookeeper -y|-d|-pc|-c
+zookeeper-extra1 RedHat|sudo dnf install zookeeper -y|-r|-arm|-c
+zookeeper-extra1 RedHat x64|sudo dnf install zookeeper -y|-r|-pc|-c
+kafka-extra1|sudo apt install kafka -y|-d|-arm|-c
+kafka-extra1 x64|sudo apt install kafka -y|-d|-pc|-c
+kafka-extra1 RedHat|sudo dnf install kafka -y|-r|-arm|-c
+kafka-extra1 RedHat x64|sudo dnf install kafka -y|-r|-pc|-c
+rabbitmq-server-extra1|sudo apt install rabbitmq-server -y|-d|-arm|-c
+rabbitmq-server-extra1 x64|sudo apt install rabbitmq-server -y|-d|-pc|-c
+rabbitmq-server-extra1 RedHat|sudo dnf install rabbitmq-server -y|-r|-arm|-c
+rabbitmq-server-extra1 RedHat x64|sudo dnf install rabbitmq-server -y|-r|-pc|-c
+mosquitto-extra1|sudo apt install mosquitto -y|-d|-arm|-c
+mosquitto-extra1 x64|sudo apt install mosquitto -y|-d|-pc|-c
+mosquitto-extra1 RedHat|sudo dnf install mosquitto -y|-r|-arm|-c
+mosquitto-extra1 RedHat x64|sudo dnf install mosquitto -y|-r|-pc|-c
+openssh-server-extra1|sudo apt install openssh-server -y|-d|-arm|-c
+openssh-server-extra1 x64|sudo apt install openssh-server -y|-d|-pc|-c
+openssh-server-extra1 RedHat|sudo dnf install openssh-server -y|-r|-arm|-c
+openssh-server-extra1 RedHat x64|sudo dnf install openssh-server -y|-r|-pc|-c
+fail2ban-extra1|sudo apt install fail2ban -y|-d|-arm|-c
+fail2ban-extra1 x64|sudo apt install fail2ban -y|-d|-pc|-c
+fail2ban-extra1 RedHat|sudo dnf install fail2ban -y|-r|-arm|-c
+fail2ban-extra1 RedHat x64|sudo dnf install fail2ban -y|-r|-pc|-c
+ufw-extra1|sudo apt install ufw -y|-d|-arm|-c
+ufw-extra1 x64|sudo apt install ufw -y|-d|-pc|-c
+ufw-extra1 RedHat|sudo dnf install ufw -y|-r|-arm|-c
+ufw-extra1 RedHat x64|sudo dnf install ufw -y|-r|-pc|-c
+firewalld-extra1|sudo apt install firewalld -y|-d|-arm|-c
+firewalld-extra1 x64|sudo apt install firewalld -y|-d|-pc|-c
+firewalld-extra1 RedHat|sudo dnf install firewalld -y|-r|-arm|-c
+firewalld-extra1 RedHat x64|sudo dnf install firewalld -y|-r|-pc|-c
+iptables-extra1|sudo apt install iptables -y|-d|-arm|-c
+iptables-extra1 x64|sudo apt install iptables -y|-d|-pc|-c
+iptables-extra1 RedHat|sudo dnf install iptables -y|-r|-arm|-c
+iptables-extra1 RedHat x64|sudo dnf install iptables -y|-r|-pc|-c
+nftables-extra1|sudo apt install nftables -y|-d|-arm|-c
+nftables-extra1 x64|sudo apt install nftables -y|-d|-pc|-c
+nftables-extra1 RedHat|sudo dnf install nftables -y|-r|-arm|-c
+nftables-extra1 RedHat x64|sudo dnf install nftables -y|-r|-pc|-c
+cockpit-extra1|sudo apt install cockpit -y|-d|-arm|-c
+cockpit-extra1 x64|sudo apt install cockpit -y|-d|-pc|-c
+cockpit-extra1 RedHat|sudo dnf install cockpit -y|-r|-arm|-c
+cockpit-extra1 RedHat x64|sudo dnf install cockpit -y|-r|-pc|-c
+webmin-extra1|sudo apt install webmin -y|-d|-arm|-c
+webmin-extra1 x64|sudo apt install webmin -y|-d|-pc|-c
+webmin-extra1 RedHat|sudo dnf install webmin -y|-r|-arm|-c
+webmin-extra1 RedHat x64|sudo dnf install webmin -y|-r|-pc|-c
+prometheus-extra1|sudo apt install prometheus -y|-d|-arm|-c
+prometheus-extra1 x64|sudo apt install prometheus -y|-d|-pc|-c
+prometheus-extra1 RedHat|sudo dnf install prometheus -y|-r|-arm|-c
+prometheus-extra1 RedHat x64|sudo dnf install prometheus -y|-r|-pc|-c
+node-exporter-extra1|sudo apt install node-exporter -y|-d|-arm|-c
+node-exporter-extra1 x64|sudo apt install node-exporter -y|-d|-pc|-c
+node-exporter-extra1 RedHat|sudo dnf install node-exporter -y|-r|-arm|-c
+node-exporter-extra1 RedHat x64|sudo dnf install node-exporter -y|-r|-pc|-c
+grafana-extra1|sudo apt install grafana -y|-d|-arm|-c
+grafana-extra1 x64|sudo apt install grafana -y|-d|-pc|-c
+grafana-extra1 RedHat|sudo dnf install grafana -y|-r|-arm|-c
+grafana-extra1 RedHat x64|sudo dnf install grafana -y|-r|-pc|-c
+telegraf-extra1|sudo apt install telegraf -y|-d|-arm|-c
+telegraf-extra1 x64|sudo apt install telegraf -y|-d|-pc|-c
+telegraf-extra1 RedHat|sudo dnf install telegraf -y|-r|-arm|-c
+telegraf-extra1 RedHat x64|sudo dnf install telegraf -y|-r|-pc|-c
+influxdb-extra1|sudo apt install influxdb -y|-d|-arm|-c
+influxdb-extra1 x64|sudo apt install influxdb -y|-d|-pc|-c
+influxdb-extra1 RedHat|sudo dnf install influxdb -y|-r|-arm|-c
+influxdb-extra1 RedHat x64|sudo dnf install influxdb -y|-r|-pc|-c
+chrony-extra1|sudo apt install chrony -y|-d|-arm|-c
+chrony-extra1 x64|sudo apt install chrony -y|-d|-pc|-c
+chrony-extra1 RedHat|sudo dnf install chrony -y|-r|-arm|-c
+chrony-extra1 RedHat x64|sudo dnf install chrony -y|-r|-pc|-c
+ntp-extra1|sudo apt install ntp -y|-d|-arm|-c
+ntp-extra1 x64|sudo apt install ntp -y|-d|-pc|-c
+ntp-extra1 RedHat|sudo dnf install ntp -y|-r|-arm|-c
+ntp-extra1 RedHat x64|sudo dnf install ntp -y|-r|-pc|-c
+rsyslog-extra1|sudo apt install rsyslog -y|-d|-arm|-c
+rsyslog-extra1 x64|sudo apt install rsyslog -y|-d|-pc|-c
+rsyslog-extra1 RedHat|sudo dnf install rsyslog -y|-r|-arm|-c
+rsyslog-extra1 RedHat x64|sudo dnf install rsyslog -y|-r|-pc|-c
+logrotate-extra1|sudo apt install logrotate -y|-d|-arm|-c
+logrotate-extra1 x64|sudo apt install logrotate -y|-d|-pc|-c
+logrotate-extra1 RedHat|sudo dnf install logrotate -y|-r|-arm|-c
+logrotate-extra1 RedHat x64|sudo dnf install logrotate -y|-r|-pc|-c
+auditd-extra1|sudo apt install auditd -y|-d|-arm|-c
+auditd-extra1 x64|sudo apt install auditd -y|-d|-pc|-c
+auditd-extra1 RedHat|sudo dnf install auditd -y|-r|-arm|-c
+auditd-extra1 RedHat x64|sudo dnf install auditd -y|-r|-pc|-c
+selinux-policy-extra1|sudo apt install selinux-policy -y|-d|-arm|-c
+selinux-policy-extra1 x64|sudo apt install selinux-policy -y|-d|-pc|-c
+selinux-policy-extra1 RedHat|sudo dnf install selinux-policy -y|-r|-arm|-c
+selinux-policy-extra1 RedHat x64|sudo dnf install selinux-policy -y|-r|-pc|-c
+apparmor-extra1|sudo apt install apparmor -y|-d|-arm|-c
+apparmor-extra1 x64|sudo apt install apparmor -y|-d|-pc|-c
+apparmor-extra1 RedHat|sudo dnf install apparmor -y|-r|-arm|-c
+apparmor-extra1 RedHat x64|sudo dnf install apparmor -y|-r|-pc|-c
+snort-extra1|sudo apt install snort -y|-d|-arm|-c
+snort-extra1 x64|sudo apt install snort -y|-d|-pc|-c
+snort-extra1 RedHat|sudo dnf install snort -y|-r|-arm|-c
+snort-extra1 RedHat x64|sudo dnf install snort -y|-r|-pc|-c
+suricata-extra1|sudo apt install suricata -y|-d|-arm|-c
+suricata-extra1 x64|sudo apt install suricata -y|-d|-pc|-c
+suricata-extra1 RedHat|sudo dnf install suricata -y|-r|-arm|-c
+suricata-extra1 RedHat x64|sudo dnf install suricata -y|-r|-pc|-c
+clamav-extra1|sudo apt install clamav -y|-d|-arm|-c
+clamav-extra1 x64|sudo apt install clamav -y|-d|-pc|-c
+clamav-extra1 RedHat|sudo dnf install clamav -y|-r|-arm|-c
+clamav-extra1 RedHat x64|sudo dnf install clamav -y|-r|-pc|-c
+clamav-daemon-extra1|sudo apt install clamav-daemon -y|-d|-arm|-c
+clamav-daemon-extra1 x64|sudo apt install clamav-daemon -y|-d|-pc|-c
+clamav-daemon-extra1 RedHat|sudo dnf install clamav-daemon -y|-r|-arm|-c
+clamav-daemon-extra1 RedHat x64|sudo dnf install clamav-daemon -y|-r|-pc|-c
+rkhunter-extra1|sudo apt install rkhunter -y|-d|-arm|-c
+rkhunter-extra1 x64|sudo apt install rkhunter -y|-d|-pc|-c
+rkhunter-extra1 RedHat|sudo dnf install rkhunter -y|-r|-arm|-c
+rkhunter-extra1 RedHat x64|sudo dnf install rkhunter -y|-r|-pc|-c
+chkrootkit-extra1|sudo apt install chkrootkit -y|-d|-arm|-c
+chkrootkit-extra1 x64|sudo apt install chkrootkit -y|-d|-pc|-c
+chkrootkit-extra1 RedHat|sudo dnf install chkrootkit -y|-r|-arm|-c
+chkrootkit-extra1 RedHat x64|sudo dnf install chkrootkit -y|-r|-pc|-c
+tcpdump-extra1|sudo apt install tcpdump -y|-d|-arm|-c
+tcpdump-extra1 x64|sudo apt install tcpdump -y|-d|-pc|-c
+tcpdump-extra1 RedHat|sudo dnf install tcpdump -y|-r|-arm|-c
+tcpdump-extra1 RedHat x64|sudo dnf install tcpdump -y|-r|-pc|-c
+wireshark-extra1|sudo apt install wireshark -y|-d|-arm|-c
+wireshark-extra1 x64|sudo apt install wireshark -y|-d|-pc|-c
+wireshark-extra1 RedHat|sudo dnf install wireshark -y|-r|-arm|-c
+wireshark-extra1 RedHat x64|sudo dnf install wireshark -y|-r|-pc|-c
+nmap-extra1|sudo apt install nmap -y|-d|-arm|-c
+nmap-extra1 x64|sudo apt install nmap -y|-d|-pc|-c
+nmap-extra1 RedHat|sudo dnf install nmap -y|-r|-arm|-c
+nmap-extra1 RedHat x64|sudo dnf install nmap -y|-r|-pc|-c
+netcat-extra1|sudo apt install netcat -y|-d|-arm|-c
+netcat-extra1 x64|sudo apt install netcat -y|-d|-pc|-c
+netcat-extra1 RedHat|sudo dnf install netcat -y|-r|-arm|-c
+netcat-extra1 RedHat x64|sudo dnf install netcat -y|-r|-pc|-c
+iperf3-extra1|sudo apt install iperf3 -y|-d|-arm|-c
+iperf3-extra1 x64|sudo apt install iperf3 -y|-d|-pc|-c
+iperf3-extra1 RedHat|sudo dnf install iperf3 -y|-r|-arm|-c
+iperf3-extra1 RedHat x64|sudo dnf install iperf3 -y|-r|-pc|-c
+whois-extra1|sudo apt install whois -y|-d|-arm|-c
+whois-extra1 x64|sudo apt install whois -y|-d|-pc|-c
+whois-extra1 RedHat|sudo dnf install whois -y|-r|-arm|-c
+whois-extra1 RedHat x64|sudo dnf install whois -y|-r|-pc|-c
+bind9-extra1|sudo apt install bind9 -y|-d|-arm|-c
+bind9-extra1 x64|sudo apt install bind9 -y|-d|-pc|-c
+bind9-extra1 RedHat|sudo dnf install bind9 -y|-r|-arm|-c
+bind9-extra1 RedHat x64|sudo dnf install bind9 -y|-r|-pc|-c
+dnsmasq-extra1|sudo apt install dnsmasq -y|-d|-arm|-c
+dnsmasq-extra1 x64|sudo apt install dnsmasq -y|-d|-pc|-c
+dnsmasq-extra1 RedHat|sudo dnf install dnsmasq -y|-r|-arm|-c
+dnsmasq-extra1 RedHat x64|sudo dnf install dnsmasq -y|-r|-pc|-c
+nginx-extra2|sudo apt install nginx -y|-d|-arm|-c
+nginx-extra2 x64|sudo apt install nginx -y|-d|-pc|-c
+nginx-extra2 RedHat|sudo dnf install nginx -y|-r|-arm|-c
+nginx-extra2 RedHat x64|sudo dnf install nginx -y|-r|-pc|-c
+apache2-extra2|sudo apt install apache2 -y|-d|-arm|-c
+apache2-extra2 x64|sudo apt install apache2 -y|-d|-pc|-c
+apache2-extra2 RedHat|sudo dnf install apache2 -y|-r|-arm|-c
+apache2-extra2 RedHat x64|sudo dnf install apache2 -y|-r|-pc|-c
+httpd-extra2|sudo apt install httpd -y|-d|-arm|-c
+httpd-extra2 x64|sudo apt install httpd -y|-d|-pc|-c
+httpd-extra2 RedHat|sudo dnf install httpd -y|-r|-arm|-c
+httpd-extra2 RedHat x64|sudo dnf install httpd -y|-r|-pc|-c
+lighttpd-extra2|sudo apt install lighttpd -y|-d|-arm|-c
+lighttpd-extra2 x64|sudo apt install lighttpd -y|-d|-pc|-c
+lighttpd-extra2 RedHat|sudo dnf install lighttpd -y|-r|-arm|-c
+lighttpd-extra2 RedHat x64|sudo dnf install lighttpd -y|-r|-pc|-c
+caddy-extra2|sudo apt install caddy -y|-d|-arm|-c
+caddy-extra2 x64|sudo apt install caddy -y|-d|-pc|-c
+caddy-extra2 RedHat|sudo dnf install caddy -y|-r|-arm|-c
+caddy-extra2 RedHat x64|sudo dnf install caddy -y|-r|-pc|-c
+haproxy-extra2|sudo apt install haproxy -y|-d|-arm|-c
+haproxy-extra2 x64|sudo apt install haproxy -y|-d|-pc|-c
+haproxy-extra2 RedHat|sudo dnf install haproxy -y|-r|-arm|-c
+haproxy-extra2 RedHat x64|sudo dnf install haproxy -y|-r|-pc|-c
+varnish-extra2|sudo apt install varnish -y|-d|-arm|-c
+varnish-extra2 x64|sudo apt install varnish -y|-d|-pc|-c
+varnish-extra2 RedHat|sudo dnf install varnish -y|-r|-arm|-c
+varnish-extra2 RedHat x64|sudo dnf install varnish -y|-r|-pc|-c
+squid-extra2|sudo apt install squid -y|-d|-arm|-c
+squid-extra2 x64|sudo apt install squid -y|-d|-pc|-c
+squid-extra2 RedHat|sudo dnf install squid -y|-r|-arm|-c
+squid-extra2 RedHat x64|sudo dnf install squid -y|-r|-pc|-c
+mysql-server-extra2|sudo apt install mysql-server -y|-d|-arm|-c
+mysql-server-extra2 x64|sudo apt install mysql-server -y|-d|-pc|-c
+mysql-server-extra2 RedHat|sudo dnf install mysql-server -y|-r|-arm|-c
+mysql-server-extra2 RedHat x64|sudo dnf install mysql-server -y|-r|-pc|-c
+mariadb-server-extra2|sudo apt install mariadb-server -y|-d|-arm|-c
+mariadb-server-extra2 x64|sudo apt install mariadb-server -y|-d|-pc|-c
+mariadb-server-extra2 RedHat|sudo dnf install mariadb-server -y|-r|-arm|-c
+mariadb-server-extra2 RedHat x64|sudo dnf install mariadb-server -y|-r|-pc|-c
+postgresql-extra2|sudo apt install postgresql -y|-d|-arm|-c
+postgresql-extra2 x64|sudo apt install postgresql -y|-d|-pc|-c
+postgresql-extra2 RedHat|sudo dnf install postgresql -y|-r|-arm|-c
+postgresql-extra2 RedHat x64|sudo dnf install postgresql -y|-r|-pc|-c
+postgresql-server-extra2|sudo apt install postgresql-server -y|-d|-arm|-c
+postgresql-server-extra2 x64|sudo apt install postgresql-server -y|-d|-pc|-c
+postgresql-server-extra2 RedHat|sudo dnf install postgresql-server -y|-r|-arm|-c
+postgresql-server-extra2 RedHat x64|sudo dnf install postgresql-server -y|-r|-pc|-c
+redis-extra2|sudo apt install redis -y|-d|-arm|-c
+redis-extra2 x64|sudo apt install redis -y|-d|-pc|-c
+redis-extra2 RedHat|sudo dnf install redis -y|-r|-arm|-c
+redis-extra2 RedHat x64|sudo dnf install redis -y|-r|-pc|-c
+memcached-extra2|sudo apt install memcached -y|-d|-arm|-c
+memcached-extra2 x64|sudo apt install memcached -y|-d|-pc|-c
+memcached-extra2 RedHat|sudo dnf install memcached -y|-r|-arm|-c
+memcached-extra2 RedHat x64|sudo dnf install memcached -y|-r|-pc|-c
+mongodb-extra2|sudo apt install mongodb -y|-d|-arm|-c
+mongodb-extra2 x64|sudo apt install mongodb -y|-d|-pc|-c
+mongodb-extra2 RedHat|sudo dnf install mongodb -y|-r|-arm|-c
+mongodb-extra2 RedHat x64|sudo dnf install mongodb -y|-r|-pc|-c
+mongodb-server-extra2|sudo apt install mongodb-server -y|-d|-arm|-c
+mongodb-server-extra2 x64|sudo apt install mongodb-server -y|-d|-pc|-c
+mongodb-server-extra2 RedHat|sudo dnf install mongodb-server -y|-r|-arm|-c
+mongodb-server-extra2 RedHat x64|sudo dnf install mongodb-server -y|-r|-pc|-c
+etcd-extra2|sudo apt install etcd -y|-d|-arm|-c
+etcd-extra2 x64|sudo apt install etcd -y|-d|-pc|-c
+etcd-extra2 RedHat|sudo dnf install etcd -y|-r|-arm|-c
+etcd-extra2 RedHat x64|sudo dnf install etcd -y|-r|-pc|-c
+consul-extra2|sudo apt install consul -y|-d|-arm|-c
+consul-extra2 x64|sudo apt install consul -y|-d|-pc|-c
+consul-extra2 RedHat|sudo dnf install consul -y|-r|-arm|-c
+consul-extra2 RedHat x64|sudo dnf install consul -y|-r|-pc|-c
+vault-extra2|sudo apt install vault -y|-d|-arm|-c
+vault-extra2 x64|sudo apt install vault -y|-d|-pc|-c
+vault-extra2 RedHat|sudo dnf install vault -y|-r|-arm|-c
+vault-extra2 RedHat x64|sudo dnf install vault -y|-r|-pc|-c
+zookeeper-extra2|sudo apt install zookeeper -y|-d|-arm|-c
+zookeeper-extra2 x64|sudo apt install zookeeper -y|-d|-pc|-c
+zookeeper-extra2 RedHat|sudo dnf install zookeeper -y|-r|-arm|-c
+zookeeper-extra2 RedHat x64|sudo dnf install zookeeper -y|-r|-pc|-c
+kafka-extra2|sudo apt install kafka -y|-d|-arm|-c
+kafka-extra2 x64|sudo apt install kafka -y|-d|-pc|-c
+kafka-extra2 RedHat|sudo dnf install kafka -y|-r|-arm|-c
+kafka-extra2 RedHat x64|sudo dnf install kafka -y|-r|-pc|-c
+rabbitmq-server-extra2|sudo apt install rabbitmq-server -y|-d|-arm|-c
+rabbitmq-server-extra2 x64|sudo apt install rabbitmq-server -y|-d|-pc|-c
+rabbitmq-server-extra2 RedHat|sudo dnf install rabbitmq-server -y|-r|-arm|-c
+rabbitmq-server-extra2 RedHat x64|sudo dnf install rabbitmq-server -y|-r|-pc|-c
+mosquitto-extra2|sudo apt install mosquitto -y|-d|-arm|-c
+mosquitto-extra2 x64|sudo apt install mosquitto -y|-d|-pc|-c
+mosquitto-extra2 RedHat|sudo dnf install mosquitto -y|-r|-arm|-c
+mosquitto-extra2 RedHat x64|sudo dnf install mosquitto -y|-r|-pc|-c
+openssh-server-extra2|sudo apt install openssh-server -y|-d|-arm|-c
+openssh-server-extra2 x64|sudo apt install openssh-server -y|-d|-pc|-c
+openssh-server-extra2 RedHat|sudo dnf install openssh-server -y|-r|-arm|-c
+openssh-server-extra2 RedHat x64|sudo dnf install openssh-server -y|-r|-pc|-c
+fail2ban-extra2|sudo apt install fail2ban -y|-d|-arm|-c
+fail2ban-extra2 x64|sudo apt install fail2ban -y|-d|-pc|-c
+fail2ban-extra2 RedHat|sudo dnf install fail2ban -y|-r|-arm|-c
+fail2ban-extra2 RedHat x64|sudo dnf install fail2ban -y|-r|-pc|-c
+ufw-extra2|sudo apt install ufw -y|-d|-arm|-c
+ufw-extra2 x64|sudo apt install ufw -y|-d|-pc|-c
+ufw-extra2 RedHat|sudo dnf install ufw -y|-r|-arm|-c
+ufw-extra2 RedHat x64|sudo dnf install ufw -y|-r|-pc|-c
+firewalld-extra2|sudo apt install firewalld -y|-d|-arm|-c
+firewalld-extra2 x64|sudo apt install firewalld -y|-d|-pc|-c
+firewalld-extra2 RedHat|sudo dnf install firewalld -y|-r|-arm|-c
+firewalld-extra2 RedHat x64|sudo dnf install firewalld -y|-r|-pc|-c
+iptables-extra2|sudo apt install iptables -y|-d|-arm|-c
+iptables-extra2 x64|sudo apt install iptables -y|-d|-pc|-c
+iptables-extra2 RedHat|sudo dnf install iptables -y|-r|-arm|-c
+iptables-extra2 RedHat x64|sudo dnf install iptables -y|-r|-pc|-c
+nftables-extra2|sudo apt install nftables -y|-d|-arm|-c
+nftables-extra2 x64|sudo apt install nftables -y|-d|-pc|-c
+nftables-extra2 RedHat|sudo dnf install nftables -y|-r|-arm|-c
+nftables-extra2 RedHat x64|sudo dnf install nftables -y|-r|-pc|-c
+cockpit-extra2|sudo apt install cockpit -y|-d|-arm|-c
+cockpit-extra2 x64|sudo apt install cockpit -y|-d|-pc|-c
+cockpit-extra2 RedHat|sudo dnf install cockpit -y|-r|-arm|-c
+cockpit-extra2 RedHat x64|sudo dnf install cockpit -y|-r|-pc|-c
+webmin-extra2|sudo apt install webmin -y|-d|-arm|-c
+webmin-extra2 x64|sudo apt install webmin -y|-d|-pc|-c
+webmin-extra2 RedHat|sudo dnf install webmin -y|-r|-arm|-c
+webmin-extra2 RedHat x64|sudo dnf install webmin -y|-r|-pc|-c
+prometheus-extra2|sudo apt install prometheus -y|-d|-arm|-c
+prometheus-extra2 x64|sudo apt install prometheus -y|-d|-pc|-c
+prometheus-extra2 RedHat|sudo dnf install prometheus -y|-r|-arm|-c
+prometheus-extra2 RedHat x64|sudo dnf install prometheus -y|-r|-pc|-c
+node-exporter-extra2|sudo apt install node-exporter -y|-d|-arm|-c
+node-exporter-extra2 x64|sudo apt install node-exporter -y|-d|-pc|-c
+node-exporter-extra2 RedHat|sudo dnf install node-exporter -y|-r|-arm|-c
+node-exporter-extra2 RedHat x64|sudo dnf install node-exporter -y|-r|-pc|-c
+grafana-extra2|sudo apt install grafana -y|-d|-arm|-c
+grafana-extra2 x64|sudo apt install grafana -y|-d|-pc|-c
+grafana-extra2 RedHat|sudo dnf install grafana -y|-r|-arm|-c
+grafana-extra2 RedHat x64|sudo dnf install grafana -y|-r|-pc|-c
+telegraf-extra2|sudo apt install telegraf -y|-d|-arm|-c
+telegraf-extra2 x64|sudo apt install telegraf -y|-d|-pc|-c
+telegraf-extra2 RedHat|sudo dnf install telegraf -y|-r|-arm|-c
+telegraf-extra2 RedHat x64|sudo dnf install telegraf -y|-r|-pc|-c
+influxdb-extra2|sudo apt install influxdb -y|-d|-arm|-c
+influxdb-extra2 x64|sudo apt install influxdb -y|-d|-pc|-c
+influxdb-extra2 RedHat|sudo dnf install influxdb -y|-r|-arm|-c
+influxdb-extra2 RedHat x64|sudo dnf install influxdb -y|-r|-pc|-c
+chrony-extra2|sudo apt install chrony -y|-d|-arm|-c
+chrony-extra2 x64|sudo apt install chrony -y|-d|-pc|-c
+chrony-extra2 RedHat|sudo dnf install chrony -y|-r|-arm|-c
+chrony-extra2 RedHat x64|sudo dnf install chrony -y|-r|-pc|-c
+ntp-extra2|sudo apt install ntp -y|-d|-arm|-c
+ntp-extra2 x64|sudo apt install ntp -y|-d|-pc|-c
+ntp-extra2 RedHat|sudo dnf install ntp -y|-r|-arm|-c
+ntp-extra2 RedHat x64|sudo dnf install ntp -y|-r|-pc|-c
+rsyslog-extra2|sudo apt install rsyslog -y|-d|-arm|-c
+rsyslog-extra2 x64|sudo apt install rsyslog -y|-d|-pc|-c
+rsyslog-extra2 RedHat|sudo dnf install rsyslog -y|-r|-arm|-c
+rsyslog-extra2 RedHat x64|sudo dnf install rsyslog -y|-r|-pc|-c
+logrotate-extra2|sudo apt install logrotate -y|-d|-arm|-c
+logrotate-extra2 x64|sudo apt install logrotate -y|-d|-pc|-c
+logrotate-extra2 RedHat|sudo dnf install logrotate -y|-r|-arm|-c
+logrotate-extra2 RedHat x64|sudo dnf install logrotate -y|-r|-pc|-c
+auditd-extra2|sudo apt install auditd -y|-d|-arm|-c
+auditd-extra2 x64|sudo apt install auditd -y|-d|-pc|-c
+auditd-extra2 RedHat|sudo dnf install auditd -y|-r|-arm|-c
+auditd-extra2 RedHat x64|sudo dnf install auditd -y|-r|-pc|-c
+selinux-policy-extra2|sudo apt install selinux-policy -y|-d|-arm|-c
+selinux-policy-extra2 x64|sudo apt install selinux-policy -y|-d|-pc|-c
+selinux-policy-extra2 RedHat|sudo dnf install selinux-policy -y|-r|-arm|-c
+selinux-policy-extra2 RedHat x64|sudo dnf install selinux-policy -y|-r|-pc|-c
+apparmor-extra2|sudo apt install apparmor -y|-d|-arm|-c
+apparmor-extra2 x64|sudo apt install apparmor -y|-d|-pc|-c
+apparmor-extra2 RedHat|sudo dnf install apparmor -y|-r|-arm|-c
+apparmor-extra2 RedHat x64|sudo dnf install apparmor -y|-r|-pc|-c
+snort-extra2|sudo apt install snort -y|-d|-arm|-c
+snort-extra2 x64|sudo apt install snort -y|-d|-pc|-c
+snort-extra2 RedHat|sudo dnf install snort -y|-r|-arm|-c
+snort-extra2 RedHat x64|sudo dnf install snort -y|-r|-pc|-c
+suricata-extra2|sudo apt install suricata -y|-d|-arm|-c
+suricata-extra2 x64|sudo apt install suricata -y|-d|-pc|-c
+suricata-extra2 RedHat|sudo dnf install suricata -y|-r|-arm|-c
+suricata-extra2 RedHat x64|sudo dnf install suricata -y|-r|-pc|-c
+clamav-extra2|sudo apt install clamav -y|-d|-arm|-c
+clamav-extra2 x64|sudo apt install clamav -y|-d|-pc|-c
+clamav-extra2 RedHat|sudo dnf install clamav -y|-r|-arm|-c
+clamav-extra2 RedHat x64|sudo dnf install clamav -y|-r|-pc|-c
+clamav-daemon-extra2|sudo apt install clamav-daemon -y|-d|-arm|-c
+clamav-daemon-extra2 x64|sudo apt install clamav-daemon -y|-d|-pc|-c
+clamav-daemon-extra2 RedHat|sudo dnf install clamav-daemon -y|-r|-arm|-c
+clamav-daemon-extra2 RedHat x64|sudo dnf install clamav-daemon -y|-r|-pc|-c
+rkhunter-extra2|sudo apt install rkhunter -y|-d|-arm|-c
+rkhunter-extra2 x64|sudo apt install rkhunter -y|-d|-pc|-c
+rkhunter-extra2 RedHat|sudo dnf install rkhunter -y|-r|-arm|-c
+rkhunter-extra2 RedHat x64|sudo dnf install rkhunter -y|-r|-pc|-c
+chkrootkit-extra2|sudo apt install chkrootkit -y|-d|-arm|-c
+chkrootkit-extra2 x64|sudo apt install chkrootkit -y|-d|-pc|-c
+chkrootkit-extra2 RedHat|sudo dnf install chkrootkit -y|-r|-arm|-c
+chkrootkit-extra2 RedHat x64|sudo dnf install chkrootkit -y|-r|-pc|-c
+tcpdump-extra2|sudo apt install tcpdump -y|-d|-arm|-c
+tcpdump-extra2 x64|sudo apt install tcpdump -y|-d|-pc|-c
+tcpdump-extra2 RedHat|sudo dnf install tcpdump -y|-r|-arm|-c
+tcpdump-extra2 RedHat x64|sudo dnf install tcpdump -y|-r|-pc|-c
+wireshark-extra2|sudo apt install wireshark -y|-d|-arm|-c
+wireshark-extra2 x64|sudo apt install wireshark -y|-d|-pc|-c
+wireshark-extra2 RedHat|sudo dnf install wireshark -y|-r|-arm|-c
+wireshark-extra2 RedHat x64|sudo dnf install wireshark -y|-r|-pc|-c
+nmap-extra2|sudo apt install nmap -y|-d|-arm|-c
+nmap-extra2 x64|sudo apt install nmap -y|-d|-pc|-c
+nmap-extra2 RedHat|sudo dnf install nmap -y|-r|-arm|-c
+nmap-extra2 RedHat x64|sudo dnf install nmap -y|-r|-pc|-c
+netcat-extra2|sudo apt install netcat -y|-d|-arm|-c
+netcat-extra2 x64|sudo apt install netcat -y|-d|-pc|-c
+netcat-extra2 RedHat|sudo dnf install netcat -y|-r|-arm|-c
+netcat-extra2 RedHat x64|sudo dnf install netcat -y|-r|-pc|-c
+iperf3-extra2|sudo apt install iperf3 -y|-d|-arm|-c
+iperf3-extra2 x64|sudo apt install iperf3 -y|-d|-pc|-c
+iperf3-extra2 RedHat|sudo dnf install iperf3 -y|-r|-arm|-c
+iperf3-extra2 RedHat x64|sudo dnf install iperf3 -y|-r|-pc|-c
+whois-extra2|sudo apt install whois -y|-d|-arm|-c
+whois-extra2 x64|sudo apt install whois -y|-d|-pc|-c
+whois-extra2 RedHat|sudo dnf install whois -y|-r|-arm|-c
+whois-extra2 RedHat x64|sudo dnf install whois -y|-r|-pc|-c
+bind9-extra2|sudo apt install bind9 -y|-d|-arm|-c
+bind9-extra2 x64|sudo apt install bind9 -y|-d|-pc|-c
+bind9-extra2 RedHat|sudo dnf install bind9 -y|-r|-arm|-c
+bind9-extra2 RedHat x64|sudo dnf install bind9 -y|-r|-pc|-c
+dnsmasq-extra2|sudo apt install dnsmasq -y|-d|-arm|-c
+dnsmasq-extra2 x64|sudo apt install dnsmasq -y|-d|-pc|-c
+dnsmasq-extra2 RedHat|sudo dnf install dnsmasq -y|-r|-arm|-c
+dnsmasq-extra2 RedHat x64|sudo dnf install dnsmasq -y|-r|-pc|-c
+nginx-extra3|sudo apt install nginx -y|-d|-arm|-c
+nginx-extra3 x64|sudo apt install nginx -y|-d|-pc|-c
+nginx-extra3 RedHat|sudo dnf install nginx -y|-r|-arm|-c
+nginx-extra3 RedHat x64|sudo dnf install nginx -y|-r|-pc|-c
+apache2-extra3|sudo apt install apache2 -y|-d|-arm|-c
+apache2-extra3 x64|sudo apt install apache2 -y|-d|-pc|-c
+apache2-extra3 RedHat|sudo dnf install apache2 -y|-r|-arm|-c
+apache2-extra3 RedHat x64|sudo dnf install apache2 -y|-r|-pc|-c
+httpd-extra3|sudo apt install httpd -y|-d|-arm|-c
+httpd-extra3 x64|sudo apt install httpd -y|-d|-pc|-c
+httpd-extra3 RedHat|sudo dnf install httpd -y|-r|-arm|-c
+httpd-extra3 RedHat x64|sudo dnf install httpd -y|-r|-pc|-c
+lighttpd-extra3|sudo apt install lighttpd -y|-d|-arm|-c
+lighttpd-extra3 x64|sudo apt install lighttpd -y|-d|-pc|-c
+lighttpd-extra3 RedHat|sudo dnf install lighttpd -y|-r|-arm|-c
+lighttpd-extra3 RedHat x64|sudo dnf install lighttpd -y|-r|-pc|-c
+caddy-extra3|sudo apt install caddy -y|-d|-arm|-c
+caddy-extra3 x64|sudo apt install caddy -y|-d|-pc|-c
+caddy-extra3 RedHat|sudo dnf install caddy -y|-r|-arm|-c
+caddy-extra3 RedHat x64|sudo dnf install caddy -y|-r|-pc|-c
+haproxy-extra3|sudo apt install haproxy -y|-d|-arm|-c
+haproxy-extra3 x64|sudo apt install haproxy -y|-d|-pc|-c
+haproxy-extra3 RedHat|sudo dnf install haproxy -y|-r|-arm|-c
+haproxy-extra3 RedHat x64|sudo dnf install haproxy -y|-r|-pc|-c
+varnish-extra3|sudo apt install varnish -y|-d|-arm|-c
+varnish-extra3 x64|sudo apt install varnish -y|-d|-pc|-c
+varnish-extra3 RedHat|sudo dnf install varnish -y|-r|-arm|-c
+varnish-extra3 RedHat x64|sudo dnf install varnish -y|-r|-pc|-c
+squid-extra3|sudo apt install squid -y|-d|-arm|-c
+squid-extra3 x64|sudo apt install squid -y|-d|-pc|-c
+squid-extra3 RedHat|sudo dnf install squid -y|-r|-arm|-c
+squid-extra3 RedHat x64|sudo dnf install squid -y|-r|-pc|-c
+mysql-server-extra3|sudo apt install mysql-server -y|-d|-arm|-c
+mysql-server-extra3 x64|sudo apt install mysql-server -y|-d|-pc|-c
+mysql-server-extra3 RedHat|sudo dnf install mysql-server -y|-r|-arm|-c
+mysql-server-extra3 RedHat x64|sudo dnf install mysql-server -y|-r|-pc|-c
+mariadb-server-extra3|sudo apt install mariadb-server -y|-d|-arm|-c
+mariadb-server-extra3 x64|sudo apt install mariadb-server -y|-d|-pc|-c
+mariadb-server-extra3 RedHat|sudo dnf install mariadb-server -y|-r|-arm|-c
+mariadb-server-extra3 RedHat x64|sudo dnf install mariadb-server -y|-r|-pc|-c
+postgresql-extra3|sudo apt install postgresql -y|-d|-arm|-c
+postgresql-extra3 x64|sudo apt install postgresql -y|-d|-pc|-c
+postgresql-extra3 RedHat|sudo dnf install postgresql -y|-r|-arm|-c
+postgresql-extra3 RedHat x64|sudo dnf install postgresql -y|-r|-pc|-c
+postgresql-server-extra3|sudo apt install postgresql-server -y|-d|-arm|-c
+postgresql-server-extra3 x64|sudo apt install postgresql-server -y|-d|-pc|-c
+postgresql-server-extra3 RedHat|sudo dnf install postgresql-server -y|-r|-arm|-c
+postgresql-server-extra3 RedHat x64|sudo dnf install postgresql-server -y|-r|-pc|-c
+redis-extra3|sudo apt install redis -y|-d|-arm|-c
+redis-extra3 x64|sudo apt install redis -y|-d|-pc|-c
+redis-extra3 RedHat|sudo dnf install redis -y|-r|-arm|-c
+redis-extra3 RedHat x64|sudo dnf install redis -y|-r|-pc|-c
+memcached-extra3|sudo apt install memcached -y|-d|-arm|-c
+memcached-extra3 x64|sudo apt install memcached -y|-d|-pc|-c
+memcached-extra3 RedHat|sudo dnf install memcached -y|-r|-arm|-c
+memcached-extra3 RedHat x64|sudo dnf install memcached -y|-r|-pc|-c
+mongodb-extra3|sudo apt install mongodb -y|-d|-arm|-c
+mongodb-extra3 x64|sudo apt install mongodb -y|-d|-pc|-c
+mongodb-extra3 RedHat|sudo dnf install mongodb -y|-r|-arm|-c
+mongodb-extra3 RedHat x64|sudo dnf install mongodb -y|-r|-pc|-c
+mongodb-server-extra3|sudo apt install mongodb-server -y|-d|-arm|-c
+mongodb-server-extra3 x64|sudo apt install mongodb-server -y|-d|-pc|-c
+mongodb-server-extra3 RedHat|sudo dnf install mongodb-server -y|-r|-arm|-c
+mongodb-server-extra3 RedHat x64|sudo dnf install mongodb-server -y|-r|-pc|-c
+etcd-extra3|sudo apt install etcd -y|-d|-arm|-c
+etcd-extra3 x64|sudo apt install etcd -y|-d|-pc|-c
+etcd-extra3 RedHat|sudo dnf install etcd -y|-r|-arm|-c
+etcd-extra3 RedHat x64|sudo dnf install etcd -y|-r|-pc|-c
+consul-extra3|sudo apt install consul -y|-d|-arm|-c
+consul-extra3 x64|sudo apt install consul -y|-d|-pc|-c
+consul-extra3 RedHat|sudo dnf install consul -y|-r|-arm|-c
+consul-extra3 RedHat x64|sudo dnf install consul -y|-r|-pc|-c
+vault-extra3|sudo apt install vault -y|-d|-arm|-c
+vault-extra3 x64|sudo apt install vault -y|-d|-pc|-c
+vault-extra3 RedHat|sudo dnf install vault -y|-r|-arm|-c
+vault-extra3 RedHat x64|sudo dnf install vault -y|-r|-pc|-c
+zookeeper-extra3|sudo apt install zookeeper -y|-d|-arm|-c
+zookeeper-extra3 x64|sudo apt install zookeeper -y|-d|-pc|-c
+zookeeper-extra3 RedHat|sudo dnf install zookeeper -y|-r|-arm|-c
+zookeeper-extra3 RedHat x64|sudo dnf install zookeeper -y|-r|-pc|-c
+kafka-extra3|sudo apt install kafka -y|-d|-arm|-c
+kafka-extra3 x64|sudo apt install kafka -y|-d|-pc|-c
+kafka-extra3 RedHat|sudo dnf install kafka -y|-r|-arm|-c
+kafka-extra3 RedHat x64|sudo dnf install kafka -y|-r|-pc|-c
+rabbitmq-server-extra3|sudo apt install rabbitmq-server -y|-d|-arm|-c
+rabbitmq-server-extra3 x64|sudo apt install rabbitmq-server -y|-d|-pc|-c
+rabbitmq-server-extra3 RedHat|sudo dnf install rabbitmq-server -y|-r|-arm|-c
+rabbitmq-server-extra3 RedHat x64|sudo dnf install rabbitmq-server -y|-r|-pc|-c
+mosquitto-extra3|sudo apt install mosquitto -y|-d|-arm|-c
+mosquitto-extra3 x64|sudo apt install mosquitto -y|-d|-pc|-c
+mosquitto-extra3 RedHat|sudo dnf install mosquitto -y|-r|-arm|-c
+mosquitto-extra3 RedHat x64|sudo dnf install mosquitto -y|-r|-pc|-c
+openssh-server-extra3|sudo apt install openssh-server -y|-d|-arm|-c
+openssh-server-extra3 x64|sudo apt install openssh-server -y|-d|-pc|-c
+openssh-server-extra3 RedHat|sudo dnf install openssh-server -y|-r|-arm|-c
+openssh-server-extra3 RedHat x64|sudo dnf install openssh-server -y|-r|-pc|-c
+fail2ban-extra3|sudo apt install fail2ban -y|-d|-arm|-c
+fail2ban-extra3 x64|sudo apt install fail2ban -y|-d|-pc|-c
+fail2ban-extra3 RedHat|sudo dnf install fail2ban -y|-r|-arm|-c
+fail2ban-extra3 RedHat x64|sudo dnf install fail2ban -y|-r|-pc|-c
+ufw-extra3|sudo apt install ufw -y|-d|-arm|-c
+ufw-extra3 x64|sudo apt install ufw -y|-d|-pc|-c
+ufw-extra3 RedHat|sudo dnf install ufw -y|-r|-arm|-c
+ufw-extra3 RedHat x64|sudo dnf install ufw -y|-r|-pc|-c
+firewalld-extra3|sudo apt install firewalld -y|-d|-arm|-c
+firewalld-extra3 x64|sudo apt install firewalld -y|-d|-pc|-c
+firewalld-extra3 RedHat|sudo dnf install firewalld -y|-r|-arm|-c
+firewalld-extra3 RedHat x64|sudo dnf install firewalld -y|-r|-pc|-c
+iptables-extra3|sudo apt install iptables -y|-d|-arm|-c
+iptables-extra3 x64|sudo apt install iptables -y|-d|-pc|-c
+iptables-extra3 RedHat|sudo dnf install iptables -y|-r|-arm|-c
+iptables-extra3 RedHat x64|sudo dnf install iptables -y|-r|-pc|-c
+nftables-extra3|sudo apt install nftables -y|-d|-arm|-c
+nftables-extra3 x64|sudo apt install nftables -y|-d|-pc|-c
+nftables-extra3 RedHat|sudo dnf install nftables -y|-r|-arm|-c
+nftables-extra3 RedHat x64|sudo dnf install nftables -y|-r|-pc|-c
+cockpit-extra3|sudo apt install cockpit -y|-d|-arm|-c
+cockpit-extra3 x64|sudo apt install cockpit -y|-d|-pc|-c
+cockpit-extra3 RedHat|sudo dnf install cockpit -y|-r|-arm|-c
+cockpit-extra3 RedHat x64|sudo dnf install cockpit -y|-r|-pc|-c
+webmin-extra3|sudo apt install webmin -y|-d|-arm|-c
+webmin-extra3 x64|sudo apt install webmin -y|-d|-pc|-c
+webmin-extra3 RedHat|sudo dnf install webmin -y|-r|-arm|-c
+webmin-extra3 RedHat x64|sudo dnf install webmin -y|-r|-pc|-c
+prometheus-extra3|sudo apt install prometheus -y|-d|-arm|-c
+prometheus-extra3 x64|sudo apt install prometheus -y|-d|-pc|-c
+prometheus-extra3 RedHat|sudo dnf install prometheus -y|-r|-arm|-c
+prometheus-extra3 RedHat x64|sudo dnf install prometheus -y|-r|-pc|-c
+node-exporter-extra3|sudo apt install node-exporter -y|-d|-arm|-c
+node-exporter-extra3 x64|sudo apt install node-exporter -y|-d|-pc|-c
+node-exporter-extra3 RedHat|sudo dnf install node-exporter -y|-r|-arm|-c
+node-exporter-extra3 RedHat x64|sudo dnf install node-exporter -y|-r|-pc|-c
+grafana-extra3|sudo apt install grafana -y|-d|-arm|-c
+grafana-extra3 x64|sudo apt install grafana -y|-d|-pc|-c
+grafana-extra3 RedHat|sudo dnf install grafana -y|-r|-arm|-c
+grafana-extra3 RedHat x64|sudo dnf install grafana -y|-r|-pc|-c
+telegraf-extra3|sudo apt install telegraf -y|-d|-arm|-c
+telegraf-extra3 x64|sudo apt install telegraf -y|-d|-pc|-c
+telegraf-extra3 RedHat|sudo dnf install telegraf -y|-r|-arm|-c
+telegraf-extra3 RedHat x64|sudo dnf install telegraf -y|-r|-pc|-c
+influxdb-extra3|sudo apt install influxdb -y|-d|-arm|-c
+influxdb-extra3 x64|sudo apt install influxdb -y|-d|-pc|-c
+influxdb-extra3 RedHat|sudo dnf install influxdb -y|-r|-arm|-c
+influxdb-extra3 RedHat x64|sudo dnf install influxdb -y|-r|-pc|-c
+chrony-extra3|sudo apt install chrony -y|-d|-arm|-c
+chrony-extra3 x64|sudo apt install chrony -y|-d|-pc|-c
+chrony-extra3 RedHat|sudo dnf install chrony -y|-r|-arm|-c
+chrony-extra3 RedHat x64|sudo dnf install chrony -y|-r|-pc|-c
+ntp-extra3|sudo apt install ntp -y|-d|-arm|-c
+ntp-extra3 x64|sudo apt install ntp -y|-d|-pc|-c
+ntp-extra3 RedHat|sudo dnf install ntp -y|-r|-arm|-c
+ntp-extra3 RedHat x64|sudo dnf install ntp -y|-r|-pc|-c
+rsyslog-extra3|sudo apt install rsyslog -y|-d|-arm|-c
+rsyslog-extra3 x64|sudo apt install rsyslog -y|-d|-pc|-c
+rsyslog-extra3 RedHat|sudo dnf install rsyslog -y|-r|-arm|-c
+rsyslog-extra3 RedHat x64|sudo dnf install rsyslog -y|-r|-pc|-c
+logrotate-extra3|sudo apt install logrotate -y|-d|-arm|-c
+logrotate-extra3 x64|sudo apt install logrotate -y|-d|-pc|-c
+logrotate-extra3 RedHat|sudo dnf install logrotate -y|-r|-arm|-c
+logrotate-extra3 RedHat x64|sudo dnf install logrotate -y|-r|-pc|-c
+auditd-extra3|sudo apt install auditd -y|-d|-arm|-c
+auditd-extra3 x64|sudo apt install auditd -y|-d|-pc|-c
+auditd-extra3 RedHat|sudo dnf install auditd -y|-r|-arm|-c
+auditd-extra3 RedHat x64|sudo dnf install auditd -y|-r|-pc|-c
+selinux-policy-extra3|sudo apt install selinux-policy -y|-d|-arm|-c
+selinux-policy-extra3 x64|sudo apt install selinux-policy -y|-d|-pc|-c
+selinux-policy-extra3 RedHat|sudo dnf install selinux-policy -y|-r|-arm|-c
+selinux-policy-extra3 RedHat x64|sudo dnf install selinux-policy -y|-r|-pc|-c
+apparmor-extra3|sudo apt install apparmor -y|-d|-arm|-c
+apparmor-extra3 x64|sudo apt install apparmor -y|-d|-pc|-c
+apparmor-extra3 RedHat|sudo dnf install apparmor -y|-r|-arm|-c
+apparmor-extra3 RedHat x64|sudo dnf install apparmor -y|-r|-pc|-c
+snort-extra3|sudo apt install snort -y|-d|-arm|-c
+snort-extra3 x64|sudo apt install snort -y|-d|-pc|-c
+snort-extra3 RedHat|sudo dnf install snort -y|-r|-arm|-c
+snort-extra3 RedHat x64|sudo dnf install snort -y|-r|-pc|-c
+suricata-extra3|sudo apt install suricata -y|-d|-arm|-c
+suricata-extra3 x64|sudo apt install suricata -y|-d|-pc|-c
+suricata-extra3 RedHat|sudo dnf install suricata -y|-r|-arm|-c
+suricata-extra3 RedHat x64|sudo dnf install suricata -y|-r|-pc|-c
+clamav-extra3|sudo apt install clamav -y|-d|-arm|-c
+clamav-extra3 x64|sudo apt install clamav -y|-d|-pc|-c
+clamav-extra3 RedHat|sudo dnf install clamav -y|-r|-arm|-c
+clamav-extra3 RedHat x64|sudo dnf install clamav -y|-r|-pc|-c
+clamav-daemon-extra3|sudo apt install clamav-daemon -y|-d|-arm|-c
+clamav-daemon-extra3 x64|sudo apt install clamav-daemon -y|-d|-pc|-c
+clamav-daemon-extra3 RedHat|sudo dnf install clamav-daemon -y|-r|-arm|-c
+clamav-daemon-extra3 RedHat x64|sudo dnf install clamav-daemon -y|-r|-pc|-c
+rkhunter-extra3|sudo apt install rkhunter -y|-d|-arm|-c
+rkhunter-extra3 x64|sudo apt install rkhunter -y|-d|-pc|-c
+rkhunter-extra3 RedHat|sudo dnf install rkhunter -y|-r|-arm|-c
+rkhunter-extra3 RedHat x64|sudo dnf install rkhunter -y|-r|-pc|-c
+chkrootkit-extra3|sudo apt install chkrootkit -y|-d|-arm|-c
+chkrootkit-extra3 x64|sudo apt install chkrootkit -y|-d|-pc|-c
+chkrootkit-extra3 RedHat|sudo dnf install chkrootkit -y|-r|-arm|-c
+chkrootkit-extra3 RedHat x64|sudo dnf install chkrootkit -y|-r|-pc|-c
+tcpdump-extra3|sudo apt install tcpdump -y|-d|-arm|-c
+tcpdump-extra3 x64|sudo apt install tcpdump -y|-d|-pc|-c
+tcpdump-extra3 RedHat|sudo dnf install tcpdump -y|-r|-arm|-c
+tcpdump-extra3 RedHat x64|sudo dnf install tcpdump -y|-r|-pc|-c
+wireshark-extra3|sudo apt install wireshark -y|-d|-arm|-c
+wireshark-extra3 x64|sudo apt install wireshark -y|-d|-pc|-c
+wireshark-extra3 RedHat|sudo dnf install wireshark -y|-r|-arm|-c
+wireshark-extra3 RedHat x64|sudo dnf install wireshark -y|-r|-pc|-c
+nmap-extra3|sudo apt install nmap -y|-d|-arm|-c
+nmap-extra3 x64|sudo apt install nmap -y|-d|-pc|-c
+nmap-extra3 RedHat|sudo dnf install nmap -y|-r|-arm|-c
+nmap-extra3 RedHat x64|sudo dnf install nmap -y|-r|-pc|-c
+netcat-extra3|sudo apt install netcat -y|-d|-arm|-c
+netcat-extra3 x64|sudo apt install netcat -y|-d|-pc|-c
+netcat-extra3 RedHat|sudo dnf install netcat -y|-r|-arm|-c
+netcat-extra3 RedHat x64|sudo dnf install netcat -y|-r|-pc|-c
+iperf3-extra3|sudo apt install iperf3 -y|-d|-arm|-c
+iperf3-extra3 x64|sudo apt install iperf3 -y|-d|-pc|-c
+iperf3-extra3 RedHat|sudo dnf install iperf3 -y|-r|-arm|-c
+iperf3-extra3 RedHat x64|sudo dnf install iperf3 -y|-r|-pc|-c
+whois-extra3|sudo apt install whois -y|-d|-arm|-c
+whois-extra3 x64|sudo apt install whois -y|-d|-pc|-c
+whois-extra3 RedHat|sudo dnf install whois -y|-r|-arm|-c
+whois-extra3 RedHat x64|sudo dnf install whois -y|-r|-pc|-c
+bind9-extra3|sudo apt install bind9 -y|-d|-arm|-c
+bind9-extra3 x64|sudo apt install bind9 -y|-d|-pc|-c
+bind9-extra3 RedHat|sudo dnf install bind9 -y|-r|-arm|-c
+bind9-extra3 RedHat x64|sudo dnf install bind9 -y|-r|-pc|-c
+dnsmasq-extra3|sudo apt install dnsmasq -y|-d|-arm|-c
+dnsmasq-extra3 x64|sudo apt install dnsmasq -y|-d|-pc|-c
+dnsmasq-extra3 RedHat|sudo dnf install dnsmasq -y|-r|-arm|-c
+dnsmasq-extra3 RedHat x64|sudo dnf install dnsmasq -y|-r|-pc|-c
+nginx-extra4|sudo apt install nginx -y|-d|-arm|-c
+nginx-extra4 x64|sudo apt install nginx -y|-d|-pc|-c
+nginx-extra4 RedHat|sudo dnf install nginx -y|-r|-arm|-c
+nginx-extra4 RedHat x64|sudo dnf install nginx -y|-r|-pc|-c
+apache2-extra4|sudo apt install apache2 -y|-d|-arm|-c
+apache2-extra4 x64|sudo apt install apache2 -y|-d|-pc|-c
+apache2-extra4 RedHat|sudo dnf install apache2 -y|-r|-arm|-c
+apache2-extra4 RedHat x64|sudo dnf install apache2 -y|-r|-pc|-c
+httpd-extra4|sudo apt install httpd -y|-d|-arm|-c
+httpd-extra4 x64|sudo apt install httpd -y|-d|-pc|-c
+httpd-extra4 RedHat|sudo dnf install httpd -y|-r|-arm|-c
+httpd-extra4 RedHat x64|sudo dnf install httpd -y|-r|-pc|-c
+lighttpd-extra4|sudo apt install lighttpd -y|-d|-arm|-c
+lighttpd-extra4 x64|sudo apt install lighttpd -y|-d|-pc|-c
+lighttpd-extra4 RedHat|sudo dnf install lighttpd -y|-r|-arm|-c
+lighttpd-extra4 RedHat x64|sudo dnf install lighttpd -y|-r|-pc|-c
+caddy-extra4|sudo apt install caddy -y|-d|-arm|-c
+caddy-extra4 x64|sudo apt install caddy -y|-d|-pc|-c
+caddy-extra4 RedHat|sudo dnf install caddy -y|-r|-arm|-c
+caddy-extra4 RedHat x64|sudo dnf install caddy -y|-r|-pc|-c
+haproxy-extra4|sudo apt install haproxy -y|-d|-arm|-c
+haproxy-extra4 x64|sudo apt install haproxy -y|-d|-pc|-c
+haproxy-extra4 RedHat|sudo dnf install haproxy -y|-r|-arm|-c
+haproxy-extra4 RedHat x64|sudo dnf install haproxy -y|-r|-pc|-c
+varnish-extra4|sudo apt install varnish -y|-d|-arm|-c
+varnish-extra4 x64|sudo apt install varnish -y|-d|-pc|-c
+varnish-extra4 RedHat|sudo dnf install varnish -y|-r|-arm|-c
+varnish-extra4 RedHat x64|sudo dnf install varnish -y|-r|-pc|-c
+squid-extra4|sudo apt install squid -y|-d|-arm|-c
+squid-extra4 x64|sudo apt install squid -y|-d|-pc|-c
+squid-extra4 RedHat|sudo dnf install squid -y|-r|-arm|-c
+squid-extra4 RedHat x64|sudo dnf install squid -y|-r|-pc|-c
+mysql-server-extra4|sudo apt install mysql-server -y|-d|-arm|-c
+mysql-server-extra4 x64|sudo apt install mysql-server -y|-d|-pc|-c
+mysql-server-extra4 RedHat|sudo dnf install mysql-server -y|-r|-arm|-c
+mysql-server-extra4 RedHat x64|sudo dnf install mysql-server -y|-r|-pc|-c
+mariadb-server-extra4|sudo apt install mariadb-server -y|-d|-arm|-c
+mariadb-server-extra4 x64|sudo apt install mariadb-server -y|-d|-pc|-c
+mariadb-server-extra4 RedHat|sudo dnf install mariadb-server -y|-r|-arm|-c
+mariadb-server-extra4 RedHat x64|sudo dnf install mariadb-server -y|-r|-pc|-c
+postgresql-extra4|sudo apt install postgresql -y|-d|-arm|-c
+postgresql-extra4 x64|sudo apt install postgresql -y|-d|-pc|-c
+postgresql-extra4 RedHat|sudo dnf install postgresql -y|-r|-arm|-c
+postgresql-extra4 RedHat x64|sudo dnf install postgresql -y|-r|-pc|-c
+postgresql-server-extra4|sudo apt install postgresql-server -y|-d|-arm|-c
+postgresql-server-extra4 x64|sudo apt install postgresql-server -y|-d|-pc|-c
+postgresql-server-extra4 RedHat|sudo dnf install postgresql-server -y|-r|-arm|-c
+postgresql-server-extra4 RedHat x64|sudo dnf install postgresql-server -y|-r|-pc|-c
+redis-extra4|sudo apt install redis -y|-d|-arm|-c
+redis-extra4 x64|sudo apt install redis -y|-d|-pc|-c
+redis-extra4 RedHat|sudo dnf install redis -y|-r|-arm|-c
+redis-extra4 RedHat x64|sudo dnf install redis -y|-r|-pc|-c
+memcached-extra4|sudo apt install memcached -y|-d|-arm|-c
+memcached-extra4 x64|sudo apt install memcached -y|-d|-pc|-c
+memcached-extra4 RedHat|sudo dnf install memcached -y|-r|-arm|-c
+memcached-extra4 RedHat x64|sudo dnf install memcached -y|-r|-pc|-c
+mongodb-extra4|sudo apt install mongodb -y|-d|-arm|-c
+mongodb-extra4 x64|sudo apt install mongodb -y|-d|-pc|-c
+mongodb-extra4 RedHat|sudo dnf install mongodb -y|-r|-arm|-c
+mongodb-extra4 RedHat x64|sudo dnf install mongodb -y|-r|-pc|-c
+mongodb-server-extra4|sudo apt install mongodb-server -y|-d|-arm|-c
+mongodb-server-extra4 x64|sudo apt install mongodb-server -y|-d|-pc|-c
+mongodb-server-extra4 RedHat|sudo dnf install mongodb-server -y|-r|-arm|-c
+mongodb-server-extra4 RedHat x64|sudo dnf install mongodb-server -y|-r|-pc|-c
+etcd-extra4|sudo apt install etcd -y|-d|-arm|-c
+etcd-extra4 x64|sudo apt install etcd -y|-d|-pc|-c
+etcd-extra4 RedHat|sudo dnf install etcd -y|-r|-arm|-c
+etcd-extra4 RedHat x64|sudo dnf install etcd -y|-r|-pc|-c
+consul-extra4|sudo apt install consul -y|-d|-arm|-c
+consul-extra4 x64|sudo apt install consul -y|-d|-pc|-c
+consul-extra4 RedHat|sudo dnf install consul -y|-r|-arm|-c
+consul-extra4 RedHat x64|sudo dnf install consul -y|-r|-pc|-c
+vault-extra4|sudo apt install vault -y|-d|-arm|-c
+vault-extra4 x64|sudo apt install vault -y|-d|-pc|-c
+vault-extra4 RedHat|sudo dnf install vault -y|-r|-arm|-c
+vault-extra4 RedHat x64|sudo dnf install vault -y|-r|-pc|-c
+zookeeper-extra4|sudo apt install zookeeper -y|-d|-arm|-c
+zookeeper-extra4 x64|sudo apt install zookeeper -y|-d|-pc|-c
+zookeeper-extra4 RedHat|sudo dnf install zookeeper -y|-r|-arm|-c
+zookeeper-extra4 RedHat x64|sudo dnf install zookeeper -y|-r|-pc|-c
+kafka-extra4|sudo apt install kafka -y|-d|-arm|-c
+kafka-extra4 x64|sudo apt install kafka -y|-d|-pc|-c
+kafka-extra4 RedHat|sudo dnf install kafka -y|-r|-arm|-c
+kafka-extra4 RedHat x64|sudo dnf install kafka -y|-r|-pc|-c
+rabbitmq-server-extra4|sudo apt install rabbitmq-server -y|-d|-arm|-c
+rabbitmq-server-extra4 x64|sudo apt install rabbitmq-server -y|-d|-pc|-c
+rabbitmq-server-extra4 RedHat|sudo dnf install rabbitmq-server -y|-r|-arm|-c
+rabbitmq-server-extra4 RedHat x64|sudo dnf install rabbitmq-server -y|-r|-pc|-c
