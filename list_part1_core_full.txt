@@ -1,0 +1,1000 @@
+firefox|sudo apt install firefox -y|-d|-arm|-c
+firefox x64|sudo apt install firefox -y|-d|-pc|-c
+firefox RedHat|sudo dnf install firefox -y|-r|-arm|-c
+firefox RedHat x64|sudo dnf install firefox -y|-r|-pc|-c
+chromium|sudo apt install chromium -y|-d|-arm|-c
+chromium x64|sudo apt install chromium -y|-d|-pc|-c
+chromium RedHat|sudo dnf install chromium -y|-r|-arm|-c
+chromium RedHat x64|sudo dnf install chromium -y|-r|-pc|-c
+libreoffice|sudo apt install libreoffice -y|-d|-arm|-c
+libreoffice x64|sudo apt install libreoffice -y|-d|-pc|-c
+libreoffice RedHat|sudo dnf install libreoffice -y|-r|-arm|-c
+libreoffice RedHat x64|sudo dnf install libreoffice -y|-r|-pc|-c
+thunderbird|sudo apt install thunderbird -y|-d|-arm|-c
+thunderbird x64|sudo apt install thunderbird -y|-d|-pc|-c
+thunderbird RedHat|sudo dnf install thunderbird -y|-r|-arm|-c
+thunderbird RedHat x64|sudo dnf install thunderbird -y|-r|-pc|-c
+filezilla|sudo apt install filezilla -y|-d|-arm|-c
+filezilla x64|sudo apt install filezilla -y|-d|-pc|-c
+filezilla RedHat|sudo dnf install filezilla -y|-r|-arm|-c
+filezilla RedHat x64|sudo dnf install filezilla -y|-r|-pc|-c
+remmina|sudo apt install remmina -y|-d|-arm|-c
+remmina x64|sudo apt install remmina -y|-d|-pc|-c
+remmina RedHat|sudo dnf install remmina -y|-r|-arm|-c
+remmina RedHat x64|sudo dnf install remmina -y|-r|-pc|-c
+evince|sudo apt install evince -y|-d|-arm|-c
+evince x64|sudo apt install evince -y|-d|-pc|-c
+evince RedHat|sudo dnf install evince -y|-r|-arm|-c
+evince RedHat x64|sudo dnf install evince -y|-r|-pc|-c
+okular|sudo apt install okular -y|-d|-arm|-c
+okular x64|sudo apt install okular -y|-d|-pc|-c
+okular RedHat|sudo dnf install okular -y|-r|-arm|-c
+okular RedHat x64|sudo dnf install okular -y|-r|-pc|-c
+gnome-calculator|sudo apt install gnome-calculator -y|-d|-arm|-c
+gnome-calculator x64|sudo apt install gnome-calculator -y|-d|-pc|-c
+gnome-calculator RedHat|sudo dnf install gnome-calculator -y|-r|-arm|-c
+gnome-calculator RedHat x64|sudo dnf install gnome-calculator -y|-r|-pc|-c
+gnome-terminal|sudo apt install gnome-terminal -y|-d|-arm|-c
+gnome-terminal x64|sudo apt install gnome-terminal -y|-d|-pc|-c
+gnome-terminal RedHat|sudo dnf install gnome-terminal -y|-r|-arm|-c
+gnome-terminal RedHat x64|sudo dnf install gnome-terminal -y|-r|-pc|-c
+konsole|sudo apt install konsole -y|-d|-arm|-c
+konsole x64|sudo apt install konsole -y|-d|-pc|-c
+konsole RedHat|sudo dnf install konsole -y|-r|-arm|-c
+konsole RedHat x64|sudo dnf install konsole -y|-r|-pc|-c
+xfce4-terminal|sudo apt install xfce4-terminal -y|-d|-arm|-c
+xfce4-terminal x64|sudo apt install xfce4-terminal -y|-d|-pc|-c
+xfce4-terminal RedHat|sudo dnf install xfce4-terminal -y|-r|-arm|-c
+xfce4-terminal RedHat x64|sudo dnf install xfce4-terminal -y|-r|-pc|-c
+pcmanfm|sudo apt install pcmanfm -y|-d|-arm|-c
+pcmanfm x64|sudo apt install pcmanfm -y|-d|-pc|-c
+pcmanfm RedHat|sudo dnf install pcmanfm -y|-r|-arm|-c
+pcmanfm RedHat x64|sudo dnf install pcmanfm -y|-r|-pc|-c
+nautilus|sudo apt install nautilus -y|-d|-arm|-c
+nautilus x64|sudo apt install nautilus -y|-d|-pc|-c
+nautilus RedHat|sudo dnf install nautilus -y|-r|-arm|-c
+nautilus RedHat x64|sudo dnf install nautilus -y|-r|-pc|-c
+dolphin|sudo apt install dolphin -y|-d|-arm|-c
+dolphin x64|sudo apt install dolphin -y|-d|-pc|-c
+dolphin RedHat|sudo dnf install dolphin -y|-r|-arm|-c
+dolphin RedHat x64|sudo dnf install dolphin -y|-r|-pc|-c
+gparted|sudo apt install gparted -y|-d|-arm|-c
+gparted x64|sudo apt install gparted -y|-d|-pc|-c
+gparted RedHat|sudo dnf install gparted -y|-r|-arm|-c
+gparted RedHat x64|sudo dnf install gparted -y|-r|-pc|-c
+timeshift|sudo apt install timeshift -y|-d|-arm|-c
+timeshift x64|sudo apt install timeshift -y|-d|-pc|-c
+timeshift RedHat|sudo dnf install timeshift -y|-r|-arm|-c
+timeshift RedHat x64|sudo dnf install timeshift -y|-r|-pc|-c
+synaptic|sudo apt install synaptic -y|-d|-arm|-c
+synaptic x64|sudo apt install synaptic -y|-d|-pc|-c
+synaptic RedHat|sudo dnf install synaptic -y|-r|-arm|-c
+synaptic RedHat x64|sudo dnf install synaptic -y|-r|-pc|-c
+bleachbit|sudo apt install bleachbit -y|-d|-arm|-c
+bleachbit x64|sudo apt install bleachbit -y|-d|-pc|-c
+bleachbit RedHat|sudo dnf install bleachbit -y|-r|-arm|-c
+bleachbit RedHat x64|sudo dnf install bleachbit -y|-r|-pc|-c
+neofetch|sudo apt install neofetch -y|-d|-arm|-c
+neofetch x64|sudo apt install neofetch -y|-d|-pc|-c
+neofetch RedHat|sudo dnf install neofetch -y|-r|-arm|-c
+neofetch RedHat x64|sudo dnf install neofetch -y|-r|-pc|-c
+htop|sudo apt install htop -y|-d|-arm|-c
+htop x64|sudo apt install htop -y|-d|-pc|-c
+htop RedHat|sudo dnf install htop -y|-r|-arm|-c
+htop RedHat x64|sudo dnf install htop -y|-r|-pc|-c
+btop|sudo apt install btop -y|-d|-arm|-c
+btop x64|sudo apt install btop -y|-d|-pc|-c
+btop RedHat|sudo dnf install btop -y|-r|-arm|-c
+btop RedHat x64|sudo dnf install btop -y|-r|-pc|-c
+gnome-system-monitor|sudo apt install gnome-system-monitor -y|-d|-arm|-c
+gnome-system-monitor x64|sudo apt install gnome-system-monitor -y|-d|-pc|-c
+gnome-system-monitor RedHat|sudo dnf install gnome-system-monitor -y|-r|-arm|-c
+gnome-system-monitor RedHat x64|sudo dnf install gnome-system-monitor -y|-r|-pc|-c
+baobab|sudo apt install baobab -y|-d|-arm|-c
+baobab x64|sudo apt install baobab -y|-d|-pc|-c
+baobab RedHat|sudo dnf install baobab -y|-r|-arm|-c
+baobab RedHat x64|sudo dnf install baobab -y|-r|-pc|-c
+cheese|sudo apt install cheese -y|-d|-arm|-c
+cheese x64|sudo apt install cheese -y|-d|-pc|-c
+cheese RedHat|sudo dnf install cheese -y|-r|-arm|-c
+cheese RedHat x64|sudo dnf install cheese -y|-r|-pc|-c
+shotwell|sudo apt install shotwell -y|-d|-arm|-c
+shotwell x64|sudo apt install shotwell -y|-d|-pc|-c
+shotwell RedHat|sudo dnf install shotwell -y|-r|-arm|-c
+shotwell RedHat x64|sudo dnf install shotwell -y|-r|-pc|-c
+rhythmbox|sudo apt install rhythmbox -y|-d|-arm|-c
+rhythmbox x64|sudo apt install rhythmbox -y|-d|-pc|-c
+rhythmbox RedHat|sudo dnf install rhythmbox -y|-r|-arm|-c
+rhythmbox RedHat x64|sudo dnf install rhythmbox -y|-r|-pc|-c
+totem|sudo apt install totem -y|-d|-arm|-c
+totem x64|sudo apt install totem -y|-d|-pc|-c
+totem RedHat|sudo dnf install totem -y|-r|-arm|-c
+totem RedHat x64|sudo dnf install totem -y|-r|-pc|-c
+eog|sudo apt install eog -y|-d|-arm|-c
+eog x64|sudo apt install eog -y|-d|-pc|-c
+eog RedHat|sudo dnf install eog -y|-r|-arm|-c
+eog RedHat x64|sudo dnf install eog -y|-r|-pc|-c
+gnome-disk-utility|sudo apt install gnome-disk-utility -y|-d|-arm|-c
+gnome-disk-utility x64|sudo apt install gnome-disk-utility -y|-d|-pc|-c
+gnome-disk-utility RedHat|sudo dnf install gnome-disk-utility -y|-r|-arm|-c
+gnome-disk-utility RedHat x64|sudo dnf install gnome-disk-utility -y|-r|-pc|-c
+cups|sudo apt install cups -y|-d|-arm|-c
+cups x64|sudo apt install cups -y|-d|-pc|-c
+cups RedHat|sudo dnf install cups -y|-r|-arm|-c
+cups RedHat x64|sudo dnf install cups -y|-r|-pc|-c
+system-config-printer|sudo apt install system-config-printer -y|-d|-arm|-c
+system-config-printer x64|sudo apt install system-config-printer -y|-d|-pc|-c
+system-config-printer RedHat|sudo dnf install system-config-printer -y|-r|-arm|-c
+system-config-printer RedHat x64|sudo dnf install system-config-printer -y|-r|-pc|-c
+network-manager|sudo apt install network-manager -y|-d|-arm|-c
+network-manager x64|sudo apt install network-manager -y|-d|-pc|-c
+network-manager RedHat|sudo dnf install network-manager -y|-r|-arm|-c
+network-manager RedHat x64|sudo dnf install network-manager -y|-r|-pc|-c
+nmcli|sudo apt install nmcli -y|-d|-arm|-c
+nmcli x64|sudo apt install nmcli -y|-d|-pc|-c
+nmcli RedHat|sudo dnf install nmcli -y|-r|-arm|-c
+nmcli RedHat x64|sudo dnf install nmcli -y|-r|-pc|-c
+blueman|sudo apt install blueman -y|-d|-arm|-c
+blueman x64|sudo apt install blueman -y|-d|-pc|-c
+blueman RedHat|sudo dnf install blueman -y|-r|-arm|-c
+blueman RedHat x64|sudo dnf install blueman -y|-r|-pc|-c
+pavucontrol|sudo apt install pavucontrol -y|-d|-arm|-c
+pavucontrol x64|sudo apt install pavucontrol -y|-d|-pc|-c
+pavucontrol RedHat|sudo dnf install pavucontrol -y|-r|-arm|-c
+pavucontrol RedHat x64|sudo dnf install pavucontrol -y|-r|-pc|-c
+alsa-utils|sudo apt install alsa-utils -y|-d|-arm|-c
+alsa-utils x64|sudo apt install alsa-utils -y|-d|-pc|-c
+alsa-utils RedHat|sudo dnf install alsa-utils -y|-r|-arm|-c
+alsa-utils RedHat x64|sudo dnf install alsa-utils -y|-r|-pc|-c
+pulseaudio|sudo apt install pulseaudio -y|-d|-arm|-c
+pulseaudio x64|sudo apt install pulseaudio -y|-d|-pc|-c
+pulseaudio RedHat|sudo dnf install pulseaudio -y|-r|-arm|-c
+pulseaudio RedHat x64|sudo dnf install pulseaudio -y|-r|-pc|-c
+pipewire|sudo apt install pipewire -y|-d|-arm|-c
+pipewire x64|sudo apt install pipewire -y|-d|-pc|-c
+pipewire RedHat|sudo dnf install pipewire -y|-r|-arm|-c
+pipewire RedHat x64|sudo dnf install pipewire -y|-r|-pc|-c
+flatpak|sudo apt install flatpak -y|-d|-arm|-c
+flatpak x64|sudo apt install flatpak -y|-d|-pc|-c
+flatpak RedHat|sudo dnf install flatpak -y|-r|-arm|-c
+flatpak RedHat x64|sudo dnf install flatpak -y|-r|-pc|-c
+snapd|sudo apt install snapd -y|-d|-arm|-c
+snapd x64|sudo apt install snapd -y|-d|-pc|-c
+snapd RedHat|sudo dnf install snapd -y|-r|-arm|-c
+snapd RedHat x64|sudo dnf install snapd -y|-r|-pc|-c
+gnome-software|sudo apt install gnome-software -y|-d|-arm|-c
+gnome-software x64|sudo apt install gnome-software -y|-d|-pc|-c
+gnome-software RedHat|sudo dnf install gnome-software -y|-r|-arm|-c
+gnome-software RedHat x64|sudo dnf install gnome-software -y|-r|-pc|-c
+kdeconnect|sudo apt install kdeconnect -y|-d|-arm|-c
+kdeconnect x64|sudo apt install kdeconnect -y|-d|-pc|-c
+kdeconnect RedHat|sudo dnf install kdeconnect -y|-r|-arm|-c
+kdeconnect RedHat x64|sudo dnf install kdeconnect -y|-r|-pc|-c
+redshift|sudo apt install redshift -y|-d|-arm|-c
+redshift x64|sudo apt install redshift -y|-d|-pc|-c
+redshift RedHat|sudo dnf install redshift -y|-r|-arm|-c
+redshift RedHat x64|sudo dnf install redshift -y|-r|-pc|-c
+variety|sudo apt install variety -y|-d|-arm|-c
+variety x64|sudo apt install variety -y|-d|-pc|-c
+variety RedHat|sudo dnf install variety -y|-r|-arm|-c
+variety RedHat x64|sudo dnf install variety -y|-r|-pc|-c
+lightdm|sudo apt install lightdm -y|-d|-arm|-c
+lightdm x64|sudo apt install lightdm -y|-d|-pc|-c
+lightdm RedHat|sudo dnf install lightdm -y|-r|-arm|-c
+lightdm RedHat x64|sudo dnf install lightdm -y|-r|-pc|-c
+sddm|sudo apt install sddm -y|-d|-arm|-c
+sddm x64|sudo apt install sddm -y|-d|-pc|-c
+sddm RedHat|sudo dnf install sddm -y|-r|-arm|-c
+sddm RedHat x64|sudo dnf install sddm -y|-r|-pc|-c
+lxappearance|sudo apt install lxappearance -y|-d|-arm|-c
+lxappearance x64|sudo apt install lxappearance -y|-d|-pc|-c
+lxappearance RedHat|sudo dnf install lxappearance -y|-r|-arm|-c
+lxappearance RedHat x64|sudo dnf install lxappearance -y|-r|-pc|-c
+arandr|sudo apt install arandr -y|-d|-arm|-c
+arandr x64|sudo apt install arandr -y|-d|-pc|-c
+arandr RedHat|sudo dnf install arandr -y|-r|-arm|-c
+arandr RedHat x64|sudo dnf install arandr -y|-r|-pc|-c
+flameshot|sudo apt install flameshot -y|-d|-arm|-c
+flameshot x64|sudo apt install flameshot -y|-d|-pc|-c
+flameshot RedHat|sudo dnf install flameshot -y|-r|-arm|-c
+flameshot RedHat x64|sudo dnf install flameshot -y|-r|-pc|-c
+peek|sudo apt install peek -y|-d|-arm|-c
+peek x64|sudo apt install peek -y|-d|-pc|-c
+peek RedHat|sudo dnf install peek -y|-r|-arm|-c
+peek RedHat x64|sudo dnf install peek -y|-r|-pc|-c
+xclip|sudo apt install xclip -y|-d|-arm|-c
+xclip x64|sudo apt install xclip -y|-d|-pc|-c
+xclip RedHat|sudo dnf install xclip -y|-r|-arm|-c
+xclip RedHat x64|sudo dnf install xclip -y|-r|-pc|-c
+xsel|sudo apt install xsel -y|-d|-arm|-c
+xsel x64|sudo apt install xsel -y|-d|-pc|-c
+xsel RedHat|sudo dnf install xsel -y|-r|-arm|-c
+xsel RedHat x64|sudo dnf install xsel -y|-r|-pc|-c
+numlockx|sudo apt install numlockx -y|-d|-arm|-c
+numlockx x64|sudo apt install numlockx -y|-d|-pc|-c
+numlockx RedHat|sudo dnf install numlockx -y|-r|-arm|-c
+numlockx RedHat x64|sudo dnf install numlockx -y|-r|-pc|-c
+onboard|sudo apt install onboard -y|-d|-arm|-c
+onboard x64|sudo apt install onboard -y|-d|-pc|-c
+onboard RedHat|sudo dnf install onboard -y|-r|-arm|-c
+onboard RedHat x64|sudo dnf install onboard -y|-r|-pc|-c
+ibus|sudo apt install ibus -y|-d|-arm|-c
+ibus x64|sudo apt install ibus -y|-d|-pc|-c
+ibus RedHat|sudo dnf install ibus -y|-r|-arm|-c
+ibus RedHat x64|sudo dnf install ibus -y|-r|-pc|-c
+fcitx|sudo apt install fcitx -y|-d|-arm|-c
+fcitx x64|sudo apt install fcitx -y|-d|-pc|-c
+fcitx RedHat|sudo dnf install fcitx -y|-r|-arm|-c
+fcitx RedHat x64|sudo dnf install fcitx -y|-r|-pc|-c
+ibus-mozc|sudo apt install ibus-mozc -y|-d|-arm|-c
+ibus-mozc x64|sudo apt install ibus-mozc -y|-d|-pc|-c
+ibus-mozc RedHat|sudo dnf install ibus-mozc -y|-r|-arm|-c
+ibus-mozc RedHat x64|sudo dnf install ibus-mozc -y|-r|-pc|-c
+fcitx-mozc|sudo apt install fcitx-mozc -y|-d|-arm|-c
+fcitx-mozc x64|sudo apt install fcitx-mozc -y|-d|-pc|-c
+fcitx-mozc RedHat|sudo dnf install fcitx-mozc -y|-r|-arm|-c
+fcitx-mozc RedHat x64|sudo dnf install fcitx-mozc -y|-r|-pc|-c
+gnome-tweaks|sudo apt install gnome-tweaks -y|-d|-arm|-c
+gnome-tweaks x64|sudo apt install gnome-tweaks -y|-d|-pc|-c
+gnome-tweaks RedHat|sudo dnf install gnome-tweaks -y|-r|-arm|-c
+gnome-tweaks RedHat x64|sudo dnf install gnome-tweaks -y|-r|-pc|-c
+dconf-editor|sudo apt install dconf-editor -y|-d|-arm|-c
+dconf-editor x64|sudo apt install dconf-editor -y|-d|-pc|-c
+dconf-editor RedHat|sudo dnf install dconf-editor -y|-r|-arm|-c
+dconf-editor RedHat x64|sudo dnf install dconf-editor -y|-r|-pc|-c
+gnome-extensions-app|sudo apt install gnome-extensions-app -y|-d|-arm|-c
+gnome-extensions-app x64|sudo apt install gnome-extensions-app -y|-d|-pc|-c
+gnome-extensions-app RedHat|sudo dnf install gnome-extensions-app -y|-r|-arm|-c
+gnome-extensions-app RedHat x64|sudo dnf install gnome-extensions-app -y|-r|-pc|-c
+firefox-extra1|sudo apt install firefox -y|-d|-arm|-c
+firefox-extra1 x64|sudo apt install firefox -y|-d|-pc|-c
+firefox-extra1 RedHat|sudo dnf install firefox -y|-r|-arm|-c
+firefox-extra1 RedHat x64|sudo dnf install firefox -y|-r|-pc|-c
+chromium-extra1|sudo apt install chromium -y|-d|-arm|-c
+chromium-extra1 x64|sudo apt install chromium -y|-d|-pc|-c
+chromium-extra1 RedHat|sudo dnf install chromium -y|-r|-arm|-c
+chromium-extra1 RedHat x64|sudo dnf install chromium -y|-r|-pc|-c
+libreoffice-extra1|sudo apt install libreoffice -y|-d|-arm|-c
+libreoffice-extra1 x64|sudo apt install libreoffice -y|-d|-pc|-c
+libreoffice-extra1 RedHat|sudo dnf install libreoffice -y|-r|-arm|-c
+libreoffice-extra1 RedHat x64|sudo dnf install libreoffice -y|-r|-pc|-c
+thunderbird-extra1|sudo apt install thunderbird -y|-d|-arm|-c
+thunderbird-extra1 x64|sudo apt install thunderbird -y|-d|-pc|-c
+thunderbird-extra1 RedHat|sudo dnf install thunderbird -y|-r|-arm|-c
+thunderbird-extra1 RedHat x64|sudo dnf install thunderbird -y|-r|-pc|-c
+filezilla-extra1|sudo apt install filezilla -y|-d|-arm|-c
+filezilla-extra1 x64|sudo apt install filezilla -y|-d|-pc|-c
+filezilla-extra1 RedHat|sudo dnf install filezilla -y|-r|-arm|-c
+filezilla-extra1 RedHat x64|sudo dnf install filezilla -y|-r|-pc|-c
+remmina-extra1|sudo apt install remmina -y|-d|-arm|-c
+remmina-extra1 x64|sudo apt install remmina -y|-d|-pc|-c
+remmina-extra1 RedHat|sudo dnf install remmina -y|-r|-arm|-c
+remmina-extra1 RedHat x64|sudo dnf install remmina -y|-r|-pc|-c
+evince-extra1|sudo apt install evince -y|-d|-arm|-c
+evince-extra1 x64|sudo apt install evince -y|-d|-pc|-c
+evince-extra1 RedHat|sudo dnf install evince -y|-r|-arm|-c
+evince-extra1 RedHat x64|sudo dnf install evince -y|-r|-pc|-c
+okular-extra1|sudo apt install okular -y|-d|-arm|-c
+okular-extra1 x64|sudo apt install okular -y|-d|-pc|-c
+okular-extra1 RedHat|sudo dnf install okular -y|-r|-arm|-c
+okular-extra1 RedHat x64|sudo dnf install okular -y|-r|-pc|-c
+gnome-calculator-extra1|sudo apt install gnome-calculator -y|-d|-arm|-c
+gnome-calculator-extra1 x64|sudo apt install gnome-calculator -y|-d|-pc|-c
+gnome-calculator-extra1 RedHat|sudo dnf install gnome-calculator -y|-r|-arm|-c
+gnome-calculator-extra1 RedHat x64|sudo dnf install gnome-calculator -y|-r|-pc|-c
+gnome-terminal-extra1|sudo apt install gnome-terminal -y|-d|-arm|-c
+gnome-terminal-extra1 x64|sudo apt install gnome-terminal -y|-d|-pc|-c
+gnome-terminal-extra1 RedHat|sudo dnf install gnome-terminal -y|-r|-arm|-c
+gnome-terminal-extra1 RedHat x64|sudo dnf install gnome-terminal -y|-r|-pc|-c
+konsole-extra1|sudo apt install konsole -y|-d|-arm|-c
+konsole-extra1 x64|sudo apt install konsole -y|-d|-pc|-c
+konsole-extra1 RedHat|sudo dnf install konsole -y|-r|-arm|-c
+konsole-extra1 RedHat x64|sudo dnf install konsole -y|-r|-pc|-c
+xfce4-terminal-extra1|sudo apt install xfce4-terminal -y|-d|-arm|-c
+xfce4-terminal-extra1 x64|sudo apt install xfce4-terminal -y|-d|-pc|-c
+xfce4-terminal-extra1 RedHat|sudo dnf install xfce4-terminal -y|-r|-arm|-c
+xfce4-terminal-extra1 RedHat x64|sudo dnf install xfce4-terminal -y|-r|-pc|-c
+pcmanfm-extra1|sudo apt install pcmanfm -y|-d|-arm|-c
+pcmanfm-extra1 x64|sudo apt install pcmanfm -y|-d|-pc|-c
+pcmanfm-extra1 RedHat|sudo dnf install pcmanfm -y|-r|-arm|-c
+pcmanfm-extra1 RedHat x64|sudo dnf install pcmanfm -y|-r|-pc|-c
+nautilus-extra1|sudo apt install nautilus -y|-d|-arm|-c
+nautilus-extra1 x64|sudo apt install nautilus -y|-d|-pc|-c
+nautilus-extra1 RedHat|sudo dnf install nautilus -y|-r|-arm|-c
+nautilus-extra1 RedHat x64|sudo dnf install nautilus -y|-r|-pc|-c
+dolphin-extra1|sudo apt install dolphin -y|-d|-arm|-c
+dolphin-extra1 x64|sudo apt install dolphin -y|-d|-pc|-c
+dolphin-extra1 RedHat|sudo dnf install dolphin -y|-r|-arm|-c
+dolphin-extra1 RedHat x64|sudo dnf install dolphin -y|-r|-pc|-c
+gparted-extra1|sudo apt install gparted -y|-d|-arm|-c
+gparted-extra1 x64|sudo apt install gparted -y|-d|-pc|-c
+gparted-extra1 RedHat|sudo dnf install gparted -y|-r|-arm|-c
+gparted-extra1 RedHat x64|sudo dnf install gparted -y|-r|-pc|-c
+timeshift-extra1|sudo apt install timeshift -y|-d|-arm|-c
+timeshift-extra1 x64|sudo apt install timeshift -y|-d|-pc|-c
+timeshift-extra1 RedHat|sudo dnf install timeshift -y|-r|-arm|-c
+timeshift-extra1 RedHat x64|sudo dnf install timeshift -y|-r|-pc|-c
+synaptic-extra1|sudo apt install synaptic -y|-d|-arm|-c
+synaptic-extra1 x64|sudo apt install synaptic -y|-d|-pc|-c
+synaptic-extra1 RedHat|sudo dnf install synaptic -y|-r|-arm|-c
+synaptic-extra1 RedHat x64|sudo dnf install synaptic -y|-r|-pc|-c
+bleachbit-extra1|sudo apt install bleachbit -y|-d|-arm|-c
+bleachbit-extra1 x64|sudo apt install bleachbit -y|-d|-pc|-c
+bleachbit-extra1 RedHat|sudo dnf install bleachbit -y|-r|-arm|-c
+bleachbit-extra1 RedHat x64|sudo dnf install bleachbit -y|-r|-pc|-c
+neofetch-extra1|sudo apt install neofetch -y|-d|-arm|-c
+neofetch-extra1 x64|sudo apt install neofetch -y|-d|-pc|-c
+neofetch-extra1 RedHat|sudo dnf install neofetch -y|-r|-arm|-c
+neofetch-extra1 RedHat x64|sudo dnf install neofetch -y|-r|-pc|-c
+htop-extra1|sudo apt install htop -y|-d|-arm|-c
+htop-extra1 x64|sudo apt install htop -y|-d|-pc|-c
+htop-extra1 RedHat|sudo dnf install htop -y|-r|-arm|-c
+htop-extra1 RedHat x64|sudo dnf install htop -y|-r|-pc|-c
+btop-extra1|sudo apt install btop -y|-d|-arm|-c
+btop-extra1 x64|sudo apt install btop -y|-d|-pc|-c
+btop-extra1 RedHat|sudo dnf install btop -y|-r|-arm|-c
+btop-extra1 RedHat x64|sudo dnf install btop -y|-r|-pc|-c
+gnome-system-monitor-extra1|sudo apt install gnome-system-monitor -y|-d|-arm|-c
+gnome-system-monitor-extra1 x64|sudo apt install gnome-system-monitor -y|-d|-pc|-c
+gnome-system-monitor-extra1 RedHat|sudo dnf install gnome-system-monitor -y|-r|-arm|-c
+gnome-system-monitor-extra1 RedHat x64|sudo dnf install gnome-system-monitor -y|-r|-pc|-c
+baobab-extra1|sudo apt install baobab -y|-d|-arm|-c
+baobab-extra1 x64|sudo apt install baobab -y|-d|-pc|-c
+baobab-extra1 RedHat|sudo dnf install baobab -y|-r|-arm|-c
+baobab-extra1 RedHat x64|sudo dnf install baobab -y|-r|-pc|-c
+cheese-extra1|sudo apt install cheese -y|-d|-arm|-c
+cheese-extra1 x64|sudo apt install cheese -y|-d|-pc|-c
+cheese-extra1 RedHat|sudo dnf install cheese -y|-r|-arm|-c
+cheese-extra1 RedHat x64|sudo dnf install cheese -y|-r|-pc|-c
+shotwell-extra1|sudo apt install shotwell -y|-d|-arm|-c
+shotwell-extra1 x64|sudo apt install shotwell -y|-d|-pc|-c
+shotwell-extra1 RedHat|sudo dnf install shotwell -y|-r|-arm|-c
+shotwell-extra1 RedHat x64|sudo dnf install shotwell -y|-r|-pc|-c
+rhythmbox-extra1|sudo apt install rhythmbox -y|-d|-arm|-c
+rhythmbox-extra1 x64|sudo apt install rhythmbox -y|-d|-pc|-c
+rhythmbox-extra1 RedHat|sudo dnf install rhythmbox -y|-r|-arm|-c
+rhythmbox-extra1 RedHat x64|sudo dnf install rhythmbox -y|-r|-pc|-c
+totem-extra1|sudo apt install totem -y|-d|-arm|-c
+totem-extra1 x64|sudo apt install totem -y|-d|-pc|-c
+totem-extra1 RedHat|sudo dnf install totem -y|-r|-arm|-c
+totem-extra1 RedHat x64|sudo dnf install totem -y|-r|-pc|-c
+eog-extra1|sudo apt install eog -y|-d|-arm|-c
+eog-extra1 x64|sudo apt install eog -y|-d|-pc|-c
+eog-extra1 RedHat|sudo dnf install eog -y|-r|-arm|-c
+eog-extra1 RedHat x64|sudo dnf install eog -y|-r|-pc|-c
+gnome-disk-utility-extra1|sudo apt install gnome-disk-utility -y|-d|-arm|-c
+gnome-disk-utility-extra1 x64|sudo apt install gnome-disk-utility -y|-d|-pc|-c
+gnome-disk-utility-extra1 RedHat|sudo dnf install gnome-disk-utility -y|-r|-arm|-c
+gnome-disk-utility-extra1 RedHat x64|sudo dnf install gnome-disk-utility -y|-r|-pc|-c
+cups-extra1|sudo apt install cups -y|-d|-arm|-c
+cups-extra1 x64|sudo apt install cups -y|-d|-pc|-c
+cups-extra1 RedHat|sudo dnf install cups -y|-r|-arm|-c
+cups-extra1 RedHat x64|sudo dnf install cups -y|-r|-pc|-c
+system-config-printer-extra1|sudo apt install system-config-printer -y|-d|-arm|-c
+system-config-printer-extra1 x64|sudo apt install system-config-printer -y|-d|-pc|-c
+system-config-printer-extra1 RedHat|sudo dnf install system-config-printer -y|-r|-arm|-c
+system-config-printer-extra1 RedHat x64|sudo dnf install system-config-printer -y|-r|-pc|-c
+network-manager-extra1|sudo apt install network-manager -y|-d|-arm|-c
+network-manager-extra1 x64|sudo apt install network-manager -y|-d|-pc|-c
+network-manager-extra1 RedHat|sudo dnf install network-manager -y|-r|-arm|-c
+network-manager-extra1 RedHat x64|sudo dnf install network-manager -y|-r|-pc|-c
+nmcli-extra1|sudo apt install nmcli -y|-d|-arm|-c
+nmcli-extra1 x64|sudo apt install nmcli -y|-d|-pc|-c
+nmcli-extra1 RedHat|sudo dnf install nmcli -y|-r|-arm|-c
+nmcli-extra1 RedHat x64|sudo dnf install nmcli -y|-r|-pc|-c
+blueman-extra1|sudo apt install blueman -y|-d|-arm|-c
+blueman-extra1 x64|sudo apt install blueman -y|-d|-pc|-c
+blueman-extra1 RedHat|sudo dnf install blueman -y|-r|-arm|-c
+blueman-extra1 RedHat x64|sudo dnf install blueman -y|-r|-pc|-c
+pavucontrol-extra1|sudo apt install pavucontrol -y|-d|-arm|-c
+pavucontrol-extra1 x64|sudo apt install pavucontrol -y|-d|-pc|-c
+pavucontrol-extra1 RedHat|sudo dnf install pavucontrol -y|-r|-arm|-c
+pavucontrol-extra1 RedHat x64|sudo dnf install pavucontrol -y|-r|-pc|-c
+alsa-utils-extra1|sudo apt install alsa-utils -y|-d|-arm|-c
+alsa-utils-extra1 x64|sudo apt install alsa-utils -y|-d|-pc|-c
+alsa-utils-extra1 RedHat|sudo dnf install alsa-utils -y|-r|-arm|-c
+alsa-utils-extra1 RedHat x64|sudo dnf install alsa-utils -y|-r|-pc|-c
+pulseaudio-extra1|sudo apt install pulseaudio -y|-d|-arm|-c
+pulseaudio-extra1 x64|sudo apt install pulseaudio -y|-d|-pc|-c
+pulseaudio-extra1 RedHat|sudo dnf install pulseaudio -y|-r|-arm|-c
+pulseaudio-extra1 RedHat x64|sudo dnf install pulseaudio -y|-r|-pc|-c
+pipewire-extra1|sudo apt install pipewire -y|-d|-arm|-c
+pipewire-extra1 x64|sudo apt install pipewire -y|-d|-pc|-c
+pipewire-extra1 RedHat|sudo dnf install pipewire -y|-r|-arm|-c
+pipewire-extra1 RedHat x64|sudo dnf install pipewire -y|-r|-pc|-c
+flatpak-extra1|sudo apt install flatpak -y|-d|-arm|-c
+flatpak-extra1 x64|sudo apt install flatpak -y|-d|-pc|-c
+flatpak-extra1 RedHat|sudo dnf install flatpak -y|-r|-arm|-c
+flatpak-extra1 RedHat x64|sudo dnf install flatpak -y|-r|-pc|-c
+snapd-extra1|sudo apt install snapd -y|-d|-arm|-c
+snapd-extra1 x64|sudo apt install snapd -y|-d|-pc|-c
+snapd-extra1 RedHat|sudo dnf install snapd -y|-r|-arm|-c
+snapd-extra1 RedHat x64|sudo dnf install snapd -y|-r|-pc|-c
+gnome-software-extra1|sudo apt install gnome-software -y|-d|-arm|-c
+gnome-software-extra1 x64|sudo apt install gnome-software -y|-d|-pc|-c
+gnome-software-extra1 RedHat|sudo dnf install gnome-software -y|-r|-arm|-c
+gnome-software-extra1 RedHat x64|sudo dnf install gnome-software -y|-r|-pc|-c
+kdeconnect-extra1|sudo apt install kdeconnect -y|-d|-arm|-c
+kdeconnect-extra1 x64|sudo apt install kdeconnect -y|-d|-pc|-c
+kdeconnect-extra1 RedHat|sudo dnf install kdeconnect -y|-r|-arm|-c
+kdeconnect-extra1 RedHat x64|sudo dnf install kdeconnect -y|-r|-pc|-c
+redshift-extra1|sudo apt install redshift -y|-d|-arm|-c
+redshift-extra1 x64|sudo apt install redshift -y|-d|-pc|-c
+redshift-extra1 RedHat|sudo dnf install redshift -y|-r|-arm|-c
+redshift-extra1 RedHat x64|sudo dnf install redshift -y|-r|-pc|-c
+variety-extra1|sudo apt install variety -y|-d|-arm|-c
+variety-extra1 x64|sudo apt install variety -y|-d|-pc|-c
+variety-extra1 RedHat|sudo dnf install variety -y|-r|-arm|-c
+variety-extra1 RedHat x64|sudo dnf install variety -y|-r|-pc|-c
+lightdm-extra1|sudo apt install lightdm -y|-d|-arm|-c
+lightdm-extra1 x64|sudo apt install lightdm -y|-d|-pc|-c
+lightdm-extra1 RedHat|sudo dnf install lightdm -y|-r|-arm|-c
+lightdm-extra1 RedHat x64|sudo dnf install lightdm -y|-r|-pc|-c
+sddm-extra1|sudo apt install sddm -y|-d|-arm|-c
+sddm-extra1 x64|sudo apt install sddm -y|-d|-pc|-c
+sddm-extra1 RedHat|sudo dnf install sddm -y|-r|-arm|-c
+sddm-extra1 RedHat x64|sudo dnf install sddm -y|-r|-pc|-c
+lxappearance-extra1|sudo apt install lxappearance -y|-d|-arm|-c
+lxappearance-extra1 x64|sudo apt install lxappearance -y|-d|-pc|-c
+lxappearance-extra1 RedHat|sudo dnf install lxappearance -y|-r|-arm|-c
+lxappearance-extra1 RedHat x64|sudo dnf install lxappearance -y|-r|-pc|-c
+arandr-extra1|sudo apt install arandr -y|-d|-arm|-c
+arandr-extra1 x64|sudo apt install arandr -y|-d|-pc|-c
+arandr-extra1 RedHat|sudo dnf install arandr -y|-r|-arm|-c
+arandr-extra1 RedHat x64|sudo dnf install arandr -y|-r|-pc|-c
+flameshot-extra1|sudo apt install flameshot -y|-d|-arm|-c
+flameshot-extra1 x64|sudo apt install flameshot -y|-d|-pc|-c
+flameshot-extra1 RedHat|sudo dnf install flameshot -y|-r|-arm|-c
+flameshot-extra1 RedHat x64|sudo dnf install flameshot -y|-r|-pc|-c
+peek-extra1|sudo apt install peek -y|-d|-arm|-c
+peek-extra1 x64|sudo apt install peek -y|-d|-pc|-c
+peek-extra1 RedHat|sudo dnf install peek -y|-r|-arm|-c
+peek-extra1 RedHat x64|sudo dnf install peek -y|-r|-pc|-c
+xclip-extra1|sudo apt install xclip -y|-d|-arm|-c
+xclip-extra1 x64|sudo apt install xclip -y|-d|-pc|-c
+xclip-extra1 RedHat|sudo dnf install xclip -y|-r|-arm|-c
+xclip-extra1 RedHat x64|sudo dnf install xclip -y|-r|-pc|-c
+xsel-extra1|sudo apt install xsel -y|-d|-arm|-c
+xsel-extra1 x64|sudo apt install xsel -y|-d|-pc|-c
+xsel-extra1 RedHat|sudo dnf install xsel -y|-r|-arm|-c
+xsel-extra1 RedHat x64|sudo dnf install xsel -y|-r|-pc|-c
+numlockx-extra1|sudo apt install numlockx -y|-d|-arm|-c
+numlockx-extra1 x64|sudo apt install numlockx -y|-d|-pc|-c
+numlockx-extra1 RedHat|sudo dnf install numlockx -y|-r|-arm|-c
+numlockx-extra1 RedHat x64|sudo dnf install numlockx -y|-r|-pc|-c
+onboard-extra1|sudo apt install onboard -y|-d|-arm|-c
+onboard-extra1 x64|sudo apt install onboard -y|-d|-pc|-c
+onboard-extra1 RedHat|sudo dnf install onboard -y|-r|-arm|-c
+onboard-extra1 RedHat x64|sudo dnf install onboard -y|-r|-pc|-c
+ibus-extra1|sudo apt install ibus -y|-d|-arm|-c
+ibus-extra1 x64|sudo apt install ibus -y|-d|-pc|-c
+ibus-extra1 RedHat|sudo dnf install ibus -y|-r|-arm|-c
+ibus-extra1 RedHat x64|sudo dnf install ibus -y|-r|-pc|-c
+fcitx-extra1|sudo apt install fcitx -y|-d|-arm|-c
+fcitx-extra1 x64|sudo apt install fcitx -y|-d|-pc|-c
+fcitx-extra1 RedHat|sudo dnf install fcitx -y|-r|-arm|-c
+fcitx-extra1 RedHat x64|sudo dnf install fcitx -y|-r|-pc|-c
+ibus-mozc-extra1|sudo apt install ibus-mozc -y|-d|-arm|-c
+ibus-mozc-extra1 x64|sudo apt install ibus-mozc -y|-d|-pc|-c
+ibus-mozc-extra1 RedHat|sudo dnf install ibus-mozc -y|-r|-arm|-c
+ibus-mozc-extra1 RedHat x64|sudo dnf install ibus-mozc -y|-r|-pc|-c
+fcitx-mozc-extra1|sudo apt install fcitx-mozc -y|-d|-arm|-c
+fcitx-mozc-extra1 x64|sudo apt install fcitx-mozc -y|-d|-pc|-c
+fcitx-mozc-extra1 RedHat|sudo dnf install fcitx-mozc -y|-r|-arm|-c
+fcitx-mozc-extra1 RedHat x64|sudo dnf install fcitx-mozc -y|-r|-pc|-c
+gnome-tweaks-extra1|sudo apt install gnome-tweaks -y|-d|-arm|-c
+gnome-tweaks-extra1 x64|sudo apt install gnome-tweaks -y|-d|-pc|-c
+gnome-tweaks-extra1 RedHat|sudo dnf install gnome-tweaks -y|-r|-arm|-c
+gnome-tweaks-extra1 RedHat x64|sudo dnf install gnome-tweaks -y|-r|-pc|-c
+dconf-editor-extra1|sudo apt install dconf-editor -y|-d|-arm|-c
+dconf-editor-extra1 x64|sudo apt install dconf-editor -y|-d|-pc|-c
+dconf-editor-extra1 RedHat|sudo dnf install dconf-editor -y|-r|-arm|-c
+dconf-editor-extra1 RedHat x64|sudo dnf install dconf-editor -y|-r|-pc|-c
+gnome-extensions-app-extra1|sudo apt install gnome-extensions-app -y|-d|-arm|-c
+gnome-extensions-app-extra1 x64|sudo apt install gnome-extensions-app -y|-d|-pc|-c
+gnome-extensions-app-extra1 RedHat|sudo dnf install gnome-extensions-app -y|-r|-arm|-c
+gnome-extensions-app-extra1 RedHat x64|sudo dnf install gnome-extensions-app -y|-r|-pc|-c
+firefox-extra2|sudo apt install firefox -y|-d|-arm|-c
+firefox-extra2 x64|sudo apt install firefox -y|-d|-pc|-c
+firefox-extra2 RedHat|sudo dnf install firefox -y|-r|-arm|-c
+firefox-extra2 RedHat x64|sudo dnf install firefox -y|-r|-pc|-c
+chromium-extra2|sudo apt install chromium -y|-d|-arm|-c
+chromium-extra2 x64|sudo apt install chromium -y|-d|-pc|-c
+chromium-extra2 RedHat|sudo dnf install chromium -y|-r|-arm|-c
+chromium-extra2 RedHat x64|sudo dnf install chromium -y|-r|-pc|-c
+libreoffice-extra2|sudo apt install libreoffice -y|-d|-arm|-c
+libreoffice-extra2 x64|sudo apt install libreoffice -y|-d|-pc|-c
+libreoffice-extra2 RedHat|sudo dnf install libreoffice -y|-r|-arm|-c
+libreoffice-extra2 RedHat x64|sudo dnf install libreoffice -y|-r|-pc|-c
+thunderbird-extra2|sudo apt install thunderbird -y|-d|-arm|-c
+thunderbird-extra2 x64|sudo apt install thunderbird -y|-d|-pc|-c
+thunderbird-extra2 RedHat|sudo dnf install thunderbird -y|-r|-arm|-c
+thunderbird-extra2 RedHat x64|sudo dnf install thunderbird -y|-r|-pc|-c
+filezilla-extra2|sudo apt install filezilla -y|-d|-arm|-c
+filezilla-extra2 x64|sudo apt install filezilla -y|-d|-pc|-c
+filezilla-extra2 RedHat|sudo dnf install filezilla -y|-r|-arm|-c
+filezilla-extra2 RedHat x64|sudo dnf install filezilla -y|-r|-pc|-c
+remmina-extra2|sudo apt install remmina -y|-d|-arm|-c
+remmina-extra2 x64|sudo apt install remmina -y|-d|-pc|-c
+remmina-extra2 RedHat|sudo dnf install remmina -y|-r|-arm|-c
+remmina-extra2 RedHat x64|sudo dnf install remmina -y|-r|-pc|-c
+evince-extra2|sudo apt install evince -y|-d|-arm|-c
+evince-extra2 x64|sudo apt install evince -y|-d|-pc|-c
+evince-extra2 RedHat|sudo dnf install evince -y|-r|-arm|-c
+evince-extra2 RedHat x64|sudo dnf install evince -y|-r|-pc|-c
+okular-extra2|sudo apt install okular -y|-d|-arm|-c
+okular-extra2 x64|sudo apt install okular -y|-d|-pc|-c
+okular-extra2 RedHat|sudo dnf install okular -y|-r|-arm|-c
+okular-extra2 RedHat x64|sudo dnf install okular -y|-r|-pc|-c
+gnome-calculator-extra2|sudo apt install gnome-calculator -y|-d|-arm|-c
+gnome-calculator-extra2 x64|sudo apt install gnome-calculator -y|-d|-pc|-c
+gnome-calculator-extra2 RedHat|sudo dnf install gnome-calculator -y|-r|-arm|-c
+gnome-calculator-extra2 RedHat x64|sudo dnf install gnome-calculator -y|-r|-pc|-c
+gnome-terminal-extra2|sudo apt install gnome-terminal -y|-d|-arm|-c
+gnome-terminal-extra2 x64|sudo apt install gnome-terminal -y|-d|-pc|-c
+gnome-terminal-extra2 RedHat|sudo dnf install gnome-terminal -y|-r|-arm|-c
+gnome-terminal-extra2 RedHat x64|sudo dnf install gnome-terminal -y|-r|-pc|-c
+konsole-extra2|sudo apt install konsole -y|-d|-arm|-c
+konsole-extra2 x64|sudo apt install konsole -y|-d|-pc|-c
+konsole-extra2 RedHat|sudo dnf install konsole -y|-r|-arm|-c
+konsole-extra2 RedHat x64|sudo dnf install konsole -y|-r|-pc|-c
+xfce4-terminal-extra2|sudo apt install xfce4-terminal -y|-d|-arm|-c
+xfce4-terminal-extra2 x64|sudo apt install xfce4-terminal -y|-d|-pc|-c
+xfce4-terminal-extra2 RedHat|sudo dnf install xfce4-terminal -y|-r|-arm|-c
+xfce4-terminal-extra2 RedHat x64|sudo dnf install xfce4-terminal -y|-r|-pc|-c
+pcmanfm-extra2|sudo apt install pcmanfm -y|-d|-arm|-c
+pcmanfm-extra2 x64|sudo apt install pcmanfm -y|-d|-pc|-c
+pcmanfm-extra2 RedHat|sudo dnf install pcmanfm -y|-r|-arm|-c
+pcmanfm-extra2 RedHat x64|sudo dnf install pcmanfm -y|-r|-pc|-c
+nautilus-extra2|sudo apt install nautilus -y|-d|-arm|-c
+nautilus-extra2 x64|sudo apt install nautilus -y|-d|-pc|-c
+nautilus-extra2 RedHat|sudo dnf install nautilus -y|-r|-arm|-c
+nautilus-extra2 RedHat x64|sudo dnf install nautilus -y|-r|-pc|-c
+dolphin-extra2|sudo apt install dolphin -y|-d|-arm|-c
+dolphin-extra2 x64|sudo apt install dolphin -y|-d|-pc|-c
+dolphin-extra2 RedHat|sudo dnf install dolphin -y|-r|-arm|-c
+dolphin-extra2 RedHat x64|sudo dnf install dolphin -y|-r|-pc|-c
+gparted-extra2|sudo apt install gparted -y|-d|-arm|-c
+gparted-extra2 x64|sudo apt install gparted -y|-d|-pc|-c
+gparted-extra2 RedHat|sudo dnf install gparted -y|-r|-arm|-c
+gparted-extra2 RedHat x64|sudo dnf install gparted -y|-r|-pc|-c
+timeshift-extra2|sudo apt install timeshift -y|-d|-arm|-c
+timeshift-extra2 x64|sudo apt install timeshift -y|-d|-pc|-c
+timeshift-extra2 RedHat|sudo dnf install timeshift -y|-r|-arm|-c
+timeshift-extra2 RedHat x64|sudo dnf install timeshift -y|-r|-pc|-c
+synaptic-extra2|sudo apt install synaptic -y|-d|-arm|-c
+synaptic-extra2 x64|sudo apt install synaptic -y|-d|-pc|-c
+synaptic-extra2 RedHat|sudo dnf install synaptic -y|-r|-arm|-c
+synaptic-extra2 RedHat x64|sudo dnf install synaptic -y|-r|-pc|-c
+bleachbit-extra2|sudo apt install bleachbit -y|-d|-arm|-c
+bleachbit-extra2 x64|sudo apt install bleachbit -y|-d|-pc|-c
+bleachbit-extra2 RedHat|sudo dnf install bleachbit -y|-r|-arm|-c
+bleachbit-extra2 RedHat x64|sudo dnf install bleachbit -y|-r|-pc|-c
+neofetch-extra2|sudo apt install neofetch -y|-d|-arm|-c
+neofetch-extra2 x64|sudo apt install neofetch -y|-d|-pc|-c
+neofetch-extra2 RedHat|sudo dnf install neofetch -y|-r|-arm|-c
+neofetch-extra2 RedHat x64|sudo dnf install neofetch -y|-r|-pc|-c
+htop-extra2|sudo apt install htop -y|-d|-arm|-c
+htop-extra2 x64|sudo apt install htop -y|-d|-pc|-c
+htop-extra2 RedHat|sudo dnf install htop -y|-r|-arm|-c
+htop-extra2 RedHat x64|sudo dnf install htop -y|-r|-pc|-c
+btop-extra2|sudo apt install btop -y|-d|-arm|-c
+btop-extra2 x64|sudo apt install btop -y|-d|-pc|-c
+btop-extra2 RedHat|sudo dnf install btop -y|-r|-arm|-c
+btop-extra2 RedHat x64|sudo dnf install btop -y|-r|-pc|-c
+gnome-system-monitor-extra2|sudo apt install gnome-system-monitor -y|-d|-arm|-c
+gnome-system-monitor-extra2 x64|sudo apt install gnome-system-monitor -y|-d|-pc|-c
+gnome-system-monitor-extra2 RedHat|sudo dnf install gnome-system-monitor -y|-r|-arm|-c
+gnome-system-monitor-extra2 RedHat x64|sudo dnf install gnome-system-monitor -y|-r|-pc|-c
+baobab-extra2|sudo apt install baobab -y|-d|-arm|-c
+baobab-extra2 x64|sudo apt install baobab -y|-d|-pc|-c
+baobab-extra2 RedHat|sudo dnf install baobab -y|-r|-arm|-c
+baobab-extra2 RedHat x64|sudo dnf install baobab -y|-r|-pc|-c
+cheese-extra2|sudo apt install cheese -y|-d|-arm|-c
+cheese-extra2 x64|sudo apt install cheese -y|-d|-pc|-c
+cheese-extra2 RedHat|sudo dnf install cheese -y|-r|-arm|-c
+cheese-extra2 RedHat x64|sudo dnf install cheese -y|-r|-pc|-c
+shotwell-extra2|sudo apt install shotwell -y|-d|-arm|-c
+shotwell-extra2 x64|sudo apt install shotwell -y|-d|-pc|-c
+shotwell-extra2 RedHat|sudo dnf install shotwell -y|-r|-arm|-c
+shotwell-extra2 RedHat x64|sudo dnf install shotwell -y|-r|-pc|-c
+rhythmbox-extra2|sudo apt install rhythmbox -y|-d|-arm|-c
+rhythmbox-extra2 x64|sudo apt install rhythmbox -y|-d|-pc|-c
+rhythmbox-extra2 RedHat|sudo dnf install rhythmbox -y|-r|-arm|-c
+rhythmbox-extra2 RedHat x64|sudo dnf install rhythmbox -y|-r|-pc|-c
+totem-extra2|sudo apt install totem -y|-d|-arm|-c
+totem-extra2 x64|sudo apt install totem -y|-d|-pc|-c
+totem-extra2 RedHat|sudo dnf install totem -y|-r|-arm|-c
+totem-extra2 RedHat x64|sudo dnf install totem -y|-r|-pc|-c
+eog-extra2|sudo apt install eog -y|-d|-arm|-c
+eog-extra2 x64|sudo apt install eog -y|-d|-pc|-c
+eog-extra2 RedHat|sudo dnf install eog -y|-r|-arm|-c
+eog-extra2 RedHat x64|sudo dnf install eog -y|-r|-pc|-c
+gnome-disk-utility-extra2|sudo apt install gnome-disk-utility -y|-d|-arm|-c
+gnome-disk-utility-extra2 x64|sudo apt install gnome-disk-utility -y|-d|-pc|-c
+gnome-disk-utility-extra2 RedHat|sudo dnf install gnome-disk-utility -y|-r|-arm|-c
+gnome-disk-utility-extra2 RedHat x64|sudo dnf install gnome-disk-utility -y|-r|-pc|-c
+cups-extra2|sudo apt install cups -y|-d|-arm|-c
+cups-extra2 x64|sudo apt install cups -y|-d|-pc|-c
+cups-extra2 RedHat|sudo dnf install cups -y|-r|-arm|-c
+cups-extra2 RedHat x64|sudo dnf install cups -y|-r|-pc|-c
+system-config-printer-extra2|sudo apt install system-config-printer -y|-d|-arm|-c
+system-config-printer-extra2 x64|sudo apt install system-config-printer -y|-d|-pc|-c
+system-config-printer-extra2 RedHat|sudo dnf install system-config-printer -y|-r|-arm|-c
+system-config-printer-extra2 RedHat x64|sudo dnf install system-config-printer -y|-r|-pc|-c
+network-manager-extra2|sudo apt install network-manager -y|-d|-arm|-c
+network-manager-extra2 x64|sudo apt install network-manager -y|-d|-pc|-c
+network-manager-extra2 RedHat|sudo dnf install network-manager -y|-r|-arm|-c
+network-manager-extra2 RedHat x64|sudo dnf install network-manager -y|-r|-pc|-c
+nmcli-extra2|sudo apt install nmcli -y|-d|-arm|-c
+nmcli-extra2 x64|sudo apt install nmcli -y|-d|-pc|-c
+nmcli-extra2 RedHat|sudo dnf install nmcli -y|-r|-arm|-c
+nmcli-extra2 RedHat x64|sudo dnf install nmcli -y|-r|-pc|-c
+blueman-extra2|sudo apt install blueman -y|-d|-arm|-c
+blueman-extra2 x64|sudo apt install blueman -y|-d|-pc|-c
+blueman-extra2 RedHat|sudo dnf install blueman -y|-r|-arm|-c
+blueman-extra2 RedHat x64|sudo dnf install blueman -y|-r|-pc|-c
+pavucontrol-extra2|sudo apt install pavucontrol -y|-d|-arm|-c
+pavucontrol-extra2 x64|sudo apt install pavucontrol -y|-d|-pc|-c
+pavucontrol-extra2 RedHat|sudo dnf install pavucontrol -y|-r|-arm|-c
+pavucontrol-extra2 RedHat x64|sudo dnf install pavucontrol -y|-r|-pc|-c
+alsa-utils-extra2|sudo apt install alsa-utils -y|-d|-arm|-c
+alsa-utils-extra2 x64|sudo apt install alsa-utils -y|-d|-pc|-c
+alsa-utils-extra2 RedHat|sudo dnf install alsa-utils -y|-r|-arm|-c
+alsa-utils-extra2 RedHat x64|sudo dnf install alsa-utils -y|-r|-pc|-c
+pulseaudio-extra2|sudo apt install pulseaudio -y|-d|-arm|-c
+pulseaudio-extra2 x64|sudo apt install pulseaudio -y|-d|-pc|-c
+pulseaudio-extra2 RedHat|sudo dnf install pulseaudio -y|-r|-arm|-c
+pulseaudio-extra2 RedHat x64|sudo dnf install pulseaudio -y|-r|-pc|-c
+pipewire-extra2|sudo apt install pipewire -y|-d|-arm|-c
+pipewire-extra2 x64|sudo apt install pipewire -y|-d|-pc|-c
+pipewire-extra2 RedHat|sudo dnf install pipewire -y|-r|-arm|-c
+pipewire-extra2 RedHat x64|sudo dnf install pipewire -y|-r|-pc|-c
+flatpak-extra2|sudo apt install flatpak -y|-d|-arm|-c
+flatpak-extra2 x64|sudo apt install flatpak -y|-d|-pc|-c
+flatpak-extra2 RedHat|sudo dnf install flatpak -y|-r|-arm|-c
+flatpak-extra2 RedHat x64|sudo dnf install flatpak -y|-r|-pc|-c
+snapd-extra2|sudo apt install snapd -y|-d|-arm|-c
+snapd-extra2 x64|sudo apt install snapd -y|-d|-pc|-c
+snapd-extra2 RedHat|sudo dnf install snapd -y|-r|-arm|-c
+snapd-extra2 RedHat x64|sudo dnf install snapd -y|-r|-pc|-c
+gnome-software-extra2|sudo apt install gnome-software -y|-d|-arm|-c
+gnome-software-extra2 x64|sudo apt install gnome-software -y|-d|-pc|-c
+gnome-software-extra2 RedHat|sudo dnf install gnome-software -y|-r|-arm|-c
+gnome-software-extra2 RedHat x64|sudo dnf install gnome-software -y|-r|-pc|-c
+kdeconnect-extra2|sudo apt install kdeconnect -y|-d|-arm|-c
+kdeconnect-extra2 x64|sudo apt install kdeconnect -y|-d|-pc|-c
+kdeconnect-extra2 RedHat|sudo dnf install kdeconnect -y|-r|-arm|-c
+kdeconnect-extra2 RedHat x64|sudo dnf install kdeconnect -y|-r|-pc|-c
+redshift-extra2|sudo apt install redshift -y|-d|-arm|-c
+redshift-extra2 x64|sudo apt install redshift -y|-d|-pc|-c
+redshift-extra2 RedHat|sudo dnf install redshift -y|-r|-arm|-c
+redshift-extra2 RedHat x64|sudo dnf install redshift -y|-r|-pc|-c
+variety-extra2|sudo apt install variety -y|-d|-arm|-c
+variety-extra2 x64|sudo apt install variety -y|-d|-pc|-c
+variety-extra2 RedHat|sudo dnf install variety -y|-r|-arm|-c
+variety-extra2 RedHat x64|sudo dnf install variety -y|-r|-pc|-c
+lightdm-extra2|sudo apt install lightdm -y|-d|-arm|-c
+lightdm-extra2 x64|sudo apt install lightdm -y|-d|-pc|-c
+lightdm-extra2 RedHat|sudo dnf install lightdm -y|-r|-arm|-c
+lightdm-extra2 RedHat x64|sudo dnf install lightdm -y|-r|-pc|-c
+sddm-extra2|sudo apt install sddm -y|-d|-arm|-c
+sddm-extra2 x64|sudo apt install sddm -y|-d|-pc|-c
+sddm-extra2 RedHat|sudo dnf install sddm -y|-r|-arm|-c
+sddm-extra2 RedHat x64|sudo dnf install sddm -y|-r|-pc|-c
+lxappearance-extra2|sudo apt install lxappearance -y|-d|-arm|-c
+lxappearance-extra2 x64|sudo apt install lxappearance -y|-d|-pc|-c
+lxappearance-extra2 RedHat|sudo dnf install lxappearance -y|-r|-arm|-c
+lxappearance-extra2 RedHat x64|sudo dnf install lxappearance -y|-r|-pc|-c
+arandr-extra2|sudo apt install arandr -y|-d|-arm|-c
+arandr-extra2 x64|sudo apt install arandr -y|-d|-pc|-c
+arandr-extra2 RedHat|sudo dnf install arandr -y|-r|-arm|-c
+arandr-extra2 RedHat x64|sudo dnf install arandr -y|-r|-pc|-c
+flameshot-extra2|sudo apt install flameshot -y|-d|-arm|-c
+flameshot-extra2 x64|sudo apt install flameshot -y|-d|-pc|-c
+flameshot-extra2 RedHat|sudo dnf install flameshot -y|-r|-arm|-c
+flameshot-extra2 RedHat x64|sudo dnf install flameshot -y|-r|-pc|-c
+peek-extra2|sudo apt install peek -y|-d|-arm|-c
+peek-extra2 x64|sudo apt install peek -y|-d|-pc|-c
+peek-extra2 RedHat|sudo dnf install peek -y|-r|-arm|-c
+peek-extra2 RedHat x64|sudo dnf install peek -y|-r|-pc|-c
+xclip-extra2|sudo apt install xclip -y|-d|-arm|-c
+xclip-extra2 x64|sudo apt install xclip -y|-d|-pc|-c
+xclip-extra2 RedHat|sudo dnf install xclip -y|-r|-arm|-c
+xclip-extra2 RedHat x64|sudo dnf install xclip -y|-r|-pc|-c
+xsel-extra2|sudo apt install xsel -y|-d|-arm|-c
+xsel-extra2 x64|sudo apt install xsel -y|-d|-pc|-c
+xsel-extra2 RedHat|sudo dnf install xsel -y|-r|-arm|-c
+xsel-extra2 RedHat x64|sudo dnf install xsel -y|-r|-pc|-c
+numlockx-extra2|sudo apt install numlockx -y|-d|-arm|-c
+numlockx-extra2 x64|sudo apt install numlockx -y|-d|-pc|-c
+numlockx-extra2 RedHat|sudo dnf install numlockx -y|-r|-arm|-c
+numlockx-extra2 RedHat x64|sudo dnf install numlockx -y|-r|-pc|-c
+onboard-extra2|sudo apt install onboard -y|-d|-arm|-c
+onboard-extra2 x64|sudo apt install onboard -y|-d|-pc|-c
+onboard-extra2 RedHat|sudo dnf install onboard -y|-r|-arm|-c
+onboard-extra2 RedHat x64|sudo dnf install onboard -y|-r|-pc|-c
+ibus-extra2|sudo apt install ibus -y|-d|-arm|-c
+ibus-extra2 x64|sudo apt install ibus -y|-d|-pc|-c
+ibus-extra2 RedHat|sudo dnf install ibus -y|-r|-arm|-c
+ibus-extra2 RedHat x64|sudo dnf install ibus -y|-r|-pc|-c
+fcitx-extra2|sudo apt install fcitx -y|-d|-arm|-c
+fcitx-extra2 x64|sudo apt install fcitx -y|-d|-pc|-c
+fcitx-extra2 RedHat|sudo dnf install fcitx -y|-r|-arm|-c
+fcitx-extra2 RedHat x64|sudo dnf install fcitx -y|-r|-pc|-c
+ibus-mozc-extra2|sudo apt install ibus-mozc -y|-d|-arm|-c
+ibus-mozc-extra2 x64|sudo apt install ibus-mozc -y|-d|-pc|-c
+ibus-mozc-extra2 RedHat|sudo dnf install ibus-mozc -y|-r|-arm|-c
+ibus-mozc-extra2 RedHat x64|sudo dnf install ibus-mozc -y|-r|-pc|-c
+fcitx-mozc-extra2|sudo apt install fcitx-mozc -y|-d|-arm|-c
+fcitx-mozc-extra2 x64|sudo apt install fcitx-mozc -y|-d|-pc|-c
+fcitx-mozc-extra2 RedHat|sudo dnf install fcitx-mozc -y|-r|-arm|-c
+fcitx-mozc-extra2 RedHat x64|sudo dnf install fcitx-mozc -y|-r|-pc|-c
+gnome-tweaks-extra2|sudo apt install gnome-tweaks -y|-d|-arm|-c
+gnome-tweaks-extra2 x64|sudo apt install gnome-tweaks -y|-d|-pc|-c
+gnome-tweaks-extra2 RedHat|sudo dnf install gnome-tweaks -y|-r|-arm|-c
+gnome-tweaks-extra2 RedHat x64|sudo dnf install gnome-tweaks -y|-r|-pc|-c
+dconf-editor-extra2|sudo apt install dconf-editor -y|-d|-arm|-c
+dconf-editor-extra2 x64|sudo apt install dconf-editor -y|-d|-pc|-c
+dconf-editor-extra2 RedHat|sudo dnf install dconf-editor -y|-r|-arm|-c
+dconf-editor-extra2 RedHat x64|sudo dnf install dconf-editor -y|-r|-pc|-c
+gnome-extensions-app-extra2|sudo apt install gnome-extensions-app -y|-d|-arm|-c
+gnome-extensions-app-extra2 x64|sudo apt install gnome-extensions-app -y|-d|-pc|-c
+gnome-extensions-app-extra2 RedHat|sudo dnf install gnome-extensions-app -y|-r|-arm|-c
+gnome-extensions-app-extra2 RedHat x64|sudo dnf install gnome-extensions-app -y|-r|-pc|-c
+firefox-extra3|sudo apt install firefox -y|-d|-arm|-c
+firefox-extra3 x64|sudo apt install firefox -y|-d|-pc|-c
+firefox-extra3 RedHat|sudo dnf install firefox -y|-r|-arm|-c
+firefox-extra3 RedHat x64|sudo dnf install firefox -y|-r|-pc|-c
+chromium-extra3|sudo apt install chromium -y|-d|-arm|-c
+chromium-extra3 x64|sudo apt install chromium -y|-d|-pc|-c
+chromium-extra3 RedHat|sudo dnf install chromium -y|-r|-arm|-c
+chromium-extra3 RedHat x64|sudo dnf install chromium -y|-r|-pc|-c
+libreoffice-extra3|sudo apt install libreoffice -y|-d|-arm|-c
+libreoffice-extra3 x64|sudo apt install libreoffice -y|-d|-pc|-c
+libreoffice-extra3 RedHat|sudo dnf install libreoffice -y|-r|-arm|-c
+libreoffice-extra3 RedHat x64|sudo dnf install libreoffice -y|-r|-pc|-c
+thunderbird-extra3|sudo apt install thunderbird -y|-d|-arm|-c
+thunderbird-extra3 x64|sudo apt install thunderbird -y|-d|-pc|-c
+thunderbird-extra3 RedHat|sudo dnf install thunderbird -y|-r|-arm|-c
+thunderbird-extra3 RedHat x64|sudo dnf install thunderbird -y|-r|-pc|-c
+filezilla-extra3|sudo apt install filezilla -y|-d|-arm|-c
+filezilla-extra3 x64|sudo apt install filezilla -y|-d|-pc|-c
+filezilla-extra3 RedHat|sudo dnf install filezilla -y|-r|-arm|-c
+filezilla-extra3 RedHat x64|sudo dnf install filezilla -y|-r|-pc|-c
+remmina-extra3|sudo apt install remmina -y|-d|-arm|-c
+remmina-extra3 x64|sudo apt install remmina -y|-d|-pc|-c
+remmina-extra3 RedHat|sudo dnf install remmina -y|-r|-arm|-c
+remmina-extra3 RedHat x64|sudo dnf install remmina -y|-r|-pc|-c
+evince-extra3|sudo apt install evince -y|-d|-arm|-c
+evince-extra3 x64|sudo apt install evince -y|-d|-pc|-c
+evince-extra3 RedHat|sudo dnf install evince -y|-r|-arm|-c
+evince-extra3 RedHat x64|sudo dnf install evince -y|-r|-pc|-c
+okular-extra3|sudo apt install okular -y|-d|-arm|-c
+okular-extra3 x64|sudo apt install okular -y|-d|-pc|-c
+okular-extra3 RedHat|sudo dnf install okular -y|-r|-arm|-c
+okular-extra3 RedHat x64|sudo dnf install okular -y|-r|-pc|-c
+gnome-calculator-extra3|sudo apt install gnome-calculator -y|-d|-arm|-c
+gnome-calculator-extra3 x64|sudo apt install gnome-calculator -y|-d|-pc|-c
+gnome-calculator-extra3 RedHat|sudo dnf install gnome-calculator -y|-r|-arm|-c
+gnome-calculator-extra3 RedHat x64|sudo dnf install gnome-calculator -y|-r|-pc|-c
+gnome-terminal-extra3|sudo apt install gnome-terminal -y|-d|-arm|-c
+gnome-terminal-extra3 x64|sudo apt install gnome-terminal -y|-d|-pc|-c
+gnome-terminal-extra3 RedHat|sudo dnf install gnome-terminal -y|-r|-arm|-c
+gnome-terminal-extra3 RedHat x64|sudo dnf install gnome-terminal -y|-r|-pc|-c
+konsole-extra3|sudo apt install konsole -y|-d|-arm|-c
+konsole-extra3 x64|sudo apt install konsole -y|-d|-pc|-c
+konsole-extra3 RedHat|sudo dnf install konsole -y|-r|-arm|-c
+konsole-extra3 RedHat x64|sudo dnf install konsole -y|-r|-pc|-c
+xfce4-terminal-extra3|sudo apt install xfce4-terminal -y|-d|-arm|-c
+xfce4-terminal-extra3 x64|sudo apt install xfce4-terminal -y|-d|-pc|-c
+xfce4-terminal-extra3 RedHat|sudo dnf install xfce4-terminal -y|-r|-arm|-c
+xfce4-terminal-extra3 RedHat x64|sudo dnf install xfce4-terminal -y|-r|-pc|-c
+pcmanfm-extra3|sudo apt install pcmanfm -y|-d|-arm|-c
+pcmanfm-extra3 x64|sudo apt install pcmanfm -y|-d|-pc|-c
+pcmanfm-extra3 RedHat|sudo dnf install pcmanfm -y|-r|-arm|-c
+pcmanfm-extra3 RedHat x64|sudo dnf install pcmanfm -y|-r|-pc|-c
+nautilus-extra3|sudo apt install nautilus -y|-d|-arm|-c
+nautilus-extra3 x64|sudo apt install nautilus -y|-d|-pc|-c
+nautilus-extra3 RedHat|sudo dnf install nautilus -y|-r|-arm|-c
+nautilus-extra3 RedHat x64|sudo dnf install nautilus -y|-r|-pc|-c
+dolphin-extra3|sudo apt install dolphin -y|-d|-arm|-c
+dolphin-extra3 x64|sudo apt install dolphin -y|-d|-pc|-c
+dolphin-extra3 RedHat|sudo dnf install dolphin -y|-r|-arm|-c
+dolphin-extra3 RedHat x64|sudo dnf install dolphin -y|-r|-pc|-c
+gparted-extra3|sudo apt install gparted -y|-d|-arm|-c
+gparted-extra3 x64|sudo apt install gparted -y|-d|-pc|-c
+gparted-extra3 RedHat|sudo dnf install gparted -y|-r|-arm|-c
+gparted-extra3 RedHat x64|sudo dnf install gparted -y|-r|-pc|-c
+timeshift-extra3|sudo apt install timeshift -y|-d|-arm|-c
+timeshift-extra3 x64|sudo apt install timeshift -y|-d|-pc|-c
+timeshift-extra3 RedHat|sudo dnf install timeshift -y|-r|-arm|-c
+timeshift-extra3 RedHat x64|sudo dnf install timeshift -y|-r|-pc|-c
+synaptic-extra3|sudo apt install synaptic -y|-d|-arm|-c
+synaptic-extra3 x64|sudo apt install synaptic -y|-d|-pc|-c
+synaptic-extra3 RedHat|sudo dnf install synaptic -y|-r|-arm|-c
+synaptic-extra3 RedHat x64|sudo dnf install synaptic -y|-r|-pc|-c
+bleachbit-extra3|sudo apt install bleachbit -y|-d|-arm|-c
+bleachbit-extra3 x64|sudo apt install bleachbit -y|-d|-pc|-c
+bleachbit-extra3 RedHat|sudo dnf install bleachbit -y|-r|-arm|-c
+bleachbit-extra3 RedHat x64|sudo dnf install bleachbit -y|-r|-pc|-c
+neofetch-extra3|sudo apt install neofetch -y|-d|-arm|-c
+neofetch-extra3 x64|sudo apt install neofetch -y|-d|-pc|-c
+neofetch-extra3 RedHat|sudo dnf install neofetch -y|-r|-arm|-c
+neofetch-extra3 RedHat x64|sudo dnf install neofetch -y|-r|-pc|-c
+htop-extra3|sudo apt install htop -y|-d|-arm|-c
+htop-extra3 x64|sudo apt install htop -y|-d|-pc|-c
+htop-extra3 RedHat|sudo dnf install htop -y|-r|-arm|-c
+htop-extra3 RedHat x64|sudo dnf install htop -y|-r|-pc|-c
+btop-extra3|sudo apt install btop -y|-d|-arm|-c
+btop-extra3 x64|sudo apt install btop -y|-d|-pc|-c
+btop-extra3 RedHat|sudo dnf install btop -y|-r|-arm|-c
+btop-extra3 RedHat x64|sudo dnf install btop -y|-r|-pc|-c
+gnome-system-monitor-extra3|sudo apt install gnome-system-monitor -y|-d|-arm|-c
+gnome-system-monitor-extra3 x64|sudo apt install gnome-system-monitor -y|-d|-pc|-c
+gnome-system-monitor-extra3 RedHat|sudo dnf install gnome-system-monitor -y|-r|-arm|-c
+gnome-system-monitor-extra3 RedHat x64|sudo dnf install gnome-system-monitor -y|-r|-pc|-c
+baobab-extra3|sudo apt install baobab -y|-d|-arm|-c
+baobab-extra3 x64|sudo apt install baobab -y|-d|-pc|-c
+baobab-extra3 RedHat|sudo dnf install baobab -y|-r|-arm|-c
+baobab-extra3 RedHat x64|sudo dnf install baobab -y|-r|-pc|-c
+cheese-extra3|sudo apt install cheese -y|-d|-arm|-c
+cheese-extra3 x64|sudo apt install cheese -y|-d|-pc|-c
+cheese-extra3 RedHat|sudo dnf install cheese -y|-r|-arm|-c
+cheese-extra3 RedHat x64|sudo dnf install cheese -y|-r|-pc|-c
+shotwell-extra3|sudo apt install shotwell -y|-d|-arm|-c
+shotwell-extra3 x64|sudo apt install shotwell -y|-d|-pc|-c
+shotwell-extra3 RedHat|sudo dnf install shotwell -y|-r|-arm|-c
+shotwell-extra3 RedHat x64|sudo dnf install shotwell -y|-r|-pc|-c
+rhythmbox-extra3|sudo apt install rhythmbox -y|-d|-arm|-c
+rhythmbox-extra3 x64|sudo apt install rhythmbox -y|-d|-pc|-c
+rhythmbox-extra3 RedHat|sudo dnf install rhythmbox -y|-r|-arm|-c
+rhythmbox-extra3 RedHat x64|sudo dnf install rhythmbox -y|-r|-pc|-c
+totem-extra3|sudo apt install totem -y|-d|-arm|-c
+totem-extra3 x64|sudo apt install totem -y|-d|-pc|-c
+totem-extra3 RedHat|sudo dnf install totem -y|-r|-arm|-c
+totem-extra3 RedHat x64|sudo dnf install totem -y|-r|-pc|-c
+eog-extra3|sudo apt install eog -y|-d|-arm|-c
+eog-extra3 x64|sudo apt install eog -y|-d|-pc|-c
+eog-extra3 RedHat|sudo dnf install eog -y|-r|-arm|-c
+eog-extra3 RedHat x64|sudo dnf install eog -y|-r|-pc|-c
+gnome-disk-utility-extra3|sudo apt install gnome-disk-utility -y|-d|-arm|-c
+gnome-disk-utility-extra3 x64|sudo apt install gnome-disk-utility -y|-d|-pc|-c
+gnome-disk-utility-extra3 RedHat|sudo dnf install gnome-disk-utility -y|-r|-arm|-c
+gnome-disk-utility-extra3 RedHat x64|sudo dnf install gnome-disk-utility -y|-r|-pc|-c
+cups-extra3|sudo apt install cups -y|-d|-arm|-c
+cups-extra3 x64|sudo apt install cups -y|-d|-pc|-c
+cups-extra3 RedHat|sudo dnf install cups -y|-r|-arm|-c
+cups-extra3 RedHat x64|sudo dnf install cups -y|-r|-pc|-c
+system-config-printer-extra3|sudo apt install system-config-printer -y|-d|-arm|-c
+system-config-printer-extra3 x64|sudo apt install system-config-printer -y|-d|-pc|-c
+system-config-printer-extra3 RedHat|sudo dnf install system-config-printer -y|-r|-arm|-c
+system-config-printer-extra3 RedHat x64|sudo dnf install system-config-printer -y|-r|-pc|-c
+network-manager-extra3|sudo apt install network-manager -y|-d|-arm|-c
+network-manager-extra3 x64|sudo apt install network-manager -y|-d|-pc|-c
+network-manager-extra3 RedHat|sudo dnf install network-manager -y|-r|-arm|-c
+network-manager-extra3 RedHat x64|sudo dnf install network-manager -y|-r|-pc|-c
+nmcli-extra3|sudo apt install nmcli -y|-d|-arm|-c
+nmcli-extra3 x64|sudo apt install nmcli -y|-d|-pc|-c
+nmcli-extra3 RedHat|sudo dnf install nmcli -y|-r|-arm|-c
+nmcli-extra3 RedHat x64|sudo dnf install nmcli -y|-r|-pc|-c
+blueman-extra3|sudo apt install blueman -y|-d|-arm|-c
+blueman-extra3 x64|sudo apt install blueman -y|-d|-pc|-c
+blueman-extra3 RedHat|sudo dnf install blueman -y|-r|-arm|-c
+blueman-extra3 RedHat x64|sudo dnf install blueman -y|-r|-pc|-c
+pavucontrol-extra3|sudo apt install pavucontrol -y|-d|-arm|-c
+pavucontrol-extra3 x64|sudo apt install pavucontrol -y|-d|-pc|-c
+pavucontrol-extra3 RedHat|sudo dnf install pavucontrol -y|-r|-arm|-c
+pavucontrol-extra3 RedHat x64|sudo dnf install pavucontrol -y|-r|-pc|-c
+alsa-utils-extra3|sudo apt install alsa-utils -y|-d|-arm|-c
+alsa-utils-extra3 x64|sudo apt install alsa-utils -y|-d|-pc|-c
+alsa-utils-extra3 RedHat|sudo dnf install alsa-utils -y|-r|-arm|-c
+alsa-utils-extra3 RedHat x64|sudo dnf install alsa-utils -y|-r|-pc|-c
+pulseaudio-extra3|sudo apt install pulseaudio -y|-d|-arm|-c
+pulseaudio-extra3 x64|sudo apt install pulseaudio -y|-d|-pc|-c
+pulseaudio-extra3 RedHat|sudo dnf install pulseaudio -y|-r|-arm|-c
+pulseaudio-extra3 RedHat x64|sudo dnf install pulseaudio -y|-r|-pc|-c
+pipewire-extra3|sudo apt install pipewire -y|-d|-arm|-c
+pipewire-extra3 x64|sudo apt install pipewire -y|-d|-pc|-c
+pipewire-extra3 RedHat|sudo dnf install pipewire -y|-r|-arm|-c
+pipewire-extra3 RedHat x64|sudo dnf install pipewire -y|-r|-pc|-c
+flatpak-extra3|sudo apt install flatpak -y|-d|-arm|-c
+flatpak-extra3 x64|sudo apt install flatpak -y|-d|-pc|-c
+flatpak-extra3 RedHat|sudo dnf install flatpak -y|-r|-arm|-c
+flatpak-extra3 RedHat x64|sudo dnf install flatpak -y|-r|-pc|-c
+snapd-extra3|sudo apt install snapd -y|-d|-arm|-c
+snapd-extra3 x64|sudo apt install snapd -y|-d|-pc|-c
+snapd-extra3 RedHat|sudo dnf install snapd -y|-r|-arm|-c
+snapd-extra3 RedHat x64|sudo dnf install snapd -y|-r|-pc|-c
+gnome-software-extra3|sudo apt install gnome-software -y|-d|-arm|-c
+gnome-software-extra3 x64|sudo apt install gnome-software -y|-d|-pc|-c
+gnome-software-extra3 RedHat|sudo dnf install gnome-software -y|-r|-arm|-c
+gnome-software-extra3 RedHat x64|sudo dnf install gnome-software -y|-r|-pc|-c
+kdeconnect-extra3|sudo apt install kdeconnect -y|-d|-arm|-c
+kdeconnect-extra3 x64|sudo apt install kdeconnect -y|-d|-pc|-c
+kdeconnect-extra3 RedHat|sudo dnf install kdeconnect -y|-r|-arm|-c
+kdeconnect-extra3 RedHat x64|sudo dnf install kdeconnect -y|-r|-pc|-c
+redshift-extra3|sudo apt install redshift -y|-d|-arm|-c
+redshift-extra3 x64|sudo apt install redshift -y|-d|-pc|-c
+redshift-extra3 RedHat|sudo dnf install redshift -y|-r|-arm|-c
+redshift-extra3 RedHat x64|sudo dnf install redshift -y|-r|-pc|-c
+variety-extra3|sudo apt install variety -y|-d|-arm|-c
+variety-extra3 x64|sudo apt install variety -y|-d|-pc|-c
+variety-extra3 RedHat|sudo dnf install variety -y|-r|-arm|-c
+variety-extra3 RedHat x64|sudo dnf install variety -y|-r|-pc|-c
+lightdm-extra3|sudo apt install lightdm -y|-d|-arm|-c
+lightdm-extra3 x64|sudo apt install lightdm -y|-d|-pc|-c
+lightdm-extra3 RedHat|sudo dnf install lightdm -y|-r|-arm|-c
+lightdm-extra3 RedHat x64|sudo dnf install lightdm -y|-r|-pc|-c
+sddm-extra3|sudo apt install sddm -y|-d|-arm|-c
+sddm-extra3 x64|sudo apt install sddm -y|-d|-pc|-c
+sddm-extra3 RedHat|sudo dnf install sddm -y|-r|-arm|-c
+sddm-extra3 RedHat x64|sudo dnf install sddm -y|-r|-pc|-c
+lxappearance-extra3|sudo apt install lxappearance -y|-d|-arm|-c
+lxappearance-extra3 x64|sudo apt install lxappearance -y|-d|-pc|-c
+lxappearance-extra3 RedHat|sudo dnf install lxappearance -y|-r|-arm|-c
+lxappearance-extra3 RedHat x64|sudo dnf install lxappearance -y|-r|-pc|-c
+arandr-extra3|sudo apt install arandr -y|-d|-arm|-c
+arandr-extra3 x64|sudo apt install arandr -y|-d|-pc|-c
+arandr-extra3 RedHat|sudo dnf install arandr -y|-r|-arm|-c
+arandr-extra3 RedHat x64|sudo dnf install arandr -y|-r|-pc|-c
+flameshot-extra3|sudo apt install flameshot -y|-d|-arm|-c
+flameshot-extra3 x64|sudo apt install flameshot -y|-d|-pc|-c
+flameshot-extra3 RedHat|sudo dnf install flameshot -y|-r|-arm|-c
+flameshot-extra3 RedHat x64|sudo dnf install flameshot -y|-r|-pc|-c
+peek-extra3|sudo apt install peek -y|-d|-arm|-c
+peek-extra3 x64|sudo apt install peek -y|-d|-pc|-c
+peek-extra3 RedHat|sudo dnf install peek -y|-r|-arm|-c
+peek-extra3 RedHat x64|sudo dnf install peek -y|-r|-pc|-c
+xclip-extra3|sudo apt install xclip -y|-d|-arm|-c
+xclip-extra3 x64|sudo apt install xclip -y|-d|-pc|-c
+xclip-extra3 RedHat|sudo dnf install xclip -y|-r|-arm|-c
+xclip-extra3 RedHat x64|sudo dnf install xclip -y|-r|-pc|-c
+xsel-extra3|sudo apt install xsel -y|-d|-arm|-c
+xsel-extra3 x64|sudo apt install xsel -y|-d|-pc|-c
+xsel-extra3 RedHat|sudo dnf install xsel -y|-r|-arm|-c
+xsel-extra3 RedHat x64|sudo dnf install xsel -y|-r|-pc|-c
+numlockx-extra3|sudo apt install numlockx -y|-d|-arm|-c
+numlockx-extra3 x64|sudo apt install numlockx -y|-d|-pc|-c
+numlockx-extra3 RedHat|sudo dnf install numlockx -y|-r|-arm|-c
+numlockx-extra3 RedHat x64|sudo dnf install numlockx -y|-r|-pc|-c
+onboard-extra3|sudo apt install onboard -y|-d|-arm|-c
+onboard-extra3 x64|sudo apt install onboard -y|-d|-pc|-c
+onboard-extra3 RedHat|sudo dnf install onboard -y|-r|-arm|-c
+onboard-extra3 RedHat x64|sudo dnf install onboard -y|-r|-pc|-c
+ibus-extra3|sudo apt install ibus -y|-d|-arm|-c
+ibus-extra3 x64|sudo apt install ibus -y|-d|-pc|-c
+ibus-extra3 RedHat|sudo dnf install ibus -y|-r|-arm|-c
+ibus-extra3 RedHat x64|sudo dnf install ibus -y|-r|-pc|-c
+fcitx-extra3|sudo apt install fcitx -y|-d|-arm|-c
+fcitx-extra3 x64|sudo apt install fcitx -y|-d|-pc|-c
+fcitx-extra3 RedHat|sudo dnf install fcitx -y|-r|-arm|-c
+fcitx-extra3 RedHat x64|sudo dnf install fcitx -y|-r|-pc|-c
+ibus-mozc-extra3|sudo apt install ibus-mozc -y|-d|-arm|-c
+ibus-mozc-extra3 x64|sudo apt install ibus-mozc -y|-d|-pc|-c
+ibus-mozc-extra3 RedHat|sudo dnf install ibus-mozc -y|-r|-arm|-c
+ibus-mozc-extra3 RedHat x64|sudo dnf install ibus-mozc -y|-r|-pc|-c
+fcitx-mozc-extra3|sudo apt install fcitx-mozc -y|-d|-arm|-c
+fcitx-mozc-extra3 x64|sudo apt install fcitx-mozc -y|-d|-pc|-c
+fcitx-mozc-extra3 RedHat|sudo dnf install fcitx-mozc -y|-r|-arm|-c
+fcitx-mozc-extra3 RedHat x64|sudo dnf install fcitx-mozc -y|-r|-pc|-c
+gnome-tweaks-extra3|sudo apt install gnome-tweaks -y|-d|-arm|-c
+gnome-tweaks-extra3 x64|sudo apt install gnome-tweaks -y|-d|-pc|-c
+gnome-tweaks-extra3 RedHat|sudo dnf install gnome-tweaks -y|-r|-arm|-c
+gnome-tweaks-extra3 RedHat x64|sudo dnf install gnome-tweaks -y|-r|-pc|-c
+dconf-editor-extra3|sudo apt install dconf-editor -y|-d|-arm|-c
+dconf-editor-extra3 x64|sudo apt install dconf-editor -y|-d|-pc|-c
+dconf-editor-extra3 RedHat|sudo dnf install dconf-editor -y|-r|-arm|-c
+dconf-editor-extra3 RedHat x64|sudo dnf install dconf-editor -y|-r|-pc|-c
+gnome-extensions-app-extra3|sudo apt install gnome-extensions-app -y|-d|-arm|-c
+gnome-extensions-app-extra3 x64|sudo apt install gnome-extensions-app -y|-d|-pc|-c
+gnome-extensions-app-extra3 RedHat|sudo dnf install gnome-extensions-app -y|-r|-arm|-c
+gnome-extensions-app-extra3 RedHat x64|sudo dnf install gnome-extensions-app -y|-r|-pc|-c
+firefox-extra4|sudo apt install firefox -y|-d|-arm|-c
+firefox-extra4 x64|sudo apt install firefox -y|-d|-pc|-c
+firefox-extra4 RedHat|sudo dnf install firefox -y|-r|-arm|-c
+firefox-extra4 RedHat x64|sudo dnf install firefox -y|-r|-pc|-c
+chromium-extra4|sudo apt install chromium -y|-d|-arm|-c
+chromium-extra4 x64|sudo apt install chromium -y|-d|-pc|-c
+chromium-extra4 RedHat|sudo dnf install chromium -y|-r|-arm|-c
+chromium-extra4 RedHat x64|sudo dnf install chromium -y|-r|-pc|-c

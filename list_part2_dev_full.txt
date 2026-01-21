@@ -1,0 +1,1000 @@
+git|sudo apt install git -y|-d|-arm|-c
+git x64|sudo apt install git -y|-d|-pc|-c
+git RedHat|sudo dnf install git -y|-r|-arm|-c
+git RedHat x64|sudo dnf install git -y|-r|-pc|-c
+git-lfs|sudo apt install git-lfs -y|-d|-arm|-c
+git-lfs x64|sudo apt install git-lfs -y|-d|-pc|-c
+git-lfs RedHat|sudo dnf install git-lfs -y|-r|-arm|-c
+git-lfs RedHat x64|sudo dnf install git-lfs -y|-r|-pc|-c
+gh|sudo apt install gh -y|-d|-arm|-c
+gh x64|sudo apt install gh -y|-d|-pc|-c
+gh RedHat|sudo dnf install gh -y|-r|-arm|-c
+gh RedHat x64|sudo dnf install gh -y|-r|-pc|-c
+gcc|sudo apt install gcc -y|-d|-arm|-c
+gcc x64|sudo apt install gcc -y|-d|-pc|-c
+gcc RedHat|sudo dnf install gcc -y|-r|-arm|-c
+gcc RedHat x64|sudo dnf install gcc -y|-r|-pc|-c
+g++|sudo apt install g++ -y|-d|-arm|-c
+g++ x64|sudo apt install g++ -y|-d|-pc|-c
+g++ RedHat|sudo dnf install g++ -y|-r|-arm|-c
+g++ RedHat x64|sudo dnf install g++ -y|-r|-pc|-c
+clang|sudo apt install clang -y|-d|-arm|-c
+clang x64|sudo apt install clang -y|-d|-pc|-c
+clang RedHat|sudo dnf install clang -y|-r|-arm|-c
+clang RedHat x64|sudo dnf install clang -y|-r|-pc|-c
+llvm|sudo apt install llvm -y|-d|-arm|-c
+llvm x64|sudo apt install llvm -y|-d|-pc|-c
+llvm RedHat|sudo dnf install llvm -y|-r|-arm|-c
+llvm RedHat x64|sudo dnf install llvm -y|-r|-pc|-c
+cmake|sudo apt install cmake -y|-d|-arm|-c
+cmake x64|sudo apt install cmake -y|-d|-pc|-c
+cmake RedHat|sudo dnf install cmake -y|-r|-arm|-c
+cmake RedHat x64|sudo dnf install cmake -y|-r|-pc|-c
+meson|sudo apt install meson -y|-d|-arm|-c
+meson x64|sudo apt install meson -y|-d|-pc|-c
+meson RedHat|sudo dnf install meson -y|-r|-arm|-c
+meson RedHat x64|sudo dnf install meson -y|-r|-pc|-c
+ninja|sudo apt install ninja -y|-d|-arm|-c
+ninja x64|sudo apt install ninja -y|-d|-pc|-c
+ninja RedHat|sudo dnf install ninja -y|-r|-arm|-c
+ninja RedHat x64|sudo dnf install ninja -y|-r|-pc|-c
+make|sudo apt install make -y|-d|-arm|-c
+make x64|sudo apt install make -y|-d|-pc|-c
+make RedHat|sudo dnf install make -y|-r|-arm|-c
+make RedHat x64|sudo dnf install make -y|-r|-pc|-c
+pkg-config|sudo apt install pkg-config -y|-d|-arm|-c
+pkg-config x64|sudo apt install pkg-config -y|-d|-pc|-c
+pkg-config RedHat|sudo dnf install pkg-config -y|-r|-arm|-c
+pkg-config RedHat x64|sudo dnf install pkg-config -y|-r|-pc|-c
+python3|sudo apt install python3 -y|-d|-arm|-c
+python3 x64|sudo apt install python3 -y|-d|-pc|-c
+python3 RedHat|sudo dnf install python3 -y|-r|-arm|-c
+python3 RedHat x64|sudo dnf install python3 -y|-r|-pc|-c
+python3-pip|sudo apt install python3-pip -y|-d|-arm|-c
+python3-pip x64|sudo apt install python3-pip -y|-d|-pc|-c
+python3-pip RedHat|sudo dnf install python3-pip -y|-r|-arm|-c
+python3-pip RedHat x64|sudo dnf install python3-pip -y|-r|-pc|-c
+python3-venv|sudo apt install python3-venv -y|-d|-arm|-c
+python3-venv x64|sudo apt install python3-venv -y|-d|-pc|-c
+python3-venv RedHat|sudo dnf install python3-venv -y|-r|-arm|-c
+python3-venv RedHat x64|sudo dnf install python3-venv -y|-r|-pc|-c
+pipx|sudo apt install pipx -y|-d|-arm|-c
+pipx x64|sudo apt install pipx -y|-d|-pc|-c
+pipx RedHat|sudo dnf install pipx -y|-r|-arm|-c
+pipx RedHat x64|sudo dnf install pipx -y|-r|-pc|-c
+virtualenv|sudo apt install virtualenv -y|-d|-arm|-c
+virtualenv x64|sudo apt install virtualenv -y|-d|-pc|-c
+virtualenv RedHat|sudo dnf install virtualenv -y|-r|-arm|-c
+virtualenv RedHat x64|sudo dnf install virtualenv -y|-r|-pc|-c
+nodejs|sudo apt install nodejs -y|-d|-arm|-c
+nodejs x64|sudo apt install nodejs -y|-d|-pc|-c
+nodejs RedHat|sudo dnf install nodejs -y|-r|-arm|-c
+nodejs RedHat x64|sudo dnf install nodejs -y|-r|-pc|-c
+npm|sudo apt install npm -y|-d|-arm|-c
+npm x64|sudo apt install npm -y|-d|-pc|-c
+npm RedHat|sudo dnf install npm -y|-r|-arm|-c
+npm RedHat x64|sudo dnf install npm -y|-r|-pc|-c
+yarn|sudo apt install yarn -y|-d|-arm|-c
+yarn x64|sudo apt install yarn -y|-d|-pc|-c
+yarn RedHat|sudo dnf install yarn -y|-r|-arm|-c
+yarn RedHat x64|sudo dnf install yarn -y|-r|-pc|-c
+pnpm|sudo apt install pnpm -y|-d|-arm|-c
+pnpm x64|sudo apt install pnpm -y|-d|-pc|-c
+pnpm RedHat|sudo dnf install pnpm -y|-r|-arm|-c
+pnpm RedHat x64|sudo dnf install pnpm -y|-r|-pc|-c
+deno|sudo apt install deno -y|-d|-arm|-c
+deno x64|sudo apt install deno -y|-d|-pc|-c
+deno RedHat|sudo dnf install deno -y|-r|-arm|-c
+deno RedHat x64|sudo dnf install deno -y|-r|-pc|-c
+openjdk-8-jdk|sudo apt install openjdk-8-jdk -y|-d|-arm|-c
+openjdk-8-jdk x64|sudo apt install openjdk-8-jdk -y|-d|-pc|-c
+openjdk-8-jdk RedHat|sudo dnf install openjdk-8-jdk -y|-r|-arm|-c
+openjdk-8-jdk RedHat x64|sudo dnf install openjdk-8-jdk -y|-r|-pc|-c
+openjdk-11-jdk|sudo apt install openjdk-11-jdk -y|-d|-arm|-c
+openjdk-11-jdk x64|sudo apt install openjdk-11-jdk -y|-d|-pc|-c
+openjdk-11-jdk RedHat|sudo dnf install openjdk-11-jdk -y|-r|-arm|-c
+openjdk-11-jdk RedHat x64|sudo dnf install openjdk-11-jdk -y|-r|-pc|-c
+openjdk-17-jdk|sudo apt install openjdk-17-jdk -y|-d|-arm|-c
+openjdk-17-jdk x64|sudo apt install openjdk-17-jdk -y|-d|-pc|-c
+openjdk-17-jdk RedHat|sudo dnf install openjdk-17-jdk -y|-r|-arm|-c
+openjdk-17-jdk RedHat x64|sudo dnf install openjdk-17-jdk -y|-r|-pc|-c
+maven|sudo apt install maven -y|-d|-arm|-c
+maven x64|sudo apt install maven -y|-d|-pc|-c
+maven RedHat|sudo dnf install maven -y|-r|-arm|-c
+maven RedHat x64|sudo dnf install maven -y|-r|-pc|-c
+gradle|sudo apt install gradle -y|-d|-arm|-c
+gradle x64|sudo apt install gradle -y|-d|-pc|-c
+gradle RedHat|sudo dnf install gradle -y|-r|-arm|-c
+gradle RedHat x64|sudo dnf install gradle -y|-r|-pc|-c
+ant|sudo apt install ant -y|-d|-arm|-c
+ant x64|sudo apt install ant -y|-d|-pc|-c
+ant RedHat|sudo dnf install ant -y|-r|-arm|-c
+ant RedHat x64|sudo dnf install ant -y|-r|-pc|-c
+docker|sudo apt install docker -y|-d|-arm|-c
+docker x64|sudo apt install docker -y|-d|-pc|-c
+docker RedHat|sudo dnf install docker -y|-r|-arm|-c
+docker RedHat x64|sudo dnf install docker -y|-r|-pc|-c
+docker-compose|sudo apt install docker-compose -y|-d|-arm|-c
+docker-compose x64|sudo apt install docker-compose -y|-d|-pc|-c
+docker-compose RedHat|sudo dnf install docker-compose -y|-r|-arm|-c
+docker-compose RedHat x64|sudo dnf install docker-compose -y|-r|-pc|-c
+podman|sudo apt install podman -y|-d|-arm|-c
+podman x64|sudo apt install podman -y|-d|-pc|-c
+podman RedHat|sudo dnf install podman -y|-r|-arm|-c
+podman RedHat x64|sudo dnf install podman -y|-r|-pc|-c
+buildah|sudo apt install buildah -y|-d|-arm|-c
+buildah x64|sudo apt install buildah -y|-d|-pc|-c
+buildah RedHat|sudo dnf install buildah -y|-r|-arm|-c
+buildah RedHat x64|sudo dnf install buildah -y|-r|-pc|-c
+skopeo|sudo apt install skopeo -y|-d|-arm|-c
+skopeo x64|sudo apt install skopeo -y|-d|-pc|-c
+skopeo RedHat|sudo dnf install skopeo -y|-r|-arm|-c
+skopeo RedHat x64|sudo dnf install skopeo -y|-r|-pc|-c
+kubectl|sudo apt install kubectl -y|-d|-arm|-c
+kubectl x64|sudo apt install kubectl -y|-d|-pc|-c
+kubectl RedHat|sudo dnf install kubectl -y|-r|-arm|-c
+kubectl RedHat x64|sudo dnf install kubectl -y|-r|-pc|-c
+helm|sudo apt install helm -y|-d|-arm|-c
+helm x64|sudo apt install helm -y|-d|-pc|-c
+helm RedHat|sudo dnf install helm -y|-r|-arm|-c
+helm RedHat x64|sudo dnf install helm -y|-r|-pc|-c
+minikube|sudo apt install minikube -y|-d|-arm|-c
+minikube x64|sudo apt install minikube -y|-d|-pc|-c
+minikube RedHat|sudo dnf install minikube -y|-r|-arm|-c
+minikube RedHat x64|sudo dnf install minikube -y|-r|-pc|-c
+kind|sudo apt install kind -y|-d|-arm|-c
+kind x64|sudo apt install kind -y|-d|-pc|-c
+kind RedHat|sudo dnf install kind -y|-r|-arm|-c
+kind RedHat x64|sudo dnf install kind -y|-r|-pc|-c
+terraform|sudo apt install terraform -y|-d|-arm|-c
+terraform x64|sudo apt install terraform -y|-d|-pc|-c
+terraform RedHat|sudo dnf install terraform -y|-r|-arm|-c
+terraform RedHat x64|sudo dnf install terraform -y|-r|-pc|-c
+ansible|sudo apt install ansible -y|-d|-arm|-c
+ansible x64|sudo apt install ansible -y|-d|-pc|-c
+ansible RedHat|sudo dnf install ansible -y|-r|-arm|-c
+ansible RedHat x64|sudo dnf install ansible -y|-r|-pc|-c
+packer|sudo apt install packer -y|-d|-arm|-c
+packer x64|sudo apt install packer -y|-d|-pc|-c
+packer RedHat|sudo dnf install packer -y|-r|-arm|-c
+packer RedHat x64|sudo dnf install packer -y|-r|-pc|-c
+vagrant|sudo apt install vagrant -y|-d|-arm|-c
+vagrant x64|sudo apt install vagrant -y|-d|-pc|-c
+vagrant RedHat|sudo dnf install vagrant -y|-r|-arm|-c
+vagrant RedHat x64|sudo dnf install vagrant -y|-r|-pc|-c
+neovim|sudo apt install neovim -y|-d|-arm|-c
+neovim x64|sudo apt install neovim -y|-d|-pc|-c
+neovim RedHat|sudo dnf install neovim -y|-r|-arm|-c
+neovim RedHat x64|sudo dnf install neovim -y|-r|-pc|-c
+vim|sudo apt install vim -y|-d|-arm|-c
+vim x64|sudo apt install vim -y|-d|-pc|-c
+vim RedHat|sudo dnf install vim -y|-r|-arm|-c
+vim RedHat x64|sudo dnf install vim -y|-r|-pc|-c
+emacs|sudo apt install emacs -y|-d|-arm|-c
+emacs x64|sudo apt install emacs -y|-d|-pc|-c
+emacs RedHat|sudo dnf install emacs -y|-r|-arm|-c
+emacs RedHat x64|sudo dnf install emacs -y|-r|-pc|-c
+micro|sudo apt install micro -y|-d|-arm|-c
+micro x64|sudo apt install micro -y|-d|-pc|-c
+micro RedHat|sudo dnf install micro -y|-r|-arm|-c
+micro RedHat x64|sudo dnf install micro -y|-r|-pc|-c
+code|sudo apt install code -y|-d|-arm|-c
+code x64|sudo apt install code -y|-d|-pc|-c
+code RedHat|sudo dnf install code -y|-r|-arm|-c
+code RedHat x64|sudo dnf install code -y|-r|-pc|-c
+code-insiders|sudo apt install code-insiders -y|-d|-arm|-c
+code-insiders x64|sudo apt install code-insiders -y|-d|-pc|-c
+code-insiders RedHat|sudo dnf install code-insiders -y|-r|-arm|-c
+code-insiders RedHat x64|sudo dnf install code-insiders -y|-r|-pc|-c
+ripgrep|sudo apt install ripgrep -y|-d|-arm|-c
+ripgrep x64|sudo apt install ripgrep -y|-d|-pc|-c
+ripgrep RedHat|sudo dnf install ripgrep -y|-r|-arm|-c
+ripgrep RedHat x64|sudo dnf install ripgrep -y|-r|-pc|-c
+fd-find|sudo apt install fd-find -y|-d|-arm|-c
+fd-find x64|sudo apt install fd-find -y|-d|-pc|-c
+fd-find RedHat|sudo dnf install fd-find -y|-r|-arm|-c
+fd-find RedHat x64|sudo dnf install fd-find -y|-r|-pc|-c
+ctags|sudo apt install ctags -y|-d|-arm|-c
+ctags x64|sudo apt install ctags -y|-d|-pc|-c
+ctags RedHat|sudo dnf install ctags -y|-r|-arm|-c
+ctags RedHat x64|sudo dnf install ctags -y|-r|-pc|-c
+shellcheck|sudo apt install shellcheck -y|-d|-arm|-c
+shellcheck x64|sudo apt install shellcheck -y|-d|-pc|-c
+shellcheck RedHat|sudo dnf install shellcheck -y|-r|-arm|-c
+shellcheck RedHat x64|sudo dnf install shellcheck -y|-r|-pc|-c
+shfmt|sudo apt install shfmt -y|-d|-arm|-c
+shfmt x64|sudo apt install shfmt -y|-d|-pc|-c
+shfmt RedHat|sudo dnf install shfmt -y|-r|-arm|-c
+shfmt RedHat x64|sudo dnf install shfmt -y|-r|-pc|-c
+prettier|sudo apt install prettier -y|-d|-arm|-c
+prettier x64|sudo apt install prettier -y|-d|-pc|-c
+prettier RedHat|sudo dnf install prettier -y|-r|-arm|-c
+prettier RedHat x64|sudo dnf install prettier -y|-r|-pc|-c
+eslint|sudo apt install eslint -y|-d|-arm|-c
+eslint x64|sudo apt install eslint -y|-d|-pc|-c
+eslint RedHat|sudo dnf install eslint -y|-r|-arm|-c
+eslint RedHat x64|sudo dnf install eslint -y|-r|-pc|-c
+stylelint|sudo apt install stylelint -y|-d|-arm|-c
+stylelint x64|sudo apt install stylelint -y|-d|-pc|-c
+stylelint RedHat|sudo dnf install stylelint -y|-r|-arm|-c
+stylelint RedHat x64|sudo dnf install stylelint -y|-r|-pc|-c
+black|sudo apt install black -y|-d|-arm|-c
+black x64|sudo apt install black -y|-d|-pc|-c
+black RedHat|sudo dnf install black -y|-r|-arm|-c
+black RedHat x64|sudo dnf install black -y|-r|-pc|-c
+flake8|sudo apt install flake8 -y|-d|-arm|-c
+flake8 x64|sudo apt install flake8 -y|-d|-pc|-c
+flake8 RedHat|sudo dnf install flake8 -y|-r|-arm|-c
+flake8 RedHat x64|sudo dnf install flake8 -y|-r|-pc|-c
+pytest|sudo apt install pytest -y|-d|-arm|-c
+pytest x64|sudo apt install pytest -y|-d|-pc|-c
+pytest RedHat|sudo dnf install pytest -y|-r|-arm|-c
+pytest RedHat x64|sudo dnf install pytest -y|-r|-pc|-c
+tox|sudo apt install tox -y|-d|-arm|-c
+tox x64|sudo apt install tox -y|-d|-pc|-c
+tox RedHat|sudo dnf install tox -y|-r|-arm|-c
+tox RedHat x64|sudo dnf install tox -y|-r|-pc|-c
+poetry|sudo apt install poetry -y|-d|-arm|-c
+poetry x64|sudo apt install poetry -y|-d|-pc|-c
+poetry RedHat|sudo dnf install poetry -y|-r|-arm|-c
+poetry RedHat x64|sudo dnf install poetry -y|-r|-pc|-c
+pipenv|sudo apt install pipenv -y|-d|-arm|-c
+pipenv x64|sudo apt install pipenv -y|-d|-pc|-c
+pipenv RedHat|sudo dnf install pipenv -y|-r|-arm|-c
+pipenv RedHat x64|sudo dnf install pipenv -y|-r|-pc|-c
+rustc|sudo apt install rustc -y|-d|-arm|-c
+rustc x64|sudo apt install rustc -y|-d|-pc|-c
+rustc RedHat|sudo dnf install rustc -y|-r|-arm|-c
+rustc RedHat x64|sudo dnf install rustc -y|-r|-pc|-c
+cargo|sudo apt install cargo -y|-d|-arm|-c
+cargo x64|sudo apt install cargo -y|-d|-pc|-c
+cargo RedHat|sudo dnf install cargo -y|-r|-arm|-c
+cargo RedHat x64|sudo dnf install cargo -y|-r|-pc|-c
+go|sudo apt install go -y|-d|-arm|-c
+go x64|sudo apt install go -y|-d|-pc|-c
+go RedHat|sudo dnf install go -y|-r|-arm|-c
+go RedHat x64|sudo dnf install go -y|-r|-pc|-c
+golang|sudo apt install golang -y|-d|-arm|-c
+golang x64|sudo apt install golang -y|-d|-pc|-c
+golang RedHat|sudo dnf install golang -y|-r|-arm|-c
+golang RedHat x64|sudo dnf install golang -y|-r|-pc|-c
+zig|sudo apt install zig -y|-d|-arm|-c
+zig x64|sudo apt install zig -y|-d|-pc|-c
+zig RedHat|sudo dnf install zig -y|-r|-arm|-c
+zig RedHat x64|sudo dnf install zig -y|-r|-pc|-c
+dotnet-sdk-7.0|sudo apt install dotnet-sdk-7.0 -y|-d|-arm|-c
+dotnet-sdk-7.0 x64|sudo apt install dotnet-sdk-7.0 -y|-d|-pc|-c
+dotnet-sdk-7.0 RedHat|sudo dnf install dotnet-sdk-7.0 -y|-r|-arm|-c
+dotnet-sdk-7.0 RedHat x64|sudo dnf install dotnet-sdk-7.0 -y|-r|-pc|-c
+dotnet-sdk-8.0|sudo apt install dotnet-sdk-8.0 -y|-d|-arm|-c
+dotnet-sdk-8.0 x64|sudo apt install dotnet-sdk-8.0 -y|-d|-pc|-c
+dotnet-sdk-8.0 RedHat|sudo dnf install dotnet-sdk-8.0 -y|-r|-arm|-c
+dotnet-sdk-8.0 RedHat x64|sudo dnf install dotnet-sdk-8.0 -y|-r|-pc|-c
+mono-devel|sudo apt install mono-devel -y|-d|-arm|-c
+mono-devel x64|sudo apt install mono-devel -y|-d|-pc|-c
+mono-devel RedHat|sudo dnf install mono-devel -y|-r|-arm|-c
+mono-devel RedHat x64|sudo dnf install mono-devel -y|-r|-pc|-c
+swiftlang|sudo apt install swiftlang -y|-d|-arm|-c
+swiftlang x64|sudo apt install swiftlang -y|-d|-pc|-c
+swiftlang RedHat|sudo dnf install swiftlang -y|-r|-arm|-c
+swiftlang RedHat x64|sudo dnf install swiftlang -y|-r|-pc|-c
+kotlin|sudo apt install kotlin -y|-d|-arm|-c
+kotlin x64|sudo apt install kotlin -y|-d|-pc|-c
+kotlin RedHat|sudo dnf install kotlin -y|-r|-arm|-c
+kotlin RedHat x64|sudo dnf install kotlin -y|-r|-pc|-c
+scala|sudo apt install scala -y|-d|-arm|-c
+scala x64|sudo apt install scala -y|-d|-pc|-c
+scala RedHat|sudo dnf install scala -y|-r|-arm|-c
+scala RedHat x64|sudo dnf install scala -y|-r|-pc|-c
+sbt|sudo apt install sbt -y|-d|-arm|-c
+sbt x64|sudo apt install sbt -y|-d|-pc|-c
+sbt RedHat|sudo dnf install sbt -y|-r|-arm|-c
+sbt RedHat x64|sudo dnf install sbt -y|-r|-pc|-c
+gradle|sudo apt install gradle -y|-d|-arm|-c
+gradle x64|sudo apt install gradle -y|-d|-pc|-c
+gradle RedHat|sudo dnf install gradle -y|-r|-arm|-c
+gradle RedHat x64|sudo dnf install gradle -y|-r|-pc|-c
+git-extra1|sudo apt install git -y|-d|-arm|-c
+git-extra1 x64|sudo apt install git -y|-d|-pc|-c
+git-extra1 RedHat|sudo dnf install git -y|-r|-arm|-c
+git-extra1 RedHat x64|sudo dnf install git -y|-r|-pc|-c
+git-lfs-extra1|sudo apt install git-lfs -y|-d|-arm|-c
+git-lfs-extra1 x64|sudo apt install git-lfs -y|-d|-pc|-c
+git-lfs-extra1 RedHat|sudo dnf install git-lfs -y|-r|-arm|-c
+git-lfs-extra1 RedHat x64|sudo dnf install git-lfs -y|-r|-pc|-c
+gh-extra1|sudo apt install gh -y|-d|-arm|-c
+gh-extra1 x64|sudo apt install gh -y|-d|-pc|-c
+gh-extra1 RedHat|sudo dnf install gh -y|-r|-arm|-c
+gh-extra1 RedHat x64|sudo dnf install gh -y|-r|-pc|-c
+gcc-extra1|sudo apt install gcc -y|-d|-arm|-c
+gcc-extra1 x64|sudo apt install gcc -y|-d|-pc|-c
+gcc-extra1 RedHat|sudo dnf install gcc -y|-r|-arm|-c
+gcc-extra1 RedHat x64|sudo dnf install gcc -y|-r|-pc|-c
+g++-extra1|sudo apt install g++ -y|-d|-arm|-c
+g++-extra1 x64|sudo apt install g++ -y|-d|-pc|-c
+g++-extra1 RedHat|sudo dnf install g++ -y|-r|-arm|-c
+g++-extra1 RedHat x64|sudo dnf install g++ -y|-r|-pc|-c
+clang-extra1|sudo apt install clang -y|-d|-arm|-c
+clang-extra1 x64|sudo apt install clang -y|-d|-pc|-c
+clang-extra1 RedHat|sudo dnf install clang -y|-r|-arm|-c
+clang-extra1 RedHat x64|sudo dnf install clang -y|-r|-pc|-c
+llvm-extra1|sudo apt install llvm -y|-d|-arm|-c
+llvm-extra1 x64|sudo apt install llvm -y|-d|-pc|-c
+llvm-extra1 RedHat|sudo dnf install llvm -y|-r|-arm|-c
+llvm-extra1 RedHat x64|sudo dnf install llvm -y|-r|-pc|-c
+cmake-extra1|sudo apt install cmake -y|-d|-arm|-c
+cmake-extra1 x64|sudo apt install cmake -y|-d|-pc|-c
+cmake-extra1 RedHat|sudo dnf install cmake -y|-r|-arm|-c
+cmake-extra1 RedHat x64|sudo dnf install cmake -y|-r|-pc|-c
+meson-extra1|sudo apt install meson -y|-d|-arm|-c
+meson-extra1 x64|sudo apt install meson -y|-d|-pc|-c
+meson-extra1 RedHat|sudo dnf install meson -y|-r|-arm|-c
+meson-extra1 RedHat x64|sudo dnf install meson -y|-r|-pc|-c
+ninja-extra1|sudo apt install ninja -y|-d|-arm|-c
+ninja-extra1 x64|sudo apt install ninja -y|-d|-pc|-c
+ninja-extra1 RedHat|sudo dnf install ninja -y|-r|-arm|-c
+ninja-extra1 RedHat x64|sudo dnf install ninja -y|-r|-pc|-c
+make-extra1|sudo apt install make -y|-d|-arm|-c
+make-extra1 x64|sudo apt install make -y|-d|-pc|-c
+make-extra1 RedHat|sudo dnf install make -y|-r|-arm|-c
+make-extra1 RedHat x64|sudo dnf install make -y|-r|-pc|-c
+pkg-config-extra1|sudo apt install pkg-config -y|-d|-arm|-c
+pkg-config-extra1 x64|sudo apt install pkg-config -y|-d|-pc|-c
+pkg-config-extra1 RedHat|sudo dnf install pkg-config -y|-r|-arm|-c
+pkg-config-extra1 RedHat x64|sudo dnf install pkg-config -y|-r|-pc|-c
+python3-extra1|sudo apt install python3 -y|-d|-arm|-c
+python3-extra1 x64|sudo apt install python3 -y|-d|-pc|-c
+python3-extra1 RedHat|sudo dnf install python3 -y|-r|-arm|-c
+python3-extra1 RedHat x64|sudo dnf install python3 -y|-r|-pc|-c
+python3-pip-extra1|sudo apt install python3-pip -y|-d|-arm|-c
+python3-pip-extra1 x64|sudo apt install python3-pip -y|-d|-pc|-c
+python3-pip-extra1 RedHat|sudo dnf install python3-pip -y|-r|-arm|-c
+python3-pip-extra1 RedHat x64|sudo dnf install python3-pip -y|-r|-pc|-c
+python3-venv-extra1|sudo apt install python3-venv -y|-d|-arm|-c
+python3-venv-extra1 x64|sudo apt install python3-venv -y|-d|-pc|-c
+python3-venv-extra1 RedHat|sudo dnf install python3-venv -y|-r|-arm|-c
+python3-venv-extra1 RedHat x64|sudo dnf install python3-venv -y|-r|-pc|-c
+pipx-extra1|sudo apt install pipx -y|-d|-arm|-c
+pipx-extra1 x64|sudo apt install pipx -y|-d|-pc|-c
+pipx-extra1 RedHat|sudo dnf install pipx -y|-r|-arm|-c
+pipx-extra1 RedHat x64|sudo dnf install pipx -y|-r|-pc|-c
+virtualenv-extra1|sudo apt install virtualenv -y|-d|-arm|-c
+virtualenv-extra1 x64|sudo apt install virtualenv -y|-d|-pc|-c
+virtualenv-extra1 RedHat|sudo dnf install virtualenv -y|-r|-arm|-c
+virtualenv-extra1 RedHat x64|sudo dnf install virtualenv -y|-r|-pc|-c
+nodejs-extra1|sudo apt install nodejs -y|-d|-arm|-c
+nodejs-extra1 x64|sudo apt install nodejs -y|-d|-pc|-c
+nodejs-extra1 RedHat|sudo dnf install nodejs -y|-r|-arm|-c
+nodejs-extra1 RedHat x64|sudo dnf install nodejs -y|-r|-pc|-c
+npm-extra1|sudo apt install npm -y|-d|-arm|-c
+npm-extra1 x64|sudo apt install npm -y|-d|-pc|-c
+npm-extra1 RedHat|sudo dnf install npm -y|-r|-arm|-c
+npm-extra1 RedHat x64|sudo dnf install npm -y|-r|-pc|-c
+yarn-extra1|sudo apt install yarn -y|-d|-arm|-c
+yarn-extra1 x64|sudo apt install yarn -y|-d|-pc|-c
+yarn-extra1 RedHat|sudo dnf install yarn -y|-r|-arm|-c
+yarn-extra1 RedHat x64|sudo dnf install yarn -y|-r|-pc|-c
+pnpm-extra1|sudo apt install pnpm -y|-d|-arm|-c
+pnpm-extra1 x64|sudo apt install pnpm -y|-d|-pc|-c
+pnpm-extra1 RedHat|sudo dnf install pnpm -y|-r|-arm|-c
+pnpm-extra1 RedHat x64|sudo dnf install pnpm -y|-r|-pc|-c
+deno-extra1|sudo apt install deno -y|-d|-arm|-c
+deno-extra1 x64|sudo apt install deno -y|-d|-pc|-c
+deno-extra1 RedHat|sudo dnf install deno -y|-r|-arm|-c
+deno-extra1 RedHat x64|sudo dnf install deno -y|-r|-pc|-c
+openjdk-8-jdk-extra1|sudo apt install openjdk-8-jdk -y|-d|-arm|-c
+openjdk-8-jdk-extra1 x64|sudo apt install openjdk-8-jdk -y|-d|-pc|-c
+openjdk-8-jdk-extra1 RedHat|sudo dnf install openjdk-8-jdk -y|-r|-arm|-c
+openjdk-8-jdk-extra1 RedHat x64|sudo dnf install openjdk-8-jdk -y|-r|-pc|-c
+openjdk-11-jdk-extra1|sudo apt install openjdk-11-jdk -y|-d|-arm|-c
+openjdk-11-jdk-extra1 x64|sudo apt install openjdk-11-jdk -y|-d|-pc|-c
+openjdk-11-jdk-extra1 RedHat|sudo dnf install openjdk-11-jdk -y|-r|-arm|-c
+openjdk-11-jdk-extra1 RedHat x64|sudo dnf install openjdk-11-jdk -y|-r|-pc|-c
+openjdk-17-jdk-extra1|sudo apt install openjdk-17-jdk -y|-d|-arm|-c
+openjdk-17-jdk-extra1 x64|sudo apt install openjdk-17-jdk -y|-d|-pc|-c
+openjdk-17-jdk-extra1 RedHat|sudo dnf install openjdk-17-jdk -y|-r|-arm|-c
+openjdk-17-jdk-extra1 RedHat x64|sudo dnf install openjdk-17-jdk -y|-r|-pc|-c
+maven-extra1|sudo apt install maven -y|-d|-arm|-c
+maven-extra1 x64|sudo apt install maven -y|-d|-pc|-c
+maven-extra1 RedHat|sudo dnf install maven -y|-r|-arm|-c
+maven-extra1 RedHat x64|sudo dnf install maven -y|-r|-pc|-c
+gradle-extra1|sudo apt install gradle -y|-d|-arm|-c
+gradle-extra1 x64|sudo apt install gradle -y|-d|-pc|-c
+gradle-extra1 RedHat|sudo dnf install gradle -y|-r|-arm|-c
+gradle-extra1 RedHat x64|sudo dnf install gradle -y|-r|-pc|-c
+ant-extra1|sudo apt install ant -y|-d|-arm|-c
+ant-extra1 x64|sudo apt install ant -y|-d|-pc|-c
+ant-extra1 RedHat|sudo dnf install ant -y|-r|-arm|-c
+ant-extra1 RedHat x64|sudo dnf install ant -y|-r|-pc|-c
+docker-extra1|sudo apt install docker -y|-d|-arm|-c
+docker-extra1 x64|sudo apt install docker -y|-d|-pc|-c
+docker-extra1 RedHat|sudo dnf install docker -y|-r|-arm|-c
+docker-extra1 RedHat x64|sudo dnf install docker -y|-r|-pc|-c
+docker-compose-extra1|sudo apt install docker-compose -y|-d|-arm|-c
+docker-compose-extra1 x64|sudo apt install docker-compose -y|-d|-pc|-c
+docker-compose-extra1 RedHat|sudo dnf install docker-compose -y|-r|-arm|-c
+docker-compose-extra1 RedHat x64|sudo dnf install docker-compose -y|-r|-pc|-c
+podman-extra1|sudo apt install podman -y|-d|-arm|-c
+podman-extra1 x64|sudo apt install podman -y|-d|-pc|-c
+podman-extra1 RedHat|sudo dnf install podman -y|-r|-arm|-c
+podman-extra1 RedHat x64|sudo dnf install podman -y|-r|-pc|-c
+buildah-extra1|sudo apt install buildah -y|-d|-arm|-c
+buildah-extra1 x64|sudo apt install buildah -y|-d|-pc|-c
+buildah-extra1 RedHat|sudo dnf install buildah -y|-r|-arm|-c
+buildah-extra1 RedHat x64|sudo dnf install buildah -y|-r|-pc|-c
+skopeo-extra1|sudo apt install skopeo -y|-d|-arm|-c
+skopeo-extra1 x64|sudo apt install skopeo -y|-d|-pc|-c
+skopeo-extra1 RedHat|sudo dnf install skopeo -y|-r|-arm|-c
+skopeo-extra1 RedHat x64|sudo dnf install skopeo -y|-r|-pc|-c
+kubectl-extra1|sudo apt install kubectl -y|-d|-arm|-c
+kubectl-extra1 x64|sudo apt install kubectl -y|-d|-pc|-c
+kubectl-extra1 RedHat|sudo dnf install kubectl -y|-r|-arm|-c
+kubectl-extra1 RedHat x64|sudo dnf install kubectl -y|-r|-pc|-c
+helm-extra1|sudo apt install helm -y|-d|-arm|-c
+helm-extra1 x64|sudo apt install helm -y|-d|-pc|-c
+helm-extra1 RedHat|sudo dnf install helm -y|-r|-arm|-c
+helm-extra1 RedHat x64|sudo dnf install helm -y|-r|-pc|-c
+minikube-extra1|sudo apt install minikube -y|-d|-arm|-c
+minikube-extra1 x64|sudo apt install minikube -y|-d|-pc|-c
+minikube-extra1 RedHat|sudo dnf install minikube -y|-r|-arm|-c
+minikube-extra1 RedHat x64|sudo dnf install minikube -y|-r|-pc|-c
+kind-extra1|sudo apt install kind -y|-d|-arm|-c
+kind-extra1 x64|sudo apt install kind -y|-d|-pc|-c
+kind-extra1 RedHat|sudo dnf install kind -y|-r|-arm|-c
+kind-extra1 RedHat x64|sudo dnf install kind -y|-r|-pc|-c
+terraform-extra1|sudo apt install terraform -y|-d|-arm|-c
+terraform-extra1 x64|sudo apt install terraform -y|-d|-pc|-c
+terraform-extra1 RedHat|sudo dnf install terraform -y|-r|-arm|-c
+terraform-extra1 RedHat x64|sudo dnf install terraform -y|-r|-pc|-c
+ansible-extra1|sudo apt install ansible -y|-d|-arm|-c
+ansible-extra1 x64|sudo apt install ansible -y|-d|-pc|-c
+ansible-extra1 RedHat|sudo dnf install ansible -y|-r|-arm|-c
+ansible-extra1 RedHat x64|sudo dnf install ansible -y|-r|-pc|-c
+packer-extra1|sudo apt install packer -y|-d|-arm|-c
+packer-extra1 x64|sudo apt install packer -y|-d|-pc|-c
+packer-extra1 RedHat|sudo dnf install packer -y|-r|-arm|-c
+packer-extra1 RedHat x64|sudo dnf install packer -y|-r|-pc|-c
+vagrant-extra1|sudo apt install vagrant -y|-d|-arm|-c
+vagrant-extra1 x64|sudo apt install vagrant -y|-d|-pc|-c
+vagrant-extra1 RedHat|sudo dnf install vagrant -y|-r|-arm|-c
+vagrant-extra1 RedHat x64|sudo dnf install vagrant -y|-r|-pc|-c
+neovim-extra1|sudo apt install neovim -y|-d|-arm|-c
+neovim-extra1 x64|sudo apt install neovim -y|-d|-pc|-c
+neovim-extra1 RedHat|sudo dnf install neovim -y|-r|-arm|-c
+neovim-extra1 RedHat x64|sudo dnf install neovim -y|-r|-pc|-c
+vim-extra1|sudo apt install vim -y|-d|-arm|-c
+vim-extra1 x64|sudo apt install vim -y|-d|-pc|-c
+vim-extra1 RedHat|sudo dnf install vim -y|-r|-arm|-c
+vim-extra1 RedHat x64|sudo dnf install vim -y|-r|-pc|-c
+emacs-extra1|sudo apt install emacs -y|-d|-arm|-c
+emacs-extra1 x64|sudo apt install emacs -y|-d|-pc|-c
+emacs-extra1 RedHat|sudo dnf install emacs -y|-r|-arm|-c
+emacs-extra1 RedHat x64|sudo dnf install emacs -y|-r|-pc|-c
+micro-extra1|sudo apt install micro -y|-d|-arm|-c
+micro-extra1 x64|sudo apt install micro -y|-d|-pc|-c
+micro-extra1 RedHat|sudo dnf install micro -y|-r|-arm|-c
+micro-extra1 RedHat x64|sudo dnf install micro -y|-r|-pc|-c
+code-extra1|sudo apt install code -y|-d|-arm|-c
+code-extra1 x64|sudo apt install code -y|-d|-pc|-c
+code-extra1 RedHat|sudo dnf install code -y|-r|-arm|-c
+code-extra1 RedHat x64|sudo dnf install code -y|-r|-pc|-c
+code-insiders-extra1|sudo apt install code-insiders -y|-d|-arm|-c
+code-insiders-extra1 x64|sudo apt install code-insiders -y|-d|-pc|-c
+code-insiders-extra1 RedHat|sudo dnf install code-insiders -y|-r|-arm|-c
+code-insiders-extra1 RedHat x64|sudo dnf install code-insiders -y|-r|-pc|-c
+ripgrep-extra1|sudo apt install ripgrep -y|-d|-arm|-c
+ripgrep-extra1 x64|sudo apt install ripgrep -y|-d|-pc|-c
+ripgrep-extra1 RedHat|sudo dnf install ripgrep -y|-r|-arm|-c
+ripgrep-extra1 RedHat x64|sudo dnf install ripgrep -y|-r|-pc|-c
+fd-find-extra1|sudo apt install fd-find -y|-d|-arm|-c
+fd-find-extra1 x64|sudo apt install fd-find -y|-d|-pc|-c
+fd-find-extra1 RedHat|sudo dnf install fd-find -y|-r|-arm|-c
+fd-find-extra1 RedHat x64|sudo dnf install fd-find -y|-r|-pc|-c
+ctags-extra1|sudo apt install ctags -y|-d|-arm|-c
+ctags-extra1 x64|sudo apt install ctags -y|-d|-pc|-c
+ctags-extra1 RedHat|sudo dnf install ctags -y|-r|-arm|-c
+ctags-extra1 RedHat x64|sudo dnf install ctags -y|-r|-pc|-c
+shellcheck-extra1|sudo apt install shellcheck -y|-d|-arm|-c
+shellcheck-extra1 x64|sudo apt install shellcheck -y|-d|-pc|-c
+shellcheck-extra1 RedHat|sudo dnf install shellcheck -y|-r|-arm|-c
+shellcheck-extra1 RedHat x64|sudo dnf install shellcheck -y|-r|-pc|-c
+shfmt-extra1|sudo apt install shfmt -y|-d|-arm|-c
+shfmt-extra1 x64|sudo apt install shfmt -y|-d|-pc|-c
+shfmt-extra1 RedHat|sudo dnf install shfmt -y|-r|-arm|-c
+shfmt-extra1 RedHat x64|sudo dnf install shfmt -y|-r|-pc|-c
+prettier-extra1|sudo apt install prettier -y|-d|-arm|-c
+prettier-extra1 x64|sudo apt install prettier -y|-d|-pc|-c
+prettier-extra1 RedHat|sudo dnf install prettier -y|-r|-arm|-c
+prettier-extra1 RedHat x64|sudo dnf install prettier -y|-r|-pc|-c
+eslint-extra1|sudo apt install eslint -y|-d|-arm|-c
+eslint-extra1 x64|sudo apt install eslint -y|-d|-pc|-c
+eslint-extra1 RedHat|sudo dnf install eslint -y|-r|-arm|-c
+eslint-extra1 RedHat x64|sudo dnf install eslint -y|-r|-pc|-c
+stylelint-extra1|sudo apt install stylelint -y|-d|-arm|-c
+stylelint-extra1 x64|sudo apt install stylelint -y|-d|-pc|-c
+stylelint-extra1 RedHat|sudo dnf install stylelint -y|-r|-arm|-c
+stylelint-extra1 RedHat x64|sudo dnf install stylelint -y|-r|-pc|-c
+black-extra1|sudo apt install black -y|-d|-arm|-c
+black-extra1 x64|sudo apt install black -y|-d|-pc|-c
+black-extra1 RedHat|sudo dnf install black -y|-r|-arm|-c
+black-extra1 RedHat x64|sudo dnf install black -y|-r|-pc|-c
+flake8-extra1|sudo apt install flake8 -y|-d|-arm|-c
+flake8-extra1 x64|sudo apt install flake8 -y|-d|-pc|-c
+flake8-extra1 RedHat|sudo dnf install flake8 -y|-r|-arm|-c
+flake8-extra1 RedHat x64|sudo dnf install flake8 -y|-r|-pc|-c
+pytest-extra1|sudo apt install pytest -y|-d|-arm|-c
+pytest-extra1 x64|sudo apt install pytest -y|-d|-pc|-c
+pytest-extra1 RedHat|sudo dnf install pytest -y|-r|-arm|-c
+pytest-extra1 RedHat x64|sudo dnf install pytest -y|-r|-pc|-c
+tox-extra1|sudo apt install tox -y|-d|-arm|-c
+tox-extra1 x64|sudo apt install tox -y|-d|-pc|-c
+tox-extra1 RedHat|sudo dnf install tox -y|-r|-arm|-c
+tox-extra1 RedHat x64|sudo dnf install tox -y|-r|-pc|-c
+poetry-extra1|sudo apt install poetry -y|-d|-arm|-c
+poetry-extra1 x64|sudo apt install poetry -y|-d|-pc|-c
+poetry-extra1 RedHat|sudo dnf install poetry -y|-r|-arm|-c
+poetry-extra1 RedHat x64|sudo dnf install poetry -y|-r|-pc|-c
+pipenv-extra1|sudo apt install pipenv -y|-d|-arm|-c
+pipenv-extra1 x64|sudo apt install pipenv -y|-d|-pc|-c
+pipenv-extra1 RedHat|sudo dnf install pipenv -y|-r|-arm|-c
+pipenv-extra1 RedHat x64|sudo dnf install pipenv -y|-r|-pc|-c
+rustc-extra1|sudo apt install rustc -y|-d|-arm|-c
+rustc-extra1 x64|sudo apt install rustc -y|-d|-pc|-c
+rustc-extra1 RedHat|sudo dnf install rustc -y|-r|-arm|-c
+rustc-extra1 RedHat x64|sudo dnf install rustc -y|-r|-pc|-c
+cargo-extra1|sudo apt install cargo -y|-d|-arm|-c
+cargo-extra1 x64|sudo apt install cargo -y|-d|-pc|-c
+cargo-extra1 RedHat|sudo dnf install cargo -y|-r|-arm|-c
+cargo-extra1 RedHat x64|sudo dnf install cargo -y|-r|-pc|-c
+go-extra1|sudo apt install go -y|-d|-arm|-c
+go-extra1 x64|sudo apt install go -y|-d|-pc|-c
+go-extra1 RedHat|sudo dnf install go -y|-r|-arm|-c
+go-extra1 RedHat x64|sudo dnf install go -y|-r|-pc|-c
+golang-extra1|sudo apt install golang -y|-d|-arm|-c
+golang-extra1 x64|sudo apt install golang -y|-d|-pc|-c
+golang-extra1 RedHat|sudo dnf install golang -y|-r|-arm|-c
+golang-extra1 RedHat x64|sudo dnf install golang -y|-r|-pc|-c
+zig-extra1|sudo apt install zig -y|-d|-arm|-c
+zig-extra1 x64|sudo apt install zig -y|-d|-pc|-c
+zig-extra1 RedHat|sudo dnf install zig -y|-r|-arm|-c
+zig-extra1 RedHat x64|sudo dnf install zig -y|-r|-pc|-c
+dotnet-sdk-7.0-extra1|sudo apt install dotnet-sdk-7.0 -y|-d|-arm|-c
+dotnet-sdk-7.0-extra1 x64|sudo apt install dotnet-sdk-7.0 -y|-d|-pc|-c
+dotnet-sdk-7.0-extra1 RedHat|sudo dnf install dotnet-sdk-7.0 -y|-r|-arm|-c
+dotnet-sdk-7.0-extra1 RedHat x64|sudo dnf install dotnet-sdk-7.0 -y|-r|-pc|-c
+dotnet-sdk-8.0-extra1|sudo apt install dotnet-sdk-8.0 -y|-d|-arm|-c
+dotnet-sdk-8.0-extra1 x64|sudo apt install dotnet-sdk-8.0 -y|-d|-pc|-c
+dotnet-sdk-8.0-extra1 RedHat|sudo dnf install dotnet-sdk-8.0 -y|-r|-arm|-c
+dotnet-sdk-8.0-extra1 RedHat x64|sudo dnf install dotnet-sdk-8.0 -y|-r|-pc|-c
+mono-devel-extra1|sudo apt install mono-devel -y|-d|-arm|-c
+mono-devel-extra1 x64|sudo apt install mono-devel -y|-d|-pc|-c
+mono-devel-extra1 RedHat|sudo dnf install mono-devel -y|-r|-arm|-c
+mono-devel-extra1 RedHat x64|sudo dnf install mono-devel -y|-r|-pc|-c
+swiftlang-extra1|sudo apt install swiftlang -y|-d|-arm|-c
+swiftlang-extra1 x64|sudo apt install swiftlang -y|-d|-pc|-c
+swiftlang-extra1 RedHat|sudo dnf install swiftlang -y|-r|-arm|-c
+swiftlang-extra1 RedHat x64|sudo dnf install swiftlang -y|-r|-pc|-c
+kotlin-extra1|sudo apt install kotlin -y|-d|-arm|-c
+kotlin-extra1 x64|sudo apt install kotlin -y|-d|-pc|-c
+kotlin-extra1 RedHat|sudo dnf install kotlin -y|-r|-arm|-c
+kotlin-extra1 RedHat x64|sudo dnf install kotlin -y|-r|-pc|-c
+scala-extra1|sudo apt install scala -y|-d|-arm|-c
+scala-extra1 x64|sudo apt install scala -y|-d|-pc|-c
+scala-extra1 RedHat|sudo dnf install scala -y|-r|-arm|-c
+scala-extra1 RedHat x64|sudo dnf install scala -y|-r|-pc|-c
+sbt-extra1|sudo apt install sbt -y|-d|-arm|-c
+sbt-extra1 x64|sudo apt install sbt -y|-d|-pc|-c
+sbt-extra1 RedHat|sudo dnf install sbt -y|-r|-arm|-c
+sbt-extra1 RedHat x64|sudo dnf install sbt -y|-r|-pc|-c
+gradle-extra1|sudo apt install gradle -y|-d|-arm|-c
+gradle-extra1 x64|sudo apt install gradle -y|-d|-pc|-c
+gradle-extra1 RedHat|sudo dnf install gradle -y|-r|-arm|-c
+gradle-extra1 RedHat x64|sudo dnf install gradle -y|-r|-pc|-c
+git-extra2|sudo apt install git -y|-d|-arm|-c
+git-extra2 x64|sudo apt install git -y|-d|-pc|-c
+git-extra2 RedHat|sudo dnf install git -y|-r|-arm|-c
+git-extra2 RedHat x64|sudo dnf install git -y|-r|-pc|-c
+git-lfs-extra2|sudo apt install git-lfs -y|-d|-arm|-c
+git-lfs-extra2 x64|sudo apt install git-lfs -y|-d|-pc|-c
+git-lfs-extra2 RedHat|sudo dnf install git-lfs -y|-r|-arm|-c
+git-lfs-extra2 RedHat x64|sudo dnf install git-lfs -y|-r|-pc|-c
+gh-extra2|sudo apt install gh -y|-d|-arm|-c
+gh-extra2 x64|sudo apt install gh -y|-d|-pc|-c
+gh-extra2 RedHat|sudo dnf install gh -y|-r|-arm|-c
+gh-extra2 RedHat x64|sudo dnf install gh -y|-r|-pc|-c
+gcc-extra2|sudo apt install gcc -y|-d|-arm|-c
+gcc-extra2 x64|sudo apt install gcc -y|-d|-pc|-c
+gcc-extra2 RedHat|sudo dnf install gcc -y|-r|-arm|-c
+gcc-extra2 RedHat x64|sudo dnf install gcc -y|-r|-pc|-c
+g++-extra2|sudo apt install g++ -y|-d|-arm|-c
+g++-extra2 x64|sudo apt install g++ -y|-d|-pc|-c
+g++-extra2 RedHat|sudo dnf install g++ -y|-r|-arm|-c
+g++-extra2 RedHat x64|sudo dnf install g++ -y|-r|-pc|-c
+clang-extra2|sudo apt install clang -y|-d|-arm|-c
+clang-extra2 x64|sudo apt install clang -y|-d|-pc|-c
+clang-extra2 RedHat|sudo dnf install clang -y|-r|-arm|-c
+clang-extra2 RedHat x64|sudo dnf install clang -y|-r|-pc|-c
+llvm-extra2|sudo apt install llvm -y|-d|-arm|-c
+llvm-extra2 x64|sudo apt install llvm -y|-d|-pc|-c
+llvm-extra2 RedHat|sudo dnf install llvm -y|-r|-arm|-c
+llvm-extra2 RedHat x64|sudo dnf install llvm -y|-r|-pc|-c
+cmake-extra2|sudo apt install cmake -y|-d|-arm|-c
+cmake-extra2 x64|sudo apt install cmake -y|-d|-pc|-c
+cmake-extra2 RedHat|sudo dnf install cmake -y|-r|-arm|-c
+cmake-extra2 RedHat x64|sudo dnf install cmake -y|-r|-pc|-c
+meson-extra2|sudo apt install meson -y|-d|-arm|-c
+meson-extra2 x64|sudo apt install meson -y|-d|-pc|-c
+meson-extra2 RedHat|sudo dnf install meson -y|-r|-arm|-c
+meson-extra2 RedHat x64|sudo dnf install meson -y|-r|-pc|-c
+ninja-extra2|sudo apt install ninja -y|-d|-arm|-c
+ninja-extra2 x64|sudo apt install ninja -y|-d|-pc|-c
+ninja-extra2 RedHat|sudo dnf install ninja -y|-r|-arm|-c
+ninja-extra2 RedHat x64|sudo dnf install ninja -y|-r|-pc|-c
+make-extra2|sudo apt install make -y|-d|-arm|-c
+make-extra2 x64|sudo apt install make -y|-d|-pc|-c
+make-extra2 RedHat|sudo dnf install make -y|-r|-arm|-c
+make-extra2 RedHat x64|sudo dnf install make -y|-r|-pc|-c
+pkg-config-extra2|sudo apt install pkg-config -y|-d|-arm|-c
+pkg-config-extra2 x64|sudo apt install pkg-config -y|-d|-pc|-c
+pkg-config-extra2 RedHat|sudo dnf install pkg-config -y|-r|-arm|-c
+pkg-config-extra2 RedHat x64|sudo dnf install pkg-config -y|-r|-pc|-c
+python3-extra2|sudo apt install python3 -y|-d|-arm|-c
+python3-extra2 x64|sudo apt install python3 -y|-d|-pc|-c
+python3-extra2 RedHat|sudo dnf install python3 -y|-r|-arm|-c
+python3-extra2 RedHat x64|sudo dnf install python3 -y|-r|-pc|-c
+python3-pip-extra2|sudo apt install python3-pip -y|-d|-arm|-c
+python3-pip-extra2 x64|sudo apt install python3-pip -y|-d|-pc|-c
+python3-pip-extra2 RedHat|sudo dnf install python3-pip -y|-r|-arm|-c
+python3-pip-extra2 RedHat x64|sudo dnf install python3-pip -y|-r|-pc|-c
+python3-venv-extra2|sudo apt install python3-venv -y|-d|-arm|-c
+python3-venv-extra2 x64|sudo apt install python3-venv -y|-d|-pc|-c
+python3-venv-extra2 RedHat|sudo dnf install python3-venv -y|-r|-arm|-c
+python3-venv-extra2 RedHat x64|sudo dnf install python3-venv -y|-r|-pc|-c
+pipx-extra2|sudo apt install pipx -y|-d|-arm|-c
+pipx-extra2 x64|sudo apt install pipx -y|-d|-pc|-c
+pipx-extra2 RedHat|sudo dnf install pipx -y|-r|-arm|-c
+pipx-extra2 RedHat x64|sudo dnf install pipx -y|-r|-pc|-c
+virtualenv-extra2|sudo apt install virtualenv -y|-d|-arm|-c
+virtualenv-extra2 x64|sudo apt install virtualenv -y|-d|-pc|-c
+virtualenv-extra2 RedHat|sudo dnf install virtualenv -y|-r|-arm|-c
+virtualenv-extra2 RedHat x64|sudo dnf install virtualenv -y|-r|-pc|-c
+nodejs-extra2|sudo apt install nodejs -y|-d|-arm|-c
+nodejs-extra2 x64|sudo apt install nodejs -y|-d|-pc|-c
+nodejs-extra2 RedHat|sudo dnf install nodejs -y|-r|-arm|-c
+nodejs-extra2 RedHat x64|sudo dnf install nodejs -y|-r|-pc|-c
+npm-extra2|sudo apt install npm -y|-d|-arm|-c
+npm-extra2 x64|sudo apt install npm -y|-d|-pc|-c
+npm-extra2 RedHat|sudo dnf install npm -y|-r|-arm|-c
+npm-extra2 RedHat x64|sudo dnf install npm -y|-r|-pc|-c
+yarn-extra2|sudo apt install yarn -y|-d|-arm|-c
+yarn-extra2 x64|sudo apt install yarn -y|-d|-pc|-c
+yarn-extra2 RedHat|sudo dnf install yarn -y|-r|-arm|-c
+yarn-extra2 RedHat x64|sudo dnf install yarn -y|-r|-pc|-c
+pnpm-extra2|sudo apt install pnpm -y|-d|-arm|-c
+pnpm-extra2 x64|sudo apt install pnpm -y|-d|-pc|-c
+pnpm-extra2 RedHat|sudo dnf install pnpm -y|-r|-arm|-c
+pnpm-extra2 RedHat x64|sudo dnf install pnpm -y|-r|-pc|-c
+deno-extra2|sudo apt install deno -y|-d|-arm|-c
+deno-extra2 x64|sudo apt install deno -y|-d|-pc|-c
+deno-extra2 RedHat|sudo dnf install deno -y|-r|-arm|-c
+deno-extra2 RedHat x64|sudo dnf install deno -y|-r|-pc|-c
+openjdk-8-jdk-extra2|sudo apt install openjdk-8-jdk -y|-d|-arm|-c
+openjdk-8-jdk-extra2 x64|sudo apt install openjdk-8-jdk -y|-d|-pc|-c
+openjdk-8-jdk-extra2 RedHat|sudo dnf install openjdk-8-jdk -y|-r|-arm|-c
+openjdk-8-jdk-extra2 RedHat x64|sudo dnf install openjdk-8-jdk -y|-r|-pc|-c
+openjdk-11-jdk-extra2|sudo apt install openjdk-11-jdk -y|-d|-arm|-c
+openjdk-11-jdk-extra2 x64|sudo apt install openjdk-11-jdk -y|-d|-pc|-c
+openjdk-11-jdk-extra2 RedHat|sudo dnf install openjdk-11-jdk -y|-r|-arm|-c
+openjdk-11-jdk-extra2 RedHat x64|sudo dnf install openjdk-11-jdk -y|-r|-pc|-c
+openjdk-17-jdk-extra2|sudo apt install openjdk-17-jdk -y|-d|-arm|-c
+openjdk-17-jdk-extra2 x64|sudo apt install openjdk-17-jdk -y|-d|-pc|-c
+openjdk-17-jdk-extra2 RedHat|sudo dnf install openjdk-17-jdk -y|-r|-arm|-c
+openjdk-17-jdk-extra2 RedHat x64|sudo dnf install openjdk-17-jdk -y|-r|-pc|-c
+maven-extra2|sudo apt install maven -y|-d|-arm|-c
+maven-extra2 x64|sudo apt install maven -y|-d|-pc|-c
+maven-extra2 RedHat|sudo dnf install maven -y|-r|-arm|-c
+maven-extra2 RedHat x64|sudo dnf install maven -y|-r|-pc|-c
+gradle-extra2|sudo apt install gradle -y|-d|-arm|-c
+gradle-extra2 x64|sudo apt install gradle -y|-d|-pc|-c
+gradle-extra2 RedHat|sudo dnf install gradle -y|-r|-arm|-c
+gradle-extra2 RedHat x64|sudo dnf install gradle -y|-r|-pc|-c
+ant-extra2|sudo apt install ant -y|-d|-arm|-c
+ant-extra2 x64|sudo apt install ant -y|-d|-pc|-c
+ant-extra2 RedHat|sudo dnf install ant -y|-r|-arm|-c
+ant-extra2 RedHat x64|sudo dnf install ant -y|-r|-pc|-c
+docker-extra2|sudo apt install docker -y|-d|-arm|-c
+docker-extra2 x64|sudo apt install docker -y|-d|-pc|-c
+docker-extra2 RedHat|sudo dnf install docker -y|-r|-arm|-c
+docker-extra2 RedHat x64|sudo dnf install docker -y|-r|-pc|-c
+docker-compose-extra2|sudo apt install docker-compose -y|-d|-arm|-c
+docker-compose-extra2 x64|sudo apt install docker-compose -y|-d|-pc|-c
+docker-compose-extra2 RedHat|sudo dnf install docker-compose -y|-r|-arm|-c
+docker-compose-extra2 RedHat x64|sudo dnf install docker-compose -y|-r|-pc|-c
+podman-extra2|sudo apt install podman -y|-d|-arm|-c
+podman-extra2 x64|sudo apt install podman -y|-d|-pc|-c
+podman-extra2 RedHat|sudo dnf install podman -y|-r|-arm|-c
+podman-extra2 RedHat x64|sudo dnf install podman -y|-r|-pc|-c
+buildah-extra2|sudo apt install buildah -y|-d|-arm|-c
+buildah-extra2 x64|sudo apt install buildah -y|-d|-pc|-c
+buildah-extra2 RedHat|sudo dnf install buildah -y|-r|-arm|-c
+buildah-extra2 RedHat x64|sudo dnf install buildah -y|-r|-pc|-c
+skopeo-extra2|sudo apt install skopeo -y|-d|-arm|-c
+skopeo-extra2 x64|sudo apt install skopeo -y|-d|-pc|-c
+skopeo-extra2 RedHat|sudo dnf install skopeo -y|-r|-arm|-c
+skopeo-extra2 RedHat x64|sudo dnf install skopeo -y|-r|-pc|-c
+kubectl-extra2|sudo apt install kubectl -y|-d|-arm|-c
+kubectl-extra2 x64|sudo apt install kubectl -y|-d|-pc|-c
+kubectl-extra2 RedHat|sudo dnf install kubectl -y|-r|-arm|-c
+kubectl-extra2 RedHat x64|sudo dnf install kubectl -y|-r|-pc|-c
+helm-extra2|sudo apt install helm -y|-d|-arm|-c
+helm-extra2 x64|sudo apt install helm -y|-d|-pc|-c
+helm-extra2 RedHat|sudo dnf install helm -y|-r|-arm|-c
+helm-extra2 RedHat x64|sudo dnf install helm -y|-r|-pc|-c
+minikube-extra2|sudo apt install minikube -y|-d|-arm|-c
+minikube-extra2 x64|sudo apt install minikube -y|-d|-pc|-c
+minikube-extra2 RedHat|sudo dnf install minikube -y|-r|-arm|-c
+minikube-extra2 RedHat x64|sudo dnf install minikube -y|-r|-pc|-c
+kind-extra2|sudo apt install kind -y|-d|-arm|-c
+kind-extra2 x64|sudo apt install kind -y|-d|-pc|-c
+kind-extra2 RedHat|sudo dnf install kind -y|-r|-arm|-c
+kind-extra2 RedHat x64|sudo dnf install kind -y|-r|-pc|-c
+terraform-extra2|sudo apt install terraform -y|-d|-arm|-c
+terraform-extra2 x64|sudo apt install terraform -y|-d|-pc|-c
+terraform-extra2 RedHat|sudo dnf install terraform -y|-r|-arm|-c
+terraform-extra2 RedHat x64|sudo dnf install terraform -y|-r|-pc|-c
+ansible-extra2|sudo apt install ansible -y|-d|-arm|-c
+ansible-extra2 x64|sudo apt install ansible -y|-d|-pc|-c
+ansible-extra2 RedHat|sudo dnf install ansible -y|-r|-arm|-c
+ansible-extra2 RedHat x64|sudo dnf install ansible -y|-r|-pc|-c
+packer-extra2|sudo apt install packer -y|-d|-arm|-c
+packer-extra2 x64|sudo apt install packer -y|-d|-pc|-c
+packer-extra2 RedHat|sudo dnf install packer -y|-r|-arm|-c
+packer-extra2 RedHat x64|sudo dnf install packer -y|-r|-pc|-c
+vagrant-extra2|sudo apt install vagrant -y|-d|-arm|-c
+vagrant-extra2 x64|sudo apt install vagrant -y|-d|-pc|-c
+vagrant-extra2 RedHat|sudo dnf install vagrant -y|-r|-arm|-c
+vagrant-extra2 RedHat x64|sudo dnf install vagrant -y|-r|-pc|-c
+neovim-extra2|sudo apt install neovim -y|-d|-arm|-c
+neovim-extra2 x64|sudo apt install neovim -y|-d|-pc|-c
+neovim-extra2 RedHat|sudo dnf install neovim -y|-r|-arm|-c
+neovim-extra2 RedHat x64|sudo dnf install neovim -y|-r|-pc|-c
+vim-extra2|sudo apt install vim -y|-d|-arm|-c
+vim-extra2 x64|sudo apt install vim -y|-d|-pc|-c
+vim-extra2 RedHat|sudo dnf install vim -y|-r|-arm|-c
+vim-extra2 RedHat x64|sudo dnf install vim -y|-r|-pc|-c
+emacs-extra2|sudo apt install emacs -y|-d|-arm|-c
+emacs-extra2 x64|sudo apt install emacs -y|-d|-pc|-c
+emacs-extra2 RedHat|sudo dnf install emacs -y|-r|-arm|-c
+emacs-extra2 RedHat x64|sudo dnf install emacs -y|-r|-pc|-c
+micro-extra2|sudo apt install micro -y|-d|-arm|-c
+micro-extra2 x64|sudo apt install micro -y|-d|-pc|-c
+micro-extra2 RedHat|sudo dnf install micro -y|-r|-arm|-c
+micro-extra2 RedHat x64|sudo dnf install micro -y|-r|-pc|-c
+code-extra2|sudo apt install code -y|-d|-arm|-c
+code-extra2 x64|sudo apt install code -y|-d|-pc|-c
+code-extra2 RedHat|sudo dnf install code -y|-r|-arm|-c
+code-extra2 RedHat x64|sudo dnf install code -y|-r|-pc|-c
+code-insiders-extra2|sudo apt install code-insiders -y|-d|-arm|-c
+code-insiders-extra2 x64|sudo apt install code-insiders -y|-d|-pc|-c
+code-insiders-extra2 RedHat|sudo dnf install code-insiders -y|-r|-arm|-c
+code-insiders-extra2 RedHat x64|sudo dnf install code-insiders -y|-r|-pc|-c
+ripgrep-extra2|sudo apt install ripgrep -y|-d|-arm|-c
+ripgrep-extra2 x64|sudo apt install ripgrep -y|-d|-pc|-c
+ripgrep-extra2 RedHat|sudo dnf install ripgrep -y|-r|-arm|-c
+ripgrep-extra2 RedHat x64|sudo dnf install ripgrep -y|-r|-pc|-c
+fd-find-extra2|sudo apt install fd-find -y|-d|-arm|-c
+fd-find-extra2 x64|sudo apt install fd-find -y|-d|-pc|-c
+fd-find-extra2 RedHat|sudo dnf install fd-find -y|-r|-arm|-c
+fd-find-extra2 RedHat x64|sudo dnf install fd-find -y|-r|-pc|-c
+ctags-extra2|sudo apt install ctags -y|-d|-arm|-c
+ctags-extra2 x64|sudo apt install ctags -y|-d|-pc|-c
+ctags-extra2 RedHat|sudo dnf install ctags -y|-r|-arm|-c
+ctags-extra2 RedHat x64|sudo dnf install ctags -y|-r|-pc|-c
+shellcheck-extra2|sudo apt install shellcheck -y|-d|-arm|-c
+shellcheck-extra2 x64|sudo apt install shellcheck -y|-d|-pc|-c
+shellcheck-extra2 RedHat|sudo dnf install shellcheck -y|-r|-arm|-c
+shellcheck-extra2 RedHat x64|sudo dnf install shellcheck -y|-r|-pc|-c
+shfmt-extra2|sudo apt install shfmt -y|-d|-arm|-c
+shfmt-extra2 x64|sudo apt install shfmt -y|-d|-pc|-c
+shfmt-extra2 RedHat|sudo dnf install shfmt -y|-r|-arm|-c
+shfmt-extra2 RedHat x64|sudo dnf install shfmt -y|-r|-pc|-c
+prettier-extra2|sudo apt install prettier -y|-d|-arm|-c
+prettier-extra2 x64|sudo apt install prettier -y|-d|-pc|-c
+prettier-extra2 RedHat|sudo dnf install prettier -y|-r|-arm|-c
+prettier-extra2 RedHat x64|sudo dnf install prettier -y|-r|-pc|-c
+eslint-extra2|sudo apt install eslint -y|-d|-arm|-c
+eslint-extra2 x64|sudo apt install eslint -y|-d|-pc|-c
+eslint-extra2 RedHat|sudo dnf install eslint -y|-r|-arm|-c
+eslint-extra2 RedHat x64|sudo dnf install eslint -y|-r|-pc|-c
+stylelint-extra2|sudo apt install stylelint -y|-d|-arm|-c
+stylelint-extra2 x64|sudo apt install stylelint -y|-d|-pc|-c
+stylelint-extra2 RedHat|sudo dnf install stylelint -y|-r|-arm|-c
+stylelint-extra2 RedHat x64|sudo dnf install stylelint -y|-r|-pc|-c
+black-extra2|sudo apt install black -y|-d|-arm|-c
+black-extra2 x64|sudo apt install black -y|-d|-pc|-c
+black-extra2 RedHat|sudo dnf install black -y|-r|-arm|-c
+black-extra2 RedHat x64|sudo dnf install black -y|-r|-pc|-c
+flake8-extra2|sudo apt install flake8 -y|-d|-arm|-c
+flake8-extra2 x64|sudo apt install flake8 -y|-d|-pc|-c
+flake8-extra2 RedHat|sudo dnf install flake8 -y|-r|-arm|-c
+flake8-extra2 RedHat x64|sudo dnf install flake8 -y|-r|-pc|-c
+pytest-extra2|sudo apt install pytest -y|-d|-arm|-c
+pytest-extra2 x64|sudo apt install pytest -y|-d|-pc|-c
+pytest-extra2 RedHat|sudo dnf install pytest -y|-r|-arm|-c
+pytest-extra2 RedHat x64|sudo dnf install pytest -y|-r|-pc|-c
+tox-extra2|sudo apt install tox -y|-d|-arm|-c
+tox-extra2 x64|sudo apt install tox -y|-d|-pc|-c
+tox-extra2 RedHat|sudo dnf install tox -y|-r|-arm|-c
+tox-extra2 RedHat x64|sudo dnf install tox -y|-r|-pc|-c
+poetry-extra2|sudo apt install poetry -y|-d|-arm|-c
+poetry-extra2 x64|sudo apt install poetry -y|-d|-pc|-c
+poetry-extra2 RedHat|sudo dnf install poetry -y|-r|-arm|-c
+poetry-extra2 RedHat x64|sudo dnf install poetry -y|-r|-pc|-c
+pipenv-extra2|sudo apt install pipenv -y|-d|-arm|-c
+pipenv-extra2 x64|sudo apt install pipenv -y|-d|-pc|-c
+pipenv-extra2 RedHat|sudo dnf install pipenv -y|-r|-arm|-c
+pipenv-extra2 RedHat x64|sudo dnf install pipenv -y|-r|-pc|-c
+rustc-extra2|sudo apt install rustc -y|-d|-arm|-c
+rustc-extra2 x64|sudo apt install rustc -y|-d|-pc|-c
+rustc-extra2 RedHat|sudo dnf install rustc -y|-r|-arm|-c
+rustc-extra2 RedHat x64|sudo dnf install rustc -y|-r|-pc|-c
+cargo-extra2|sudo apt install cargo -y|-d|-arm|-c
+cargo-extra2 x64|sudo apt install cargo -y|-d|-pc|-c
+cargo-extra2 RedHat|sudo dnf install cargo -y|-r|-arm|-c
+cargo-extra2 RedHat x64|sudo dnf install cargo -y|-r|-pc|-c
+go-extra2|sudo apt install go -y|-d|-arm|-c
+go-extra2 x64|sudo apt install go -y|-d|-pc|-c
+go-extra2 RedHat|sudo dnf install go -y|-r|-arm|-c
+go-extra2 RedHat x64|sudo dnf install go -y|-r|-pc|-c
+golang-extra2|sudo apt install golang -y|-d|-arm|-c
+golang-extra2 x64|sudo apt install golang -y|-d|-pc|-c
+golang-extra2 RedHat|sudo dnf install golang -y|-r|-arm|-c
+golang-extra2 RedHat x64|sudo dnf install golang -y|-r|-pc|-c
+zig-extra2|sudo apt install zig -y|-d|-arm|-c
+zig-extra2 x64|sudo apt install zig -y|-d|-pc|-c
+zig-extra2 RedHat|sudo dnf install zig -y|-r|-arm|-c
+zig-extra2 RedHat x64|sudo dnf install zig -y|-r|-pc|-c
+dotnet-sdk-7.0-extra2|sudo apt install dotnet-sdk-7.0 -y|-d|-arm|-c
+dotnet-sdk-7.0-extra2 x64|sudo apt install dotnet-sdk-7.0 -y|-d|-pc|-c
+dotnet-sdk-7.0-extra2 RedHat|sudo dnf install dotnet-sdk-7.0 -y|-r|-arm|-c
+dotnet-sdk-7.0-extra2 RedHat x64|sudo dnf install dotnet-sdk-7.0 -y|-r|-pc|-c
+dotnet-sdk-8.0-extra2|sudo apt install dotnet-sdk-8.0 -y|-d|-arm|-c
+dotnet-sdk-8.0-extra2 x64|sudo apt install dotnet-sdk-8.0 -y|-d|-pc|-c
+dotnet-sdk-8.0-extra2 RedHat|sudo dnf install dotnet-sdk-8.0 -y|-r|-arm|-c
+dotnet-sdk-8.0-extra2 RedHat x64|sudo dnf install dotnet-sdk-8.0 -y|-r|-pc|-c
+mono-devel-extra2|sudo apt install mono-devel -y|-d|-arm|-c
+mono-devel-extra2 x64|sudo apt install mono-devel -y|-d|-pc|-c
+mono-devel-extra2 RedHat|sudo dnf install mono-devel -y|-r|-arm|-c
+mono-devel-extra2 RedHat x64|sudo dnf install mono-devel -y|-r|-pc|-c
+swiftlang-extra2|sudo apt install swiftlang -y|-d|-arm|-c
+swiftlang-extra2 x64|sudo apt install swiftlang -y|-d|-pc|-c
+swiftlang-extra2 RedHat|sudo dnf install swiftlang -y|-r|-arm|-c
+swiftlang-extra2 RedHat x64|sudo dnf install swiftlang -y|-r|-pc|-c
+kotlin-extra2|sudo apt install kotlin -y|-d|-arm|-c
+kotlin-extra2 x64|sudo apt install kotlin -y|-d|-pc|-c
+kotlin-extra2 RedHat|sudo dnf install kotlin -y|-r|-arm|-c
+kotlin-extra2 RedHat x64|sudo dnf install kotlin -y|-r|-pc|-c
+scala-extra2|sudo apt install scala -y|-d|-arm|-c
+scala-extra2 x64|sudo apt install scala -y|-d|-pc|-c
+scala-extra2 RedHat|sudo dnf install scala -y|-r|-arm|-c
+scala-extra2 RedHat x64|sudo dnf install scala -y|-r|-pc|-c
+sbt-extra2|sudo apt install sbt -y|-d|-arm|-c
+sbt-extra2 x64|sudo apt install sbt -y|-d|-pc|-c
+sbt-extra2 RedHat|sudo dnf install sbt -y|-r|-arm|-c
+sbt-extra2 RedHat x64|sudo dnf install sbt -y|-r|-pc|-c
+gradle-extra2|sudo apt install gradle -y|-d|-arm|-c
+gradle-extra2 x64|sudo apt install gradle -y|-d|-pc|-c
+gradle-extra2 RedHat|sudo dnf install gradle -y|-r|-arm|-c
+gradle-extra2 RedHat x64|sudo dnf install gradle -y|-r|-pc|-c
+git-extra3|sudo apt install git -y|-d|-arm|-c
+git-extra3 x64|sudo apt install git -y|-d|-pc|-c
+git-extra3 RedHat|sudo dnf install git -y|-r|-arm|-c
+git-extra3 RedHat x64|sudo dnf install git -y|-r|-pc|-c
+git-lfs-extra3|sudo apt install git-lfs -y|-d|-arm|-c
+git-lfs-extra3 x64|sudo apt install git-lfs -y|-d|-pc|-c
+git-lfs-extra3 RedHat|sudo dnf install git-lfs -y|-r|-arm|-c
+git-lfs-extra3 RedHat x64|sudo dnf install git-lfs -y|-r|-pc|-c
+gh-extra3|sudo apt install gh -y|-d|-arm|-c
+gh-extra3 x64|sudo apt install gh -y|-d|-pc|-c
+gh-extra3 RedHat|sudo dnf install gh -y|-r|-arm|-c
+gh-extra3 RedHat x64|sudo dnf install gh -y|-r|-pc|-c
+gcc-extra3|sudo apt install gcc -y|-d|-arm|-c
+gcc-extra3 x64|sudo apt install gcc -y|-d|-pc|-c
+gcc-extra3 RedHat|sudo dnf install gcc -y|-r|-arm|-c
+gcc-extra3 RedHat x64|sudo dnf install gcc -y|-r|-pc|-c
+g++-extra3|sudo apt install g++ -y|-d|-arm|-c
+g++-extra3 x64|sudo apt install g++ -y|-d|-pc|-c
+g++-extra3 RedHat|sudo dnf install g++ -y|-r|-arm|-c
+g++-extra3 RedHat x64|sudo dnf install g++ -y|-r|-pc|-c
+clang-extra3|sudo apt install clang -y|-d|-arm|-c
+clang-extra3 x64|sudo apt install clang -y|-d|-pc|-c
+clang-extra3 RedHat|sudo dnf install clang -y|-r|-arm|-c
+clang-extra3 RedHat x64|sudo dnf install clang -y|-r|-pc|-c
+llvm-extra3|sudo apt install llvm -y|-d|-arm|-c
+llvm-extra3 x64|sudo apt install llvm -y|-d|-pc|-c
+llvm-extra3 RedHat|sudo dnf install llvm -y|-r|-arm|-c
+llvm-extra3 RedHat x64|sudo dnf install llvm -y|-r|-pc|-c
+cmake-extra3|sudo apt install cmake -y|-d|-arm|-c
+cmake-extra3 x64|sudo apt install cmake -y|-d|-pc|-c
+cmake-extra3 RedHat|sudo dnf install cmake -y|-r|-arm|-c
+cmake-extra3 RedHat x64|sudo dnf install cmake -y|-r|-pc|-c
+meson-extra3|sudo apt install meson -y|-d|-arm|-c
+meson-extra3 x64|sudo apt install meson -y|-d|-pc|-c
+meson-extra3 RedHat|sudo dnf install meson -y|-r|-arm|-c
+meson-extra3 RedHat x64|sudo dnf install meson -y|-r|-pc|-c
+ninja-extra3|sudo apt install ninja -y|-d|-arm|-c
+ninja-extra3 x64|sudo apt install ninja -y|-d|-pc|-c
+ninja-extra3 RedHat|sudo dnf install ninja -y|-r|-arm|-c
+ninja-extra3 RedHat x64|sudo dnf install ninja -y|-r|-pc|-c
+make-extra3|sudo apt install make -y|-d|-arm|-c
+make-extra3 x64|sudo apt install make -y|-d|-pc|-c
+make-extra3 RedHat|sudo dnf install make -y|-r|-arm|-c
+make-extra3 RedHat x64|sudo dnf install make -y|-r|-pc|-c
+pkg-config-extra3|sudo apt install pkg-config -y|-d|-arm|-c
+pkg-config-extra3 x64|sudo apt install pkg-config -y|-d|-pc|-c
+pkg-config-extra3 RedHat|sudo dnf install pkg-config -y|-r|-arm|-c
+pkg-config-extra3 RedHat x64|sudo dnf install pkg-config -y|-r|-pc|-c
+python3-extra3|sudo apt install python3 -y|-d|-arm|-c
+python3-extra3 x64|sudo apt install python3 -y|-d|-pc|-c
+python3-extra3 RedHat|sudo dnf install python3 -y|-r|-arm|-c
+python3-extra3 RedHat x64|sudo dnf install python3 -y|-r|-pc|-c
+python3-pip-extra3|sudo apt install python3-pip -y|-d|-arm|-c
+python3-pip-extra3 x64|sudo apt install python3-pip -y|-d|-pc|-c
+python3-pip-extra3 RedHat|sudo dnf install python3-pip -y|-r|-arm|-c
+python3-pip-extra3 RedHat x64|sudo dnf install python3-pip -y|-r|-pc|-c
+python3-venv-extra3|sudo apt install python3-venv -y|-d|-arm|-c
+python3-venv-extra3 x64|sudo apt install python3-venv -y|-d|-pc|-c
+python3-venv-extra3 RedHat|sudo dnf install python3-venv -y|-r|-arm|-c
+python3-venv-extra3 RedHat x64|sudo dnf install python3-venv -y|-r|-pc|-c
+pipx-extra3|sudo apt install pipx -y|-d|-arm|-c
+pipx-extra3 x64|sudo apt install pipx -y|-d|-pc|-c
+pipx-extra3 RedHat|sudo dnf install pipx -y|-r|-arm|-c
+pipx-extra3 RedHat x64|sudo dnf install pipx -y|-r|-pc|-c
+virtualenv-extra3|sudo apt install virtualenv -y|-d|-arm|-c
+virtualenv-extra3 x64|sudo apt install virtualenv -y|-d|-pc|-c
+virtualenv-extra3 RedHat|sudo dnf install virtualenv -y|-r|-arm|-c
+virtualenv-extra3 RedHat x64|sudo dnf install virtualenv -y|-r|-pc|-c
+nodejs-extra3|sudo apt install nodejs -y|-d|-arm|-c
+nodejs-extra3 x64|sudo apt install nodejs -y|-d|-pc|-c
+nodejs-extra3 RedHat|sudo dnf install nodejs -y|-r|-arm|-c
+nodejs-extra3 RedHat x64|sudo dnf install nodejs -y|-r|-pc|-c
+npm-extra3|sudo apt install npm -y|-d|-arm|-c
+npm-extra3 x64|sudo apt install npm -y|-d|-pc|-c
+npm-extra3 RedHat|sudo dnf install npm -y|-r|-arm|-c
+npm-extra3 RedHat x64|sudo dnf install npm -y|-r|-pc|-c
+yarn-extra3|sudo apt install yarn -y|-d|-arm|-c
+yarn-extra3 x64|sudo apt install yarn -y|-d|-pc|-c
+yarn-extra3 RedHat|sudo dnf install yarn -y|-r|-arm|-c
+yarn-extra3 RedHat x64|sudo dnf install yarn -y|-r|-pc|-c
+pnpm-extra3|sudo apt install pnpm -y|-d|-arm|-c
+pnpm-extra3 x64|sudo apt install pnpm -y|-d|-pc|-c
+pnpm-extra3 RedHat|sudo dnf install pnpm -y|-r|-arm|-c
+pnpm-extra3 RedHat x64|sudo dnf install pnpm -y|-r|-pc|-c
+deno-extra3|sudo apt install deno -y|-d|-arm|-c
+deno-extra3 x64|sudo apt install deno -y|-d|-pc|-c
+deno-extra3 RedHat|sudo dnf install deno -y|-r|-arm|-c
+deno-extra3 RedHat x64|sudo dnf install deno -y|-r|-pc|-c
+openjdk-8-jdk-extra3|sudo apt install openjdk-8-jdk -y|-d|-arm|-c
+openjdk-8-jdk-extra3 x64|sudo apt install openjdk-8-jdk -y|-d|-pc|-c
+openjdk-8-jdk-extra3 RedHat|sudo dnf install openjdk-8-jdk -y|-r|-arm|-c
+openjdk-8-jdk-extra3 RedHat x64|sudo dnf install openjdk-8-jdk -y|-r|-pc|-c
+openjdk-11-jdk-extra3|sudo apt install openjdk-11-jdk -y|-d|-arm|-c
+openjdk-11-jdk-extra3 x64|sudo apt install openjdk-11-jdk -y|-d|-pc|-c
+openjdk-11-jdk-extra3 RedHat|sudo dnf install openjdk-11-jdk -y|-r|-arm|-c
+openjdk-11-jdk-extra3 RedHat x64|sudo dnf install openjdk-11-jdk -y|-r|-pc|-c
+openjdk-17-jdk-extra3|sudo apt install openjdk-17-jdk -y|-d|-arm|-c
+openjdk-17-jdk-extra3 x64|sudo apt install openjdk-17-jdk -y|-d|-pc|-c
+openjdk-17-jdk-extra3 RedHat|sudo dnf install openjdk-17-jdk -y|-r|-arm|-c
+openjdk-17-jdk-extra3 RedHat x64|sudo dnf install openjdk-17-jdk -y|-r|-pc|-c
+maven-extra3|sudo apt install maven -y|-d|-arm|-c
+maven-extra3 x64|sudo apt install maven -y|-d|-pc|-c
+maven-extra3 RedHat|sudo dnf install maven -y|-r|-arm|-c
+maven-extra3 RedHat x64|sudo dnf install maven -y|-r|-pc|-c
+gradle-extra3|sudo apt install gradle -y|-d|-arm|-c
+gradle-extra3 x64|sudo apt install gradle -y|-d|-pc|-c
+gradle-extra3 RedHat|sudo dnf install gradle -y|-r|-arm|-c
+gradle-extra3 RedHat x64|sudo dnf install gradle -y|-r|-pc|-c
+ant-extra3|sudo apt install ant -y|-d|-arm|-c
+ant-extra3 x64|sudo apt install ant -y|-d|-pc|-c
+ant-extra3 RedHat|sudo dnf install ant -y|-r|-arm|-c
+ant-extra3 RedHat x64|sudo dnf install ant -y|-r|-pc|-c
